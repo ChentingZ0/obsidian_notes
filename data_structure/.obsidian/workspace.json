@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "eeb04fbf38455702",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d35817045cef6f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "295cafdb54099545",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "496bef9208ffdbf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trees and Tree Algorithms/Example of trees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04d330a392a89adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trees and Tree Algorithms/Example of trees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a99cb43d43fb1aed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trees and Tree Algorithms/parse tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6cd34d4fd631eeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trees and Tree Algorithms/Tree Traversals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23f23a58b4ac1edb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Heaps/Priority Queues with Binary Heaps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3def55424a7ce45",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cfc7b2477fac98e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c01b8c43121ec36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c2597edbe00f40e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10761fb8a5caec47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c728d70d3739979",
+    "type": "split",
+    "children": [
+      {
+        "id": "17ad45601bd08e53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4c25e3665dccadc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Heaps/Priority Queues with Binary Heaps.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "639255240b7a9512",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Heaps/Priority Queues with Binary Heaps.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c369458659f758d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f83fcfbe63a66c20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Heaps/Priority Queues with Binary Heaps.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6c01b8c43121ec36",
+  "lastOpenFiles": [
+    "Trees and Tree Algorithms/Tree Traversals.md",
+    "Heaps/Priority Queues with Binary Heaps.md",
+    "Untitled",
+    "Heaps",
+    "Trees and Tree Algorithms/parse tree.md",
+    "Trees and Tree Algorithms/Nodes and References.md",
+    "Trees and Tree Algorithms/Example of trees.md",
+    "().md",
+    "Trees and Tree Algorithms"
+  ]
+}

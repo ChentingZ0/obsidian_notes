@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Table Constraints.md",
+                "file": "Table Operations.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table Constraints.md",
+                "file": "Table Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Table Constraints.md",
+                "file": "Table Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Table Constraints.md"
+                "file": "Table Operations.md"
               }
             }
           }
@@ -205,9 +205,9 @@
   },
   "active": "b3d47f378b64f176",
   "lastOpenFiles": [
-    "Table Operations.md",
-    "Table Constraints.md",
     "Query Techniques.md",
+    "Table Constraints.md",
+    "Table Operations.md",
     "Basics.md",
     "Keywords.md"
   ]

@@ -173,3 +173,35 @@ FROM Customers
 `THEN` -> value
 `ELSE` -> other cases
 `END` -> close
+
+#### JOINS
+A better way of combining data
+combine multiple tables based on a condition
+```
+SELECT firstname, lastname, city, number, type
+FROM Customers JOIN PhoneNumbers
+ON Customers.id = PhoneNUmbers.customer_id
+```
+![join](https://lecontent.sololearn.com/material-images/61d86048b6824548b60125a41dffbc2c-2833.png)
+##### set alias
+To avoid long name
+```SQL
+SELECT C.firstname, C.lastname, C.city, PN.number, PN.type
+FROM Customers AS C JOIN PhoneNumbers AS PN
+ON C.id = PN.customer_id
+```
+
+By giving table aliases, use them in the query both in the selected list and in the condition
+
+#### LEFT JOIN
+Returns all rows from the left table, even no matches in the right table
+![leftjoin](https://lecontent.sololearn.com/material-images/ba8229c9dfda4f5da5961ceba583ae4b-2834.png)
+```sql
+SELECT C.firstname, C.lastname, C.city, PN.number, PN.type
+FROM Customers AS C LEFT JOIN PhoneNumbers AS PN
+ON C.id = PN.customer_id
+```
+The result contains all rows from the left table and matching data from the right table
+
+If no match is found for a particular row, **NULL** is returned for the columns of the right table.
+

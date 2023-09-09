@@ -194,7 +194,8 @@ ON C.id = PN.customer_id
 By giving table aliases, use them in the query both in the selected list and in the condition
 
 #### LEFT JOIN
-Returns all rows from the left table, even no matches in the right table
+Returns all rows from the left table, even no matches in the right table.
+Table 1 LEFT JOIN Table 2
 ![leftjoin](https://lecontent.sololearn.com/material-images/ba8229c9dfda4f5da5961ceba583ae4b-2834.png)
 ```sql
 SELECT C.firstname, C.lastname, C.city, PN.number, PN.type
@@ -205,3 +206,9 @@ The result contains all rows from the left table and matching data from the righ
 
 If no match is found for a particular row, **NULL** is returned for the columns of the right table.
 
+#### RIGHT JOIN
+```sql
+SELECT C.firstname, C.lastname, C.city, PN.number, PN.type 
+FROM PhoneNumbers AS PN RIGHT JOIN Customers AS C 
+ON C.id = PN.customer_id ORDER BY C.id
+```

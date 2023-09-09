@@ -212,3 +212,53 @@ SELECT C.firstname, C.lastname, C.city, PN.number, PN.type
 FROM PhoneNumbers AS PN RIGHT JOIN Customers AS C 
 ON C.id = PN.customer_id ORDER BY C.id
 ```
+When to use LEFT JOIN, When to use RIGHT JOIN?
+``
+Example:
+You are working on the library database, which contains the Books and Authors tables.
+Columns of the Books table: **id**, **name**, **year**, **author_id**.
+Columns of the Authors table: **id**, **name**.
+
+Write a query to get the author names and the number of books they have in the Books table.
+
+Note that some authors do not have any books associated with them. In this case, the result needs to include their names and have 0 as the count. The count column should be called books in the result.
+
+In this case, some authors do not have any book and should be given 0, which means we should maintain all authors in the new table,
+so `RIGHT JOIN` is correct.
+
+```sql
+SELECT A.name, COUNT(B.id) AS books
+FROM Books AS B RIGHT JOIN Authors AS A
+ON B.author_id = A.id
+GROUP BY A.name
+ORDER BY books DESC;
+```
+
+
+#### UNION
+To combine data from multiple similar tables into one comprehensive dataset
+```sql
+SELECT firstname, lastname, age FROM Customers
+UNION
+SELECT firstname, lastname, age FROM Contacts 
+```
+
+1. All **SELECT** statements within the **UNION** must have the same number of columns. We can use `NULL` to fill the extra columns.
+2. The columns must also have the same data types. 
+3. Also, the columns in each **SELECT** statement must be in the same order.
+4. Remove duplicates.
+
+Set conditions for each select in the `UNION`
+```SQL
+SELECT firstname, lastname, age 
+FROM Customers 
+WHERE age > 30 
+UNION 
+SELECT firstname, lastname, age 
+FROM Contacts 
+WHERE age < 25
+```
+
+
+#### UNION ALL
+UNION ALL does not remove the duplicates

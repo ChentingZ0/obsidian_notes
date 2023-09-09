@@ -79,3 +79,32 @@ DELET FROM products
 WHERE Price BETWEEN
 5 AND 9
 ```
+
+#### Substring
+take the first three characters from name
+starting from 1, overall 3 characters
+```SQL
+SELECT SUBSTRING(firstname, 1, 3)
+FROM Customers
+```
+
+#### REPLACE
+replace all occurrences of the given string with another one in the city column
+```SQL
+SELECT firstname, lastname,
+REPLACE(city, 'New York', 'NY')
+FROM Customers
+```
+the change is done on the result set, and not on the actual data of the table.
+
+#### Combine
+combine multiple functions into a single query
+create a new column
+```SQL
+SELECT CONCAT(
+	SUBSTRING(firstname, 1, 1),
+	'.'
+	UPPER(lastname)) AS name
+FROM Customers
+```
+

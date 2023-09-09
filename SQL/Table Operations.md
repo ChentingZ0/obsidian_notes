@@ -132,3 +132,44 @@ Delete  an entire table
 ```sql
 DROP TABLE Customers
 ```
+
+#### GROUP BY
+often used in conjunction with aggregate functions: SUM(), MAX()
+
+|product_id| category    | amount |
+|----------| ------------| -------|
+|1         | Electronics | 500.00 |
+|2         | Clothing    | 300.00 |
+|3         | Electronics |  750.00|
+|4         | Clothing    |  200.00|
+|5         | Electronics |  600.00|
+
+```sql
+SELECT category, SUM(amount) AS total_sales_amount
+FROM sales
+GROUP BY category;
+```
+
+| category    | amount  |
+|-------------| --------| 
+| Electronics | 1850.00 |
+|Clothing     |500.00   |
+
+#### CASE
+set the category columns value to 'Senior' in case the age value is greater than 65,
+'Adult' in case in the range of 25 to 64,
+'Youth' under 25
+```SQL
+SELECT firstname, lastname,
+CASE
+	WHEN age >= 65 THEN 'Senior'
+	WHEN age >= 25 AND age < 65 THEN 'Adult'
+	ELSE 'Youth'
+END AS category
+FROM Customers
+```
+
+`WHEN` -> condition
+`THEN` -> value
+`ELSE` -> other cases
+`END` -> close

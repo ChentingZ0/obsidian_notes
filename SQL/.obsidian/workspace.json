@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b3d47f378b64f176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Table Constraints.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table Operations.md",
+                "file": "Table Constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Table Operations.md",
+                "file": "Table Constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Table Operations.md"
+                "file": "Table Constraints.md"
               }
             }
           }
@@ -191,11 +203,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b114b7e012c3fd8",
+  "active": "b3d47f378b64f176",
   "lastOpenFiles": [
+    "Table Operations.md",
+    "Table Constraints.md",
     "Query Techniques.md",
-    "Keywords.md",
     "Basics.md",
-    "Table Operations.md"
+    "Keywords.md"
   ]
 }

@@ -35,9 +35,11 @@
             "id": "ce9809a2139c9cc1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.11"
+                "file": "Conditions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }

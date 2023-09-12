@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e172ff4b527cc18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conditions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31b2c8c6977c0f5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conditions.md",
+                "file": "Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conditions.md",
+                "file": "Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conditions.md"
+                "file": "Arrays.md"
               }
             }
           },
@@ -181,10 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce9809a2139c9cc1",
+  "active": "31b2c8c6977c0f5b",
   "lastOpenFiles": [
-    "Taking User Input.md",
     "Conditions.md",
-    "Basics.md"
+    "Arrays.md",
+    "Basics.md",
+    "Taking User Input.md"
   ]
 }

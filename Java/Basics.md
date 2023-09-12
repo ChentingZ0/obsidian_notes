@@ -51,3 +51,15 @@ a multiple line
 comment */
 ```
 
+##### increment, decrement
+```java
+int x = 8;
+x--;
+x--;
+System.out.println(x);
+```
+
+```java
+x += 1;
+x *= 2;
+```

@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f08310d7179db12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrays.md",
+                "file": "Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrays.md",
+                "file": "Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays.md"
+                "file": "Methods.md"
               }
             }
           },
@@ -205,10 +217,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31b2c8c6977c0f5b",
+  "active": "3f08310d7179db12",
   "lastOpenFiles": [
-    "Conditions.md",
     "Arrays.md",
+    "Methods.md",
+    "Conditions.md",
     "Basics.md",
     "Taking User Input.md"
   ]

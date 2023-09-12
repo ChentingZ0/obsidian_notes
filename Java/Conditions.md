@@ -81,5 +81,15 @@ for(int x=1; x<5; x++){
 	System.out.println(x);
 }
 ```
+##### For-each loop
+the colon after the variable = "for each x in nums"
+easy way to loop over arrays
+```java
+int[] nums = {2, 3, 5, 7};
+for (int x : nums){
+	System.out.println(x);
+}
+```
+
 
 ##### break; continue

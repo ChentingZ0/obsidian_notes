@@ -17,7 +17,7 @@ dog is an object of type **Animal**.
 
 **`public`** is an access modifier, accessible from any other class.
 **`default`** accessible only by classes in the same package
-**`protected`** default + subclasses can access protected methods and variables of the superclass
+**`protected`** default + subclasses can access protected methods and variables of the superclass(Inheritance)
 **`private`** Accessible only within the declared class itself. Better to keep the variables within a class private.
 
 For classes, the available modifers are public or default. For methods and attributes, all available.
@@ -169,4 +169,60 @@ class MyClass{
 }
 ```
 
+#### Encapsulation
+To achieve encapsulation in Java, declare the class variable as **private** and provide public **setter** and **getter** methods to modify the variables' values.
 
+Variable -> private, method -> public. 
+
+#### Inheritance
+Inherits all of the superclass' **non-private** variables and methods
+subclass(child class), superclass(parent class)
+`extends` keyword
+```java
+class Dog [b]extends[/b] Animal{
+// Have the class Dog to inherit from the class Animal
+} 
+```
+
+```java
+class Animal{
+	protected int legs;
+	public void eat(){
+		System.out.println("Animal eats");
+	}
+}
+
+class Dog [b]extends [/b]Animal{
+Dogs(){
+	legs = 4;
+}
+}
+```
+
+The constructor of the superclass is called when the subclass is instantiated.
+
+#### Polymorphism
+One method, with different implementations
+```java
+class Animal {
+  public void makeSound() {
+    System.out.println("Grr...");
+  }
+}
+class Cat extends Animal {
+  public void makeSound() {
+    System.out.println("Meow");
+  }
+}
+class Dog extends Animal {
+  public void makeSound() {
+    System.out.println("Woof");
+  }
+}
+```
+
+#### Overriding&Overloading
+methods with same return type and arguments -> overriding
+methods with same name, but different parameters -> overloading
+A method declared **final** or **static** cannot be overridden
+Constructors cannot be overridden

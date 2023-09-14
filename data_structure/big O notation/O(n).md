@@ -1,7 +1,7 @@
 we mean the worst case wrong time, for example, insert method, we consider insert in the first position, thus all the following elements should move to the next position. That's O(n). If insert in the last element, it will be O(1), similar to append method.
 Examples:
 
-```
+```python
 nums = [1,2,3]
 sum(nums)
 for i in nums:

@@ -1,5 +1,5 @@
 ## Binary search
-```
+```python
 nums = [1,2,3,4,5]
 target = 6
 l,r = 0, len(nums)-1
@@ -17,7 +17,7 @@ while l<=r:
 $2^{x} = n,   n/2/2/2/2../2$ , it's log(n) complexity 
 
 ## Binary search on BST(Binary search Tree)
-```
+```python
 def search(root, target):
 	if not root:
 		return False
@@ -30,7 +30,7 @@ def search(root, target):
 ```
 
 ## Heap push and pop
-```
+```python
 import heapq
 minHeap = []
 heap.heappush(minHeap, 5)

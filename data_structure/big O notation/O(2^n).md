@@ -1,5 +1,5 @@
 ## Recursion
-```
+```python
 def recursion(i, nums):
 	if i == len(nums):
 		return 0

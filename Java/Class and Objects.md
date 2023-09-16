@@ -221,8 +221,106 @@ class Dog extends Animal {
 }
 ```
 
-#### Overriding&Overloading
+#### Overriding & Overloading
 methods with same return type and arguments -> overriding
 methods with same name, but different parameters -> overloading
 A method declared **final** or **static** cannot be overridden
 Constructors cannot be overridden
+
+
+#### Abstraction
+1. The concept of abstraction is that we focus on essential qualities, rather than the specific characteristics of one particular example
+2. In Java, abstraction is achieved using abstract classes and interfaces
+3. An abstract class is defined using the **abstract** keyword
+4. If a class is declared abstract it cannot be instantiated
+5. To use an abstract class, you have to inherit it from another class
+
+```java
+abstract class Animal {
+	int legs = 0;
+	abstract void makeSound();
+}
+
+  
+class Cat extends Animal {
+	public void makeSound() {
+	System.out.println("Meow");
+	}
+}
+
+  
+public class Program {
+public static void main(String[] args)
+{
+	Cat c = new Cat();
+	c.makeSound();
+	}
+}
+```
+Every Animal makes a sound, but each has a different way to do it. That's why we define an abstract class Animal, and leave the implementation of how they make sounds to the subclasses.
+
+This is used when there is no meaningful definition for the method in the superclass.
+
+
+#### Interfaces - implement
+An interface is a completely abstract class that contains only abstract methods
+**interface** keyword
+
+- Each method in an interface is also implicitly abstract, so the abstract keyword is not needed.
+- Use implements keyword to use an interface with your class.
+```java
+class Main {
+public static void main(String[] args) {
+Animal dog = new Dog();
+Animal cat = new Cat();
+dog.swim();
+dog.play();
+cat.swim();
+cat.play();
+}
+}
+
+  
+interface Swimmer {
+void swim();
+}
+
+  
+interface Player {
+void play();
+}
+
+
+//implement the Swimmer and the Player interfaces
+
+abstract class Animal implements Swimmer, Player{
+}
+
+  
+  
+
+class Dog extends Animal {
+//Override the swim() and the play() methods
+public void swim(){
+System.out.println("Dog is swimming");
+}
+public void play(){
+System.out.println("Dog is playing");
+}
+}
+}
+
+  
+
+class Cat extends Animal {
+
+//Override the swim() and the play() methods
+public void swim(){
+System.out.println("Cat is swimming");
+}
+public void play(){
+System.out.println("Cat is playing");
+}
+}
+}
+```

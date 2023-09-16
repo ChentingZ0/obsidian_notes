@@ -280,16 +280,13 @@ cat.play();
 }
 }
 
-  
 interface Swimmer {
 void swim();
 }
 
-  
 interface Player {
 void play();
 }
-
 
 //implement the Swimmer and the Player interfaces
 
@@ -297,8 +294,6 @@ abstract class Animal implements Swimmer, Player{
 }
 
   
-  
-
 class Dog extends Animal {
 //Override the swim() and the play() methods
 public void swim(){
@@ -310,7 +305,6 @@ System.out.println("Dog is playing");
 }
 }
 
-  
 
 class Cat extends Animal {
 
@@ -324,3 +318,69 @@ System.out.println("Cat is playing");
 }
 }
 ```
+
+#### Casting
+Assigning a value of one type to a variable of another type is known as **Type Casting**
+To cast a value to a specific type, syntax:
+```java
+int a = (int) 3.14;
+// result a = 3
+```
+
+For classes, there are two types of casting
+- **Upcasting**
+You can cast an instance of a subclass to its superclass.
+
+- **Downcasting**
+Casting an object of a superclass to its subclass is called **downcasting**.
+```java
+Animal a = new Cat();
+((Cat)a).makeSound();
+```
+
+#### Anonymous Classes
+```java
+class Machine {
+	public void start() {
+		System.out.println("Starting...");
+}
+}
+
+  
+class Program {
+	public static void main(String[ ] args) {
+	Machine m1 = new Machine() {
+		@Override public void start() {
+		System.out.println("Wooooo");
+}
+};
+
+Machine m2 = new Machine();
+m2.start();
+}
+}
+
+// result: Starting...
+```
+The modification is applicable only to the current object, and not the class itself. So if we create another object of that class, the start method's implementation will be the one defined in the class.
+
+#### Inner Classes
+Java supports **nesting** classes; a class can be a member of another class.
+- An inner class can be private. Once you declare an inner class private, it cannot be accessed from an object outside the class.
+
+```java
+class Robot{
+	int id;
+	Robot(int i){
+		id = i;
+		Brain b = new Brain();
+		b.think();
+	}
+	private class Brain{
+		public void think(){
+			System.out.println(id + "is thinking");
+		}
+	}
+}
+```
+

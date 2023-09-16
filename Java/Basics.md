@@ -63,3 +63,19 @@ System.out.println(x);
 x += 1;
 x *= 2;
 ```
+
+
+#### Enums
+Enums is a special type used to define collections of constants
+```java
+enum Rank{
+	SOLDIER,
+	SERGEANT,
+	CAPTAIN
+}
+```
+The values are comma-separated
+You can refer to the constants in the enum with the dot syntax.
+```java
+Rank a = Rank.SOLDIER;
+```

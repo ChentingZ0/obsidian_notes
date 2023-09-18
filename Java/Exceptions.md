@@ -36,3 +36,4 @@ The main difference is that checked exceptions are checked when compiled, while 
 eg. `Thread.sleep()` throws an **InterruptedException**. This is an example of a checked exception. Your code will not compile until you've handled the exception.
 
 Divide by 0 is an example of unchecked exceptions.
+

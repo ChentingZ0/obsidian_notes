@@ -86,9 +86,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8573ae3b54a705f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/LinkedList.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab776ab9a713f23c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/HashMap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -154,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/ArrayList.md",
+                "file": "Java/HashMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/ArrayList.md",
+                "file": "Java/HashMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/ArrayList.md"
+                "file": "Java/HashMap.md"
               }
             }
           }
@@ -215,10 +239,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cf6927404e3c70e",
+  "active": "ab776ab9a713f23c",
   "lastOpenFiles": [
-    "Java/Exceptions.md",
+    "Java/LinkedList.md",
+    "Java/HashMap.md",
     "Java/ArrayList.md",
+    "Java/Exceptions.md",
     "Java/Threads.md",
     "Java/Java API.md",
     "Java/Class and Objects.md",

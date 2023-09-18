@@ -10,3 +10,16 @@ ArrayList colors = new ArrayList();
 ```
 
 You can optionally specify a **capacity** and **type** of objects the ArrayList will hold:
+```java
+ArrayList<String> colors = new ArrayList<String>(10);
+
+```
+
+`add()` method, `remove` method
+```java
+import java.util.ArrayList;
+
+public class MyClass { public static void main(String[ ] args) { ArrayList<String> colors = new ArrayList<String>(); colors.add("Red"); colors.add("Blue"); colors.add("Green"); colors.add("Orange"); colors.remove("Green"); System.out.println(colors); } }
+```
+`contain()`,`get(index)`,`size()`,`clear()`
+

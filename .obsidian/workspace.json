@@ -146,9 +146,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e2e4250bd3045d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data_structure/Graph algorithm/Graphs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e92cf24409b8891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data_structure/Graph algorithm/The word Ladder Problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fd127f4d95c452d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data_structure/Graph algorithm/Breadth First Search(BFS).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c42e208e18723385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data_structure/Graph algorithm/Depth First Search(DFS).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -198,7 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 211.5
   },
   "right": {
     "id": "fdaaef97b21bb56a",
@@ -214,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Exceptions.md",
+                "file": "data_structure/Graph algorithm/Depth First Search(DFS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Exceptions.md",
+                "file": "data_structure/Graph algorithm/Depth First Search(DFS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Exceptions.md"
+                "file": "data_structure/Graph algorithm/Depth First Search(DFS).md"
               }
             }
           }
@@ -275,15 +323,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66c2d781fcc9ff71",
+  "active": "c42e208e18723385",
   "lastOpenFiles": [
+    "data_structure/Graph algorithm/Breadth First Search(BFS).md",
+    "data_structure/Graph algorithm/Depth First Search(DFS).md",
+    "data_structure/Heaps/Priority Queues with Binary Heaps.md",
+    "data_structure/Graph algorithm/Graphs.md",
+    "data_structure/Graph algorithm/The word Ladder Problem.md",
+    "data_structure/Trees and Tree Algorithms/Tree Traversals.md",
+    "data_structure/Trees and Tree Algorithms/parse tree.md",
+    "data_structure/Trees and Tree Algorithms/Nodes and References.md",
+    "data_structure/Trees and Tree Algorithms/Example of trees.md",
+    "Java/Exceptions.md",
+    "data_structure/Graph algorithm",
     "Java/File operation.md",
     "Java/Iterators.md",
     "Java/Sorting Lists.md",
     "Java/HashMap.md",
     "Java/LinkedList.md",
     "Java/ArrayList.md",
-    "Java/Exceptions.md",
     "Java/Threads.md",
     "Java/Java API.md",
     "Java/Class and Objects.md",

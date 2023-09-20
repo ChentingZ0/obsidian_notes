@@ -22,6 +22,6 @@ def bfs(G,v):
 
 
 #### Problems
-- [Shortest Path in Binary Matrix](https://www.youtube.com/watch?v=YnxUdAO7TAo&ab_channel=NeetCodeIO)
+- [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/)
 - Word Ladder
 - Clone Graph

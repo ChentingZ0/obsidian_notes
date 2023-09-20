@@ -1,3 +1,4 @@
+Stack, Queue, Deque
 #### Stack data structure
 last-in first-out
 ![example](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lifo_stack.svg/1280px-Lifo_stack.svg.png)
@@ -12,6 +13,8 @@ first-in first-out
 can access both ends
 ![queue](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221213113312/Queue-Data-Structures.png)
 
-#### Deque
+#### Deque(namely double ended queue)
 double-ended queue. New items can be added at either the front or the rear. Likewise, existing items can be removed from either end.
 `addFront(item)`, `addRear(item)`,`removeFront()`,`removeRear()`
+![deque](https://media.geeksforgeeks.org/wp-content/uploads/anod.png)
+`popleft`, `popright` 

@@ -1,4 +1,4 @@
-level-order traversal of a graphb
+level-order traversal of a graph
 https://www.youtube.com/watch?v=xlVX7dXLS64&ab_channel=Reducible
 visit all the neighboring vertices, then to the next level.
 
@@ -17,3 +17,11 @@ def bfs(G,v):
 					if not marked[w]:
 						queue.append(w)
 ``` 
+
+(Use **HashSet** to detect a duplicate nodes/cycle)
+
+
+#### Problems
+- [Shortest Path in Binary Matrix](https://www.youtube.com/watch?v=YnxUdAO7TAo&ab_channel=NeetCodeIO)
+- Word Ladder
+- Clone Graph

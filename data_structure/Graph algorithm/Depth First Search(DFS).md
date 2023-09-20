@@ -1,7 +1,7 @@
 Pre-order traversal of a graph
 https://www.youtube.com/watch?v=PMMc4VsIacU&ab_channel=Reducible
 Think of yourself as a bold and adventurous explorer where every time you see a new vertex, you will continue to explore new vertices until you hit a dead end in which case you retrace your steps and continue exploration.
-
+For most time, O(n)
 #### DFS Code Implementation 1(Recursive)
 Cleaner and easier to read
 ```python
@@ -17,7 +17,7 @@ def dfs(G,v):
 It's a very smart way to code. Recursively.
 
 #### DFS Code Implementation 2(Iterative)
-use the stack data structure
+use the **stack** data structure
 More generalizable
 ```python
 marked = [False] * G.size()
@@ -49,6 +49,9 @@ def dfs(G,v):
 ```
 
 
-Applications:
-Cycle Detection, Finding Connected Components
+Use HashSet to detect a duplicate nodes/cycle
 
+#### Problems
+- Number of Islands
+- Surrounded Regions
+- Graph Valid Tree

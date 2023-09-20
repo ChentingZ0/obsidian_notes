@@ -8,158 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c81a860b00b413d6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "33e00c38a4a84365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Class and Objects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "839c85ffb7bba6b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Class and Objects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de7d7f4d5286b01f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Java API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "059c33e2df579b7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Exceptions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "339f9fc8080e5f22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Exceptions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cf6927404e3c70e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/ArrayList.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8573ae3b54a705f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/LinkedList.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab776ab9a713f23c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/HashMap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "baab3de1bcbe4ef9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Sorting Lists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c4439c459003f7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Iterators.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66c2d781fcc9ff71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Exceptions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e2e4250bd3045d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data_structure/Graph algorithm/Graphs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8fd127f4d95c452d",
             "type": "leaf",
             "state": {
@@ -170,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c42e208e18723385",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data_structure/Graph algorithm/Graphs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec8e78d3deff4a11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data_structure/Graph algorithm/Breadth First Search(BFS).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bae6a9c6d54bec8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data_structure/Graph algorithm/Breadth First Search(BFS).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -335,34 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bae6a9c6d54bec8e",
+  "active": "8fd127f4d95c452d",
   "lastOpenFiles": [
-    "data_structure/Graph algorithm/Depth First Search(DFS).md",
-    "data_structure/Graph algorithm/Breadth First Search(BFS).md",
-    "data_structure/Stack, Queue, Deque.md",
-    "data_structure/Queue.md",
     "data_structure/Graph algorithm/Graphs.md",
+    "Java/Exceptions.md",
+    "Java/Iterators.md",
+    "Java/Sorting Lists.md",
+    "Java/HashMap.md",
+    "Java/LinkedList.md",
+    "Java/ArrayList.md",
+    "Java/Java API.md",
+    "Java/Class and Objects.md",
+    "data_structure/Graph algorithm/Breadth First Search(BFS).md",
+    "data_structure/Linear Data Structure.md",
+    "data_structure/Graph algorithm/Prim's Algorithm.md",
+    "data_structure/Graph algorithm/Kruskal algorithm.md",
+    "data_structure/Graph algorithm/Union-Find.md",
+    "data_structure/Graph algorithm/Floyd-Warshall algorithm.md",
+    "data_structure/Graph algorithm/Topological Sort.md",
+    "data_structure/Graph algorithm/Bellman-Ford Algorithm.md",
+    "data_structure/Graph algorithm/Dijkstra's Shortest Path Algorithm.md",
+    "data_structure/Graph algorithm/Depth First Search(DFS).md",
+    "data_structure/Queue.md",
     "data_structure/big O notation/Stack.md",
     "data_structure/Graph algorithm/The word Ladder Problem.md",
     "data_structure/Heaps/Priority Queues with Binary Heaps.md",
     "data_structure/Trees and Tree Algorithms/Tree Traversals.md",
     "data_structure/Trees and Tree Algorithms/parse tree.md",
     "data_structure/Trees and Tree Algorithms/Nodes and References.md",
-    "data_structure/Trees and Tree Algorithms/Example of trees.md",
-    "Java/Exceptions.md",
-    "data_structure/Graph algorithm",
-    "Java/File operation.md",
-    "Java/Iterators.md",
-    "Java/Sorting Lists.md",
-    "Java/HashMap.md",
-    "Java/LinkedList.md",
-    "Java/ArrayList.md",
-    "Java/Threads.md",
-    "Java/Java API.md",
-    "Java/Class and Objects.md",
-    "Java/Conditions.md",
-    "Java/Methods.md",
-    "Java/Basics.md",
-    "Java/Taking User Input.md"
+    "data_structure/Graph algorithm"
   ]
 }

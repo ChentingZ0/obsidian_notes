@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Job application/Byte dance 字节跳动/data scientist岗位 笔试.md",
+                "file": "Others.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88485c4548d825e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data_structure/Sorting Algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Job application/Byte dance 字节跳动/data scientist岗位 笔试.md",
+                "file": "data_structure/Sorting Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Job application/Byte dance 字节跳动/data scientist岗位 笔试.md",
+                "file": "data_structure/Sorting Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Job application/Byte dance 字节跳动/data scientist岗位 笔试.md"
+                "file": "data_structure/Sorting Algorithms.md"
               }
             }
           }
@@ -159,12 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a34a683b75a774eb",
+  "active": "88485c4548d825e9",
   "lastOpenFiles": [
     "Others.md",
-    "Job application/Byte dance 字节跳动/data scientist岗位 笔试.md",
-    "Job application/Byte dance 字节跳动",
+    "data_structure/Sorting Algorithms.md",
     "Untitled.md",
+    "Job application/Byte dance 字节跳动/data scientist岗位 笔试.md",
+    "Untitled",
+    "Job application/Byte dance 字节跳动",
     "Job application",
     "Job Application.md",
     "data_structure/Graph algorithm/Breadth First Search(BFS).md",
@@ -188,7 +202,6 @@
     "data_structure/Graph algorithm/Depth First Search(DFS).md",
     "data_structure/Queue.md",
     "data_structure/big O notation/Stack.md",
-    "data_structure/Graph algorithm/The word Ladder Problem.md",
     "data_structure/Graph algorithm"
   ]
 }

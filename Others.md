@@ -7,3 +7,13 @@ fib = fibonacci(n)
 end = time.time()
 print(f'Computing it took {end-start} seconds')
 ```
+
+#### ipdb
+python debugger tool
+```python
+import ipdb
+...
+ipdb.set_trace()
+...
+```
+`ipdb> s` means going to the next line

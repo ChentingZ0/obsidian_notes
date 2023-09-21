@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "a34a683b75a774eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Others.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "88485c4548d825e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data_structure/Sorting Algorithms.md",
+                "file": "Big data/Spark.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data_structure/Sorting Algorithms.md",
+                "file": "Big data/Spark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data_structure/Sorting Algorithms.md",
+                "file": "Big data/Spark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data_structure/Sorting Algorithms.md"
+                "file": "Big data/Spark.md"
               }
             }
           }
@@ -173,11 +161,12 @@
   },
   "active": "88485c4548d825e9",
   "lastOpenFiles": [
-    "Others.md",
     "data_structure/Sorting Algorithms.md",
+    "Big data/Spark.md",
+    "Big data",
+    "Others.md",
     "Untitled.md",
     "Job application/Byte dance 字节跳动/data scientist岗位 笔试.md",
-    "Untitled",
     "Job application/Byte dance 字节跳动",
     "Job application",
     "Job Application.md",
@@ -201,7 +190,6 @@
     "data_structure/Graph algorithm/Dijkstra's Shortest Path Algorithm.md",
     "data_structure/Graph algorithm/Depth First Search(DFS).md",
     "data_structure/Queue.md",
-    "data_structure/big O notation/Stack.md",
     "data_structure/Graph algorithm"
   ]
 }

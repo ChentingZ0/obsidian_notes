@@ -42,3 +42,7 @@ Log-based message brokers durably store all events in a sequential log.
 Distributed, topic-oriented, partitioned, replicated commit log serivice.
 ![[Pasted image 20230922170504.png]]
 
+#### Spark Streaming
+**DStream**: sequence of RDDs representing a stream of data.
+![[Pasted image 20230925153240.png]]
+

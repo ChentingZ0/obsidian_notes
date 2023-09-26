@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data_structure/Graph algorithm/Breadth First Search(BFS).md",
+                "file": "data_structure/Linear Data Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 200
   },
   "right": {
     "id": "fdaaef97b21bb56a",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data_structure/Sorting Algorithms.md",
+                "file": "data_structure/Linear Data Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data_structure/Sorting Algorithms.md",
+                "file": "data_structure/Linear Data Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data_structure/Sorting Algorithms.md"
+                "file": "data_structure/Linear Data Structure.md"
               }
             }
           }
@@ -171,18 +170,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88485c4548d825e9",
+  "active": "8fd127f4d95c452d",
   "lastOpenFiles": [
-    "Others.md",
     "data_structure/Sorting Algorithms.md",
+    "data_structure/Graph algorithm/Prim's Algorithm.md",
+    "data_structure/Graph algorithm/Kruskal algorithm.md",
+    "data_structure/Graph algorithm/Graphs basics.md",
+    "data_structure/Graph algorithm/Graph coloring (Deadlock detection).md",
+    "data_structure/Graph algorithm/Floyd-Warshall algorithm.md",
+    "data_structure/Graph algorithm/Topological Sort.md",
+    "data_structure/Linear Data Structure.md",
+    "data_structure/Graph algorithm/Breadth First Search(BFS).md",
+    "data_structure/Graph algorithm/Depth First Search(DFS).md",
+    "Others.md",
     "Untitled.md",
     "Job application/Byte dance 字节跳动/data scientist岗位 笔试.md",
     "Untitled",
     "Job application/Byte dance 字节跳动",
     "Job application",
     "Job Application.md",
-    "data_structure/Graph algorithm/Breadth First Search(BFS).md",
-    "data_structure/Graph algorithm/Graphs.md",
     "Java/Exceptions.md",
     "Java/Iterators.md",
     "Java/Sorting Lists.md",
@@ -191,17 +197,10 @@
     "Java/ArrayList.md",
     "Java/Java API.md",
     "Java/Class and Objects.md",
-    "data_structure/Linear Data Structure.md",
-    "data_structure/Graph algorithm/Prim's Algorithm.md",
-    "data_structure/Graph algorithm/Kruskal algorithm.md",
     "data_structure/Graph algorithm/Union-Find.md",
-    "data_structure/Graph algorithm/Floyd-Warshall algorithm.md",
-    "data_structure/Graph algorithm/Topological Sort.md",
     "data_structure/Graph algorithm/Bellman-Ford Algorithm.md",
     "data_structure/Graph algorithm/Dijkstra's Shortest Path Algorithm.md",
-    "data_structure/Graph algorithm/Depth First Search(DFS).md",
     "data_structure/Queue.md",
-    "data_structure/big O notation/Stack.md",
     "data_structure/Graph algorithm"
   ]
 }

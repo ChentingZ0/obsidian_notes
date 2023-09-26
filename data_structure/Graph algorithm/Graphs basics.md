@@ -35,5 +35,38 @@ The graph abstract data type (ADT) is defined as follows:
 - `in` returns `True` for a statement of the form `vertex in graph`, if the given vertex is in the graph, `False` otherwise.
 
 
-#### An Adjacency Matrix
-![Adjacency Matrix](https://runestone.academy/ns/books/published/pythonds/_images/adjMat.png)
+
+#### Representations of Graph
+1. Adjacency Matrix
+If there is an edge from vertex i to j, mark $adjMat[i][j] = 1$, otherwise mark $adjMat[i][j] = 0$
+![undirected](https://media.geeksforgeeks.org/wp-content/uploads/20230727130331/Undirected_to_Adjacency_matrix.png)
+![DAG](https://media.geeksforgeeks.org/wp-content/uploads/20230727130528/Directed_to_Adjacency_matrix.png)
+
+
+
+2. Adjacency List
+$adjList[0]$ will have all the nodes which are connected (neighbour) to vertex 0
+$adjList[1]$ will have all the nodes which are connected (neighbour) to vertex 1 and so on.
+
+The below undirected graph has 3 vertices. So, an array of list will be created of size 3, where each indices represent the vertices. Now, vertex 0 has two neighbours (i.e, 1 and 2). So, insert vertex 1 and 2 at indices 0 of array. Similarly, For vertex 1, it has two neighbour (i.e, 2 and 1) So, insert vertices 2 and 1 at indices 1 of array. Similarly, for vertex 2, insert its neighbours in array of list.
+![adjacency list](https://media.geeksforgeeks.org/wp-content/uploads/20230727154843/Graph-Representation-of-Undirected-graph-to-Adjacency-List.png)
+
+```java
+class Graph{
+    private int numVertices;
+    private LinkedList<integer> adjLists[];
+}
+```
+
+```python
+graph = {'A': set(['B', 'C']),
+         'B': set(['A', 'D', 'E']),
+         'C': set(['A', 'F']),
+         'D': set(['B']),
+         'E': set(['B', 'F']),
+         'F': set(['C', 'E'])}
+```
+
+```python
+adj = [[] for _ in range(numCourses)]
+```

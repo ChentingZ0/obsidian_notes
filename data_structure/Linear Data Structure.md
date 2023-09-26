@@ -17,4 +17,4 @@ can access both ends
 double-ended queue. New items can be added at either the front or the rear. Likewise, existing items can be removed from either end.
 `addFront(item)`, `addRear(item)`,`removeFront()`,`removeRear()`
 ![deque](https://media.geeksforgeeks.org/wp-content/uploads/anod.png)
-`popleft`, `popright` 
+`popleft()`, `popright()`

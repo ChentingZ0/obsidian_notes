@@ -37,3 +37,12 @@ O(n)
 Heap is the faster data structure for priority queue.
 For smaller number priority, use min heap
 For large number priority, use max heap
+```python
+minHeap = [(0, k), (..,..)]
+while minHeap:
+	w1, n1 = heapq.heappop(minHeap)
+
+...
+
+heapq.heappush(minHeap,(w1+w2, n2))
+```

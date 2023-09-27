@@ -1,2 +1,0 @@
-#### Problem
-Minimum Spanning Tree

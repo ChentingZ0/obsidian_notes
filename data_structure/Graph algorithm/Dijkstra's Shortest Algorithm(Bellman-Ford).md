@@ -24,7 +24,7 @@ Time complexity: $O(Elog(V))$
 Data Structure: Minimum Heap(priority queue), HashSet
  
 #### Problems
-- Network Delay Time
+- [Network Delay Time](https://www.youtube.com/watch?v=EaphyqKU4PQ&ab_channel=NeetCode)
 - Cheapest Flights Within K Stops
 
 

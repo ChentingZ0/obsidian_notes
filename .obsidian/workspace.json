@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data_structure/Heaps/Priority Queues with Binary Heaps.md",
+                "file": "data_structure/Graph algorithm/Dijkstra's Shortest Algorithm(Bellman-Ford).md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data_structure/Heaps/Priority Queues with Binary Heaps.md",
+                "file": "data_structure/Graph algorithm/Dijkstra's Shortest Algorithm(Bellman-Ford).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data_structure/Heaps/Priority Queues with Binary Heaps.md",
+                "file": "data_structure/Graph algorithm/Dijkstra's Shortest Algorithm(Bellman-Ford).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data_structure/Heaps/Priority Queues with Binary Heaps.md"
+                "file": "data_structure/Graph algorithm/Dijkstra's Shortest Algorithm(Bellman-Ford).md"
               }
             }
           }
@@ -172,19 +172,20 @@
   },
   "active": "8fd127f4d95c452d",
   "lastOpenFiles": [
+    "data_structure/Graph algorithm/Minimum Spanning Tree.md",
+    "data_structure/Graph algorithm/Topological Sort.md",
+    "data_structure/Graph algorithm/Prim's Algorithm.md",
     "data_structure/Graph algorithm/Dijkstra's Shortest Algorithm(Bellman-Ford).md",
+    "data_structure/Graph algorithm/Depth First Search(DFS).md",
+    "data_structure/Graph algorithm/Breadth First Search(BFS).md",
+    "data_structure/Heaps/Priority Queues with Binary Heaps.md",
     "data_structure/Graph algorithm/Dijkstra's Shortest Path Algorithm.md",
     "data_structure/Graph algorithm/Union-Find.md",
     "data_structure/Linear Data Structure.md",
-    "data_structure/Heaps/Priority Queues with Binary Heaps.md",
-    "data_structure/Graph algorithm/Breadth First Search(BFS).md",
     "data_structure/Graph algorithm/Graphs basics.md",
     "data_structure/Graph algorithm/Graph coloring (Deadlock detection).md",
-    "data_structure/Graph algorithm/Topological Sort.md",
-    "data_structure/Graph algorithm/Prim's Algorithm.md",
     "Job application/小米/软开笔试.md",
     "Job application/小米软开岗.md",
-    "data_structure/Graph algorithm/Depth First Search(DFS).md",
     "Pasted image 20230925153240.png",
     "Pasted image 20230923002103.png",
     "Pasted image 20230923002039.png",
@@ -198,7 +199,6 @@
     "Big data/Spark.md",
     "Big data",
     "data_structure/Sorting Algorithms.md",
-    "data_structure/Graph algorithm/Kruskal algorithm.md",
     "data_structure/Graph algorithm/Floyd-Warshall algorithm.md",
     "Others.md",
     "Untitled.md",

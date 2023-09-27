@@ -16,7 +16,9 @@ until it doesn't change
 
 Time complexity: 
 minimum: $O(n^2)$, maximum: $O(n^3)$(if the graph is complete graph)
-
+#### Problems:
+- [Cheapest Flights Within K Stops](https://www.youtube.com/watch?v=5eIK3zUdYmE&ab_channel=NeetCode)
+(cannot simply use Dijkstra's because of the condition at most K stops)
 ### Dijkstra's Shortest path 
 (Similar to Bellman-Ford Algorithm)
 Single Source Shortest Path
@@ -25,7 +27,7 @@ Data Structure: Minimum Heap(priority queue), HashSet
  
 #### Problems
 - [Network Delay Time](https://www.youtube.com/watch?v=EaphyqKU4PQ&ab_channel=NeetCode)
-- Cheapest Flights Within K Stops
+
 
 
 

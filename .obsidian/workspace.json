@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data_structure/Graph algorithm/Union-Find.md",
+                "file": "data_structure/Graph algorithm/Union-Find(Disjoint Set).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data_structure/Graph algorithm/Union-Find.md",
+                "file": "data_structure/Graph algorithm/Union-Find(Disjoint Set).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data_structure/Graph algorithm/Union-Find.md",
+                "file": "data_structure/Graph algorithm/Union-Find(Disjoint Set).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data_structure/Graph algorithm/Union-Find.md"
+                "file": "data_structure/Graph algorithm/Union-Find(Disjoint Set).md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "88485c4548d825e9",
   "lastOpenFiles": [
     "data_structure/Graph algorithm/Topological Sort.md",
+    "data_structure/Graph algorithm/Union-Find(Disjoint Set).md",
     "data_structure/Graph algorithm/Minimum Spanning Tree.md",
     "data_structure/Graph algorithm/Floyd-Warshall algorithm.md",
     "data_structure/Graph algorithm/Dijkstra's Shortest Algorithm(Bellman-Ford).md",
@@ -156,7 +157,6 @@
     "data_structure/Sorting Algorithms.md",
     "data_structure/Graph algorithm/Depth First Search(DFS).md",
     "data_structure/Graph algorithm/Graph coloring (Deadlock detection).md",
-    "data_structure/Graph algorithm/Union-Find.md",
     "data_structure/Linear Data Structure.md",
     "Others.md",
     "data_structure/Graph algorithm/Prim's Algorithm.md",

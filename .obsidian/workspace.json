@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data_structure/Sorting Algorithms/Quick Sort.md",
+                "file": "data_structure/Heaps/Priority Queues with Binary Heaps.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data_structure/Sorting Algorithms/Quick Sort.md",
+                "file": "data_structure/Heaps/Priority Queues with Binary Heaps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data_structure/Sorting Algorithms/Quick Sort.md",
+                "file": "data_structure/Heaps/Priority Queues with Binary Heaps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data_structure/Sorting Algorithms/Quick Sort.md"
+                "file": "data_structure/Heaps/Priority Queues with Binary Heaps.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "6537e204c85de093",
   "lastOpenFiles": [
-    "data_structure/Sorting Algorithms/Bubble Sort.md",
-    "data_structure/Sorting Algorithms/Selection Sort.md",
-    "data_structure/Sorting Algorithms/Quick Sort.md",
-    "data_structure/Sorting Algorithms/Merge Sort.md",
-    "data_structure/Sorting Algorithms/Insertion Sort.md",
     "data_structure/Sorting Algorithms/Heap Sort.md",
+    "data_structure/Sorting Algorithms/Selection Sort.md",
+    "data_structure/Sorting Algorithms/Merge Sort.md",
+    "data_structure/Sorting Algorithms/Quick Sort.md",
+    "data_structure/Sorting Algorithms/Insertion Sort.md",
+    "data_structure/Sorting Algorithms/Bubble Sort.md",
     "data_structure/Sorting Algorithms.md",
     "Others.md",
     "data_structure/Sorting Algorithms",

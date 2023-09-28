@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88485c4548d825e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data_structure/Graph algorithm/Union-Find(Disjoint Set).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6537e204c85de093",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data_structure/Sorting Algorithms.md",
+                "file": "data_structure/Sorting Algorithms/Quick Sort.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data_structure/Sorting Algorithms.md",
+                "file": "data_structure/Sorting Algorithms/Quick Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data_structure/Sorting Algorithms.md",
+                "file": "data_structure/Sorting Algorithms/Quick Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data_structure/Sorting Algorithms.md"
+                "file": "data_structure/Sorting Algorithms/Quick Sort.md"
               }
             }
           }
@@ -161,6 +148,15 @@
   },
   "active": "6537e204c85de093",
   "lastOpenFiles": [
+    "data_structure/Sorting Algorithms/Bubble Sort.md",
+    "data_structure/Sorting Algorithms/Selection Sort.md",
+    "data_structure/Sorting Algorithms/Quick Sort.md",
+    "data_structure/Sorting Algorithms/Merge Sort.md",
+    "data_structure/Sorting Algorithms/Insertion Sort.md",
+    "data_structure/Sorting Algorithms/Heap Sort.md",
+    "data_structure/Sorting Algorithms.md",
+    "Others.md",
+    "data_structure/Sorting Algorithms",
     "Pasted image 20230928142433.png",
     "data_structure/Graph algorithm/Topological Sort.md",
     "data_structure/Graph algorithm/Union-Find(Disjoint Set).md",
@@ -168,28 +164,20 @@
     "data_structure/Graph algorithm/Floyd-Warshall algorithm.md",
     "data_structure/Graph algorithm/Dijkstra's Shortest Algorithm(Bellman-Ford).md",
     "data_structure/Graph algorithm/Graphs basics.md",
-    "data_structure/Sorting Algorithms.md",
     "data_structure/Graph algorithm/Depth First Search(DFS).md",
     "data_structure/Graph algorithm/Graph coloring (Deadlock detection).md",
     "data_structure/Linear Data Structure.md",
-    "Others.md",
     "data_structure/Graph algorithm/Prim's Algorithm.md",
     "data_structure/Graph algorithm/Kruskal algorithm.md",
     "data_structure/Graph algorithm/Breadth First Search(BFS).md",
     "Untitled.md",
     "Job application/Byte dance 字节跳动/data scientist岗位 笔试.md",
-    "Untitled",
     "Job application/Byte dance 字节跳动",
     "Job application",
     "Job Application.md",
     "Java/Exceptions.md",
     "Java/Iterators.md",
     "Java/Sorting Lists.md",
-    "Java/HashMap.md",
-    "Java/LinkedList.md",
-    "Java/ArrayList.md",
-    "Java/Java API.md",
-    "Java/Class and Objects.md",
     "data_structure/Graph algorithm"
   ]
 }

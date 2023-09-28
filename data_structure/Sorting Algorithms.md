@@ -77,10 +77,53 @@ mergeSort(alist)
 print(alist)		
 ```
 
-### Heapsort
+Time complexity analysis:
+Firstly, split into halves, we divide a list in half $log(n)$ times
+For the merge part,each item will be processed and placed on the sorted list. So the merge operation results in a list of size n requires n operations. Merge sort is an $O(nlog(n))$ algorithm.
+
+### Heap Sort
 
 
-### Quicksort
+### Quick Sort
+Divide and conquer algorithm
+Similar to merge sort while not using additional storage. 
+The whole procedure could be divided into several steps:
+
+1. Partition:
+Firstly, select a value called the **pivot value**. Conventionally choose the first item in the list. 
+Then do the partition: move the items smaller than pivot to the left, move the items larger than pivot to the right. Return the split point(the correct place where pivot value should locate)
+
+```python
+def partition(list, first, last):
+	pivotvalue = list[first]
+	
+	leftmark = first + 1
+	rightmark = last
+
+	done = False  # boolean variable
+	while not done:
+		while leftmark <= rightmark and list[leftmark] <= pivotvalue:
+			leftmark += 1
+		while list[rightmark] >= pivotvalue and rightmark >= leftmark:
+			rightmark -= 1
+		if rightmark < leftmark:
+			done = True
+		else:
+		# interchange
+			temp = list[leftmark]
+			list[leftmark] = list[rightmark]
+			list[rightmark] = temp
+	# done: move the pivot to its correct place(rightmark)
+	temp = list[first]
+	list[first] = list[rightmark]
+	list[rightmark] = temp
+
+	return rightmark
+
+alist = [54,26,93,17,77,31,44,55,20]
+quickSort(alist)
+print(alist)
+```
 
 
 

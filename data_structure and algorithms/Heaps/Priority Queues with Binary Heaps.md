@@ -1,4 +1,4 @@
-priority queue is a useful data structure for some of the [[graph algorithms]]
+priority queue is a useful data structure for some of the [[Graph Processing]]
 
 Classic way to implement a priority queue is using Binary heap.
 

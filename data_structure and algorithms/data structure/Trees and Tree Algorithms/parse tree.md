@@ -2,7 +2,7 @@ $(7+3)\times(5-2)$
 ![structure](https://runestone.academy/ns/books/published/pythonds/_images/meParse.png)
 [explanation](https://runestone.academy/ns/books/published/pythonds/Trees/ParseTree.html)
 
-```
+```python
 from pythonds.basic import Stack
 from pythonds.trees import BinaryTree
 

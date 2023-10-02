@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data_structure and algorithms/Graph algorithm/Breadth First Search(BFS).md",
+                "file": "Big data/Resource management.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data_structure and algorithms/Graph algorithm/Breadth First Search(BFS).md",
+                "file": "Big data/Resource management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data_structure and algorithms/Graph algorithm/Breadth First Search(BFS).md",
+                "file": "Big data/Resource management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data_structure and algorithms/Graph algorithm/Breadth First Search(BFS).md"
+                "file": "Big data/Resource management.md"
               }
             }
           }
@@ -148,12 +148,18 @@
   },
   "active": "6537e204c85de093",
   "lastOpenFiles": [
+    "Big data/Graph Processing.md",
+    "Big data/Streaming Processing.md",
+    "Big data/Resource management.md",
+    "Pasted image 20231002171847.png",
+    "Pasted image 20231002171814.png",
+    "pictures/Pasted image 20230930202618.png",
+    "pictures/Pasted image 20231002153427.png",
+    "data_structure and algorithms/Graph algorithm/Breadth First Search(BFS).md",
     "data_structure and algorithms/Graph algorithm/Depth First Search(DFS).md",
     "data_structure and algorithms/Graph algorithm/Union-Find(Disjoint Set).md",
-    "data_structure and algorithms/Graph algorithm/Breadth First Search(BFS).md",
     "data_structure and algorithms/Linear Data Structure.md",
-    "Pasted image 20230930211851.png",
-    "Pasted image 20230930202618.png",
+    "pictures/Pasted image 20230930211851.png",
     "data_structure and algorithms/Dynamic programming/Untitled.md",
     "data_structure and algorithms/Sorting Algorithms/Selection Sort.md",
     "data_structure and algorithms/Sorting Algorithms/Quick Sort.md",
@@ -161,17 +167,12 @@
     "data_structure and algorithms/Sorting Algorithms/Heap Sort.md",
     "data_structure and algorithms/Sorting Algorithms/Insertion Sort.md",
     "data_structure and algorithms/Sorting Algorithms/Bubble Sort.md",
-    "Big data/Graph Processing.md",
-    "Big data/Streaming Processing.md",
     "Big data/Spark.md",
     "pictures/Pasted image 20230929144427.png",
     "pictures/Pasted image 20230929142949.png",
     "pictures/Pasted image 20230929142856.png",
     "pictures/Pasted image 20230929142848.png",
     "pictures/Pasted image 20230929132523.png",
-    "pictures/Pasted image 20230929132515.png",
-    "pictures/Pasted image 20230928142433.png",
-    "pictures/Pasted image 20230925153240.png",
     "pictures",
     "Others.md",
     "data_structure and algorithms/Untitled.md",
@@ -185,8 +186,6 @@
     "data_structure and algorithms/Graph algorithm/Dijkstra's Shortest Algorithm(Bellman-Ford).md",
     "data_structure and algorithms/Graph algorithm/Graphs basics.md",
     "data_structure and algorithms/Graph algorithm/Graph coloring (Deadlock detection).md",
-    "data_structure/Graph algorithm/Prim's Algorithm.md",
-    "data_structure/Graph algorithm/Kruskal algorithm.md",
     "Job application/Byte dance 字节跳动",
     "Job application",
     "data_structure and algorithms/Graph algorithm"

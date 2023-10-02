@@ -1,6 +1,6 @@
 #### web page
 an example of a web page written using HTML.
-```
+```html
 <html xmlns="http://www.w3.org/1999/xhtml"
       xml:lang="en" lang="en">
 <head>
@@ -21,7 +21,7 @@ an example of a web page written using HTML.
 ![structure](https://runestone.academy/ns/books/published/pythonds/_images/htmltree.png)
 
 #### List representation of tree structure
-```
+```python
 myTree = ['a',   #root
       ['b',  #left subtree
        ['d', [], []],

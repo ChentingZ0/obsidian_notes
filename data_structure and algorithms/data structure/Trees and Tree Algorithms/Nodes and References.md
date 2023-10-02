@@ -1,7 +1,7 @@
 define a class has attributes for 
 root value, left subtree, right subtree.
 
-```
+```python
 class BinaryTree:
 	def __init__(self, rootObj):
 		self.key = rootObj

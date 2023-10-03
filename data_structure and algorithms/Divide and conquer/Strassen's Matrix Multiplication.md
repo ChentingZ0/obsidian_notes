@@ -15,8 +15,8 @@ Time complexity is $O(n^3)$
 
 What if the dimension n goes large??!
 Break into small problems -> For large matrix n, partition it into four $n/2\times n/2$ matrices. The base case is $1\times 1$ matrix. 
-![[Pasted image 20231002230850.png]]
-![[Pasted image 20231002231413.png]]
+![[Pasted image 20231002230850 1.png]]
+![[Pasted image 20231002231413 1.png]]
 The algorithm goes: (pseudo code)
 ```python
 def Matrix_Multiply_Recursive(A,B):
@@ -40,7 +40,7 @@ Multiplying partitioned matrices takes 8 times, each is n/2 dimension -> 8T(n/2)
 Adding partitioned matrices takes $O(n^2)$
 
 #### Strassen's method
-![[Pasted image 20231002234025.png]]
+![[Pasted image 20231002234025 1.png]]
 reduce the times of multiplication, math game?! :D
 $T(n) = 7T(n/2) + O(n^2)$ if n > 1
 

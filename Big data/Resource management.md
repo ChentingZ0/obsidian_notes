@@ -10,9 +10,9 @@ Max-Min fairness: DRF
 
 ### Yarn
 [youtube video](https://www.youtube.com/watch?v=KqaPMCMHH4g&ab_channel=Simplilearn)
-![[Pasted image 20231002171814.png]]
+![[Pasted image 20231002171814 1.png]]
 Three important elements:
-![[Pasted image 20231002171847.png]]
+![[Pasted image 20231002171847 1.png]]
 ***ResourceManager****(RM)
 - run several services, including **resource scheduler**, and ApplicationMaster.
 - Mediate the available resources in the cluster among competing applications, with the goal of maximum cluster utilization.

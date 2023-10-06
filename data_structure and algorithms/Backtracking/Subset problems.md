@@ -1,6 +1,8 @@
 ### Subsets
 [leetcode](https://leetcode.com/problems/subsets/description/)
 Decision tree:
+for every element, either choose or not choose
+
 ![[Pasted image 20231006215434.png]]
 
 Still hold the general pattern
@@ -21,3 +23,6 @@ class Solution:
 		dfs(0)
 		return res
 ```
+
+
+### 

@@ -13,10 +13,13 @@ class Solution {
 
 
 	private void backtrack(List<List<Integer>> resultList, ArrayList<Integer> tempList, int[] nums){ 
+	// base case
 	if(tempList.size() == nums.length){
 	resultList.add(new ArrayList<>(tempList));
 	return; }  
+
 	for(int number : nums){ 
+	// skip if add the same element
 		if (tempList.contains(number)) 
 			continue; 
 		tempList.add(number); 

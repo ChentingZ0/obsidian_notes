@@ -9,6 +9,16 @@ Node-based binary tree data structure:
 ![binary search tree](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221215114732/bst-21.png)
 
 Search, insert, or delete in a binary search tree in $O(log(n))$ time in average case.
-
+```python
+ class TreeNode:
+	 def __init__(self, x):
+		  self.val = x
+		  self.left = None
+		  self.right = None
+```
+In the above case:
+$root = [8,3,10,1,6,null,14,null,null,4,7,13,null]$
 ### Implementation
 
+[Kth smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/)
+[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)

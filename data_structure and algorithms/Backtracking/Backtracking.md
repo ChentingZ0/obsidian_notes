@@ -25,5 +25,5 @@ Pretty much like finding all possible solutions, return all distinct solutions
 
 ### Implementation
 [[N Queens problem]]
-[[Subset problem]]
+[[Subset problems]]
 [[graph coloring problem]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data_structure and algorithms/Backtracking/N Queens problem.md",
+                "file": "data_structure and algorithms/Backtracking/Subset problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data_structure and algorithms/Backtracking/N Queens problem.md",
+                "file": "data_structure and algorithms/Backtracking/Subset problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data_structure and algorithms/Backtracking/N Queens problem.md",
+                "file": "data_structure and algorithms/Backtracking/Subset problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data_structure and algorithms/Backtracking/N Queens problem.md"
+                "file": "data_structure and algorithms/Backtracking/Subset problems.md"
               }
             }
           }
@@ -148,12 +148,15 @@
   },
   "active": "6537e204c85de093",
   "lastOpenFiles": [
-    "data_structure and algorithms/Backtracking/Permutations of a string.md",
-    "data_structure and algorithms/Backtracking/Subset problem.md",
-    "data_structure and algorithms/Backtracking/Backtracking.md",
+    "Pasted image 20231006215434.png",
     "data_structure and algorithms/Backtracking/N Queens problem.md",
-    "data_structure and algorithms/Backtracking/graph coloring problem.md",
+    "Pasted image 20231006215155.png",
+    "Pasted image 20231006215149.png",
+    "data_structure and algorithms/Backtracking/Subset problems.md",
+    "data_structure and algorithms/Backtracking/Backtracking.md",
     "data_structure and algorithms/Backtracking/Branch and Bound.md",
+    "data_structure and algorithms/Backtracking/graph coloring problem.md",
+    "data_structure and algorithms/Backtracking/Permutations of a string.md",
     "data_structure and algorithms/data structure/Trees and Tree Algorithms/Binary Search Tree.md",
     "data_structure and algorithms/Backtracking",
     "data_structure and algorithms/data structure/Trees and Tree Algorithms/Tree.md",
@@ -166,8 +169,6 @@
     "pictures/Pasted image 20231003191715.png",
     "pictures/Pasted image 20231003191654.png",
     "pictures/Pasted image 20231003191330.png",
-    "pictures/Pasted image 20231002234025.png",
-    "pictures/Pasted image 20231002234025 1.png",
     "data_structure and algorithms/data structure/Trees and Tree Algorithms/Red-Black Tree.md",
     "data_structure and algorithms/Graph algorithms/Union-Find(Disjoint Set).md",
     "data_structure and algorithms/Graph algorithms/Topological Sort.md",
@@ -185,7 +186,6 @@
     "data_structure and algorithms/data structure/Trees and Tree Algorithms/Tree Traversals.md",
     "data_structure and algorithms/data structure/Trees and Tree Algorithms/Nodes and References.md",
     "data_structure and algorithms/data structure/Trees and Tree Algorithms/Example of trees.md",
-    "data_structure and algorithms/Dynamic programming/Untitled.md",
     "data_structure and algorithms/Greedy Method",
     "data_structure and algorithms/data structure",
     "data_structure and algorithms/Divide and conquer",

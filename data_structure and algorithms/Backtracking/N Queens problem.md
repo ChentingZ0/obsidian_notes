@@ -1,4 +1,9 @@
 [leetcode](https://leetcode.com/problems/n-queens/)
+
+Draw the decision tree:
+![[Pasted image 20231006215155.png]]
+
+**Programming mindset**:
 Choice: 
 Which column do we place our queen in at every row. Make a choice at every row.
 
@@ -7,7 +12,6 @@ not place in the same row, column, diagonal
 
 Goal:
 n columns of queens place, finished the recursion and we can backtrack to the most recent spot and keep 
-
 
 [Well explained video](https://www.youtube.com/watch?v=wGbuCyNpxIg&ab_channel=BackToBackSWE)
 Main procedure(key): Goal(base case), Choice(make a decision, then go to deeper recursion), Undo Choice

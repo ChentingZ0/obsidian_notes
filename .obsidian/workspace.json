@@ -8,61 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3560ccf1f7f098cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data_structure and algorithms/Divide and conquer/Strassen's Matrix Multiplication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f3c60ef5de4b1d0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "pictures/Pasted image 20231003191715.png"
-              }
-            }
-          },
-          {
-            "id": "48aca017e9540ff4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "pictures/Pasted image 20231002234025 1.png"
-              }
-            }
-          },
-          {
-            "id": "92fa0aba59f6a877",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "pictures/Pasted image 20231002171847 1.png"
-              }
-            }
-          },
-          {
             "id": "69e6506f9c2980a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Job application/Byte dance 字节跳动/data scientist岗位 笔试.md",
+                "file": "Tensorflow/Core Learning Algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Job application/Byte dance 字节跳动/data scientist岗位 笔试.md",
+                "file": "Tensorflow/Core Learning Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Job application/Byte dance 字节跳动/data scientist岗位 笔试.md",
+                "file": "Tensorflow/Core Learning Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Job application/Byte dance 字节跳动/data scientist岗位 笔试.md"
+                "file": "Tensorflow/Core Learning Algorithms.md"
               }
             }
           }
@@ -191,6 +148,14 @@
   },
   "active": "69e6506f9c2980a8",
   "lastOpenFiles": [
+    "Tensorflow/What Tensorflow is.md",
+    "Tensorflow/Core Learning Algorithms.md",
+    "Tensorflow/Atificial Intelligence vs Neural Network vs Machine Learning.md",
+    "Pasted image 20231009192050.png",
+    "Pasted image 20231009190430.png",
+    "Untitled.md",
+    "Untitled",
+    "Job application/Byte dance 字节跳动/data scientist岗位 笔试.md",
     "Job application/小米/软开笔试.md",
     "Job application/小米软开岗.md",
     "pictures/Pasted image 20231006225528.png",
@@ -224,18 +189,10 @@
     "pictures/Pasted image 20231003203045.png",
     "pictures/Pasted image 20231003195835.png",
     "pictures/Pasted image 20231003194943.png",
-    "pictures/Pasted image 20231003193149.png",
-    "pictures/Pasted image 20231003193101.png",
     "data_structure and algorithms/Divide and conquer/Divide and conquer.md",
-    "Others.md",
-    "Big data/Resource management.md",
-    "data_structure and algorithms/Big O notation/O(2^n).md",
-    "Big data/Graph Processing.md",
-    "data_structure and algorithms/data structure/Heaps/Priority Queues with Binary Heaps.md",
     "data_structure and algorithms/data structure/Trees and Tree Algorithms",
     "data_structure and algorithms/data structure/Heaps",
     "data_structure and algorithms/data structure",
-    "data_structure and algorithms/Big O notation",
-    "data_structure and algorithms/Sorting Algorithms"
+    "data_structure and algorithms/Big O notation"
   ]
 }

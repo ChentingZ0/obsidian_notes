@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/GAN.md",
+                "file": "others/python环境配置技巧.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/GAN.md",
+                "file": "others/python环境配置技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/GAN.md",
+                "file": "others/python环境配置技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/GAN.md"
+                "file": "others/python环境配置技巧.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "69e6506f9c2980a8",
   "lastOpenFiles": [
-    "Machine Learning/U-Net.md",
+    "others/Python other functions.md",
+    "others/python环境配置技巧.md",
+    "Pasted image 20231010141218.png",
+    "others",
     "Machine Learning/GAN.md",
+    "Machine Learning/U-Net.md",
     "Machine Learning/Transformer.md",
     "Machine Learning/Tensorflow/Transformer.md",
     "Machine Learning/Yolox8.md",
@@ -182,17 +186,12 @@
     "data_structure and algorithms/data structure/Trees and Tree Algorithms/Binary Search Tree.md",
     "data_structure and algorithms/data structure/Trees and Tree Algorithms/Tree.md",
     "data_structure and algorithms/data structure/Trees and Tree Algorithms/Tree Traversals.md",
-    "data_structure and algorithms/data structure/Trees and Tree Algorithms/Nodes and References.md",
-    "data_structure and algorithms/data structure/Trees and Tree Algorithms/parse tree.md",
-    "data_structure and algorithms/data structure/Trees and Tree Algorithms/Example of trees.md",
     "data_structure and algorithms/NP completeness",
     "data_structure and algorithms/Greedy algorithms",
     "Machine Learning/NLP",
     "Machine Learning/Tensorflow",
     "pictures/Pasted image 20231003203045.png",
-    "pictures/Pasted image 20231003195835.png",
     "data_structure and algorithms/data structure/Trees and Tree Algorithms",
-    "data_structure and algorithms/data structure/Heaps",
-    "data_structure and algorithms/data structure"
+    "data_structure and algorithms/data structure/Heaps"
   ]
 }

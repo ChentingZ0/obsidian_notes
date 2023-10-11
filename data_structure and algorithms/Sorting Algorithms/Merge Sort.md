@@ -42,7 +42,7 @@ mergeSort(alist)
 print(alist)		
 ```
 
-Here is a more concise way to write "merge two sorted list". The same way as above.
+Here is a more concise way to write "merge two sorted list". The same way as above. (extend function does not have return)
 ```python
 # Another writing way to merge two sorted list
 def merge_sorted_lists(list1, list2): 
@@ -62,6 +62,7 @@ def merge_sorted_lists(list1, list2):
 	merged_list.extend(list2[j:]) 
 	return merged_list
 ```
+
 Time complexity analysis:
 Firstly, split into halves, we divide a list in half $log(n)$ times
 For the merge part,each item will be processed and placed on the sorted list. So the merge operation results in a list of size n requires n operations. Merge sort is an $O(nlog(n))$ algorithm.

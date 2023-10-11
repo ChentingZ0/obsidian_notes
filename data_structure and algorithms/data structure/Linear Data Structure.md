@@ -8,6 +8,13 @@ last-in first-out
 `isEmpty()`: test if empty, return boolean value
 `size`: return number of items on the stack, return an integer
 
+In python default:
+```python
+stack = []
+stack.append(...)
+element = stack.pop()
+```
+
 #### Queue data structure
 first-in first-out
 can access both ends

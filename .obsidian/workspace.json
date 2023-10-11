@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69e6506f9c2980a8",
+            "id": "6537e204c85de093",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "others/python环境配置技巧.md",
+                "file": "data_structure and algorithms/Sorting Algorithms/Merge Sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "others/python环境配置技巧.md",
+                "file": "data_structure and algorithms/Sorting Algorithms/Merge Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "others/python环境配置技巧.md",
+                "file": "data_structure and algorithms/Sorting Algorithms/Merge Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "others/python环境配置技巧.md"
+                "file": "data_structure and algorithms/Sorting Algorithms/Merge Sort.md"
               }
             }
           }
@@ -146,53 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69e6506f9c2980a8",
+  "active": "65ee6297949e71af",
   "lastOpenFiles": [
-    "Pasted image 20231010155954.png",
-    "Pasted image 20231010155714.png",
-    "Pasted image 20231010155530.png",
-    "Pasted image 20231010155430.png",
-    "others/Python other functions.md",
-    "Big data/Airflow.md",
-    "Pasted image 20231010143959.png",
+    "data_structure and algorithms/data structure/Trees and Tree Algorithms/Binary Search Tree.md",
+    "data_structure and algorithms/Sorting Algorithms/Merge Sort.md",
+    "data_structure and algorithms/Sorting Algorithms/Quick Sort.md",
+    "data_structure and algorithms/Sorting Algorithms/Selection Sort.md",
+    "data_structure and algorithms/Sorting Algorithms/Bubble Sort.md",
+    "data_structure and algorithms/Sorting Algorithms/Insertion Sort.md",
+    "data_structure and algorithms/Sorting Algorithms/Sorted.md",
+    "data_structure and algorithms/data structure/Linear Data Structure.md",
+    "pictures/Pasted image 20231010141218.png",
+    "data_structure and algorithms/Backtracking/Permutations of a string.md",
+    "pictures/Pasted image 20231009192050.png",
+    "pictures/Pasted image 20231009190430.png",
+    "pictures/Pasted image 20231006225528.png",
+    "pictures/Pasted image 20231006221714.png",
+    "pictures/Pasted image 20231006215434.png",
+    "pictures/Pasted image 20231006215155.png",
+    "pictures/Pasted image 20231006215149.png",
+    "pictures/Pasted image 20230922170523.png",
+    "pictures/Pasted image 20230922170504.png",
+    "pictures/Pasted image 20230922165541.png.md",
     "others/python环境配置技巧.md",
-    "Pasted image 20231010141218.png",
+    "others/Python other functions.md",
     "others",
-    "Machine Learning/GAN.md",
+    "Machine Learning/Tensorflow/What Tensorflow is.md",
+    "Machine Learning/Tensorflow/Core Learning Algorithms.md",
+    "Machine Learning/Tensorflow/Atificial Intelligence vs Neural Network vs Machine Learning.md",
+    "Machine Learning/Yolox8.md",
     "Machine Learning/U-Net.md",
     "Machine Learning/Transformer.md",
-    "Machine Learning/Tensorflow/Transformer.md",
-    "Machine Learning/Yolox8.md",
-    "pictures/Pasted image 20230922165541.png.md",
-    "Machine Learning/Untitled",
-    "pictures/Pasted image 20230922170447.png",
-    "pictures/Pasted image 20231009192050.png",
-    "Machine Learning",
-    "Untitled.md",
-    "Machine Learning/Tensorflow/Core Learning Algorithms.md",
-    "Machine Learning/Tensorflow/What Tensorflow is.md",
-    "Machine Learning/Tensorflow/Atificial Intelligence vs Neural Network vs Machine Learning.md",
-    "pictures/Pasted image 20231009190430.png",
-    "Job application/Byte dance 字节跳动/data scientist岗位 笔试.md",
-    "Job application/小米/软开笔试.md",
-    "Job application/小米软开岗.md",
-    "pictures/Pasted image 20231006225528.png",
-    "data_structure and algorithms/Backtracking/Subset problems.md",
-    "data_structure and algorithms/Backtracking/Permutations of a string.md",
-    "data_structure and algorithms/Backtracking/N Queens problem.md",
-    "data_structure and algorithms/Backtracking/graph coloring problem.md",
-    "data_structure and algorithms/Backtracking/Backtracking.md",
-    "data_structure and algorithms/data structure/Trees and Tree Algorithms/Red-Black Tree.md",
-    "data_structure and algorithms/Backtracking/Branch and Bound.md",
-    "data_structure and algorithms/Backtracking",
-    "pictures/Pasted image 20231006221714.png",
-    "data_structure and algorithms/data structure/Trees and Tree Algorithms/Binary Search Tree.md",
-    "data_structure and algorithms/data structure/Trees and Tree Algorithms/Tree.md",
-    "data_structure and algorithms/NP completeness",
-    "data_structure and algorithms/Greedy algorithms",
-    "Machine Learning/NLP",
     "Machine Learning/Tensorflow",
-    "data_structure and algorithms/data structure/Trees and Tree Algorithms",
-    "data_structure and algorithms/data structure/Heaps"
+    "Machine Learning/GAN.md",
+    "Machine Learning",
+    "Big data/Airflow.md",
+    "data_structure and algorithms/Backtracking/Subset problems.md",
+    "data_structure and algorithms/Backtracking/N Queens problem.md",
+    "data_structure and algorithms/Backtracking/Backtracking.md",
+    "data_structure and algorithms/Backtracking/Branch and Bound.md",
+    "data_structure and algorithms/Backtracking/graph coloring problem.md",
+    "data_structure and algorithms/Backtracking",
+    "data_structure and algorithms/data structure/Trees and Tree Algorithms/Tree.md",
+    "data_structure and algorithms/Graph algorithms",
+    "data_structure and algorithms/Greedy Method",
+    "data_structure and algorithms/data structure",
+    "data_structure and algorithms/Divide and conquer",
+    "pictures",
+    "data_structure and algorithms/Dynamic programming"
   ]
 }

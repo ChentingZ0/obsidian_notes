@@ -42,6 +42,26 @@ mergeSort(alist)
 print(alist)		
 ```
 
+Here is a more concise way to write "merge two sorted list". The same way as above.
+```python
+# Another writing way to merge two sorted list
+def merge_sorted_lists(list1, list2): 
+	merged_list = [] 
+	i, j = 0, 0 
+	# Merge elements from both lists in sorted order 
+	while i < len(list1) and j < len(list2): 
+		if list1[i] < list2[j]:
+			merged_list.append(list1[i]) 
+			i += 1 
+		else: 
+			merged_list.append(list2[j]) 
+			j += 1 
+		# Add remaining elements from list1 (if any)
+	merged_list.extend(list1[i:]) 
+	# Add remaining elements from list2 (if any)
+	merged_list.extend(list2[j:]) 
+	return merged_list
+```
 Time complexity analysis:
 Firstly, split into halves, we divide a list in half $log(n)$ times
 For the merge part,each item will be processed and placed on the sorted list. So the merge operation results in a list of size n requires n operations. Merge sort is an $O(nlog(n))$ algorithm.

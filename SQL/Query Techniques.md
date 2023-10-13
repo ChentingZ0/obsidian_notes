@@ -65,7 +65,7 @@ FROM movies;
 #### Data Aggregation
 ##### `MAX()，MIN()`
 ```sql
-SELECT MAX（year）
+SELECT MAX(year）
 FROM movies;
 
 SELECT MIN(year)

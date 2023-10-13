@@ -13,11 +13,11 @@ Relational Databases
 ![relational](https://lecontent.sololearn.com/material-images/c28c80c4c08b4c0cae5d6f79824d6d3a-1.03.03.png)
 Field with values in common -> Keys
 
-```
+```sql
 SELECT id, name 
 FROM departments
 ```
-```
+```sql
 SELECT *
 FROM departments
 ```

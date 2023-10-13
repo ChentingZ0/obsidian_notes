@@ -177,7 +177,7 @@ FROM Customers
 #### JOINS
 A better way of combining data
 combine multiple tables based on a condition
-```
+```SQL
 SELECT firstname, lastname, city, number, type
 FROM Customers JOIN PhoneNumbers
 ON Customers.id = PhoneNUmbers.customer_id

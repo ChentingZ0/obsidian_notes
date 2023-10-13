@@ -75,7 +75,7 @@ not equal to `<>` can be used both numbers and string values
 
 #### BETWEEN AND
 ```sql
-DELET FROM products
+DELETE FROM products
 WHERE Price BETWEEN
 5 AND 9
 ```

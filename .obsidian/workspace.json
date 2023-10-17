@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69e6506f9c2980a8",
+            "id": "76abbee5c91d8b18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Keywords.md",
+                "file": "Machine Learning/Tensorflow/RNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Keywords.md",
+                "file": "Machine Learning/Tensorflow/RNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Keywords.md",
+                "file": "Machine Learning/Tensorflow/RNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Keywords.md"
+                "file": "Machine Learning/Tensorflow/RNN.md"
               }
             }
           }
@@ -146,12 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65ee6297949e71af",
+  "active": "76abbee5c91d8b18",
   "lastOpenFiles": [
-    "SQL/Query Techniques.md",
-    "SQL/Table Constraints.md",
-    "SQL/Table Operations.md",
+    "Machine Learning/Tensorflow/DNN.md",
+    "Machine Learning/Tensorflow/CNN.md",
+    "Machine Learning/Tensorflow/Atificial Intelligence vs Neural Network vs Machine Learning.md",
+    "Machine Learning/Tensorflow/RNN.md",
+    "Machine Learning/Tensorflow/Pre-trained Model.md",
+    "Machine Learning/Image data preprocessing.md",
+    "Machine Learning/pandas/Dataframe operations.md",
+    "Machine Learning/Tensorflow/Core Learning Algorithms.md",
+    "Machine Learning/Tensorflow/Comments.md",
+    "Machine Learning/Tensorflow/Data Augmentation.md",
+    "Machine Learning/Tensorflow/What Tensorflow is.md",
     "SQL/Keywords.md",
+    "SQL/Table Operations.md",
+    "Machine Learning/pandas",
+    "SQL/Table Constraints.md",
+    "SQL/Query Techniques.md",
     "SQL/Basics.md",
     "Machine Learning/GAN.md",
     "pictures/Pasted image 20231010155954.png",
@@ -169,23 +181,11 @@
     "data_structure and algorithms/Graph algorithms/Dijkstra's Shortest Algorithm(Bellman-Ford).md",
     "data_structure and algorithms/Graph algorithms/Floyd-Warshall algorithm.md",
     "data_structure and algorithms/Graph algorithms/Graph coloring (Deadlock detection).md",
-    "data_structure and algorithms/Graph algorithms/Graphs basics.md",
-    "data_structure and algorithms/Graph algorithms/Minimum Spanning Tree.md",
-    "data_structure and algorithms/Graph algorithms/Union-Find(Disjoint Set).md",
-    "Java/Exceptions.md",
-    "Java/Iterators.md",
-    "Java/LinkedList.md",
-    "Java/Class and Objects.md",
-    "Java/Java API.md",
-    "Java/Taking User Input.md",
-    "Java/Conditions.md",
-    "Java/HashMap.md",
     "Pasted image 20231010141218.png",
     "Pasted image 20231010155954.png",
     "Pasted image 20231010155714.png",
     "Pasted image 20231010155530.png",
     "others",
-    "Machine Learning/Untitled",
     "Machine Learning",
     "data_structure and algorithms/Backtracking",
     "data_structure and algorithms/NP completeness",

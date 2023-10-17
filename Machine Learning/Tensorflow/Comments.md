@@ -1,0 +1,2 @@
+1. You really need to learn how to quickly implement the packages in Tensorflow through checking the documentation. 
+2. You need to know how to debug for any new coming errors by consulting documentations, stack overflow etc.

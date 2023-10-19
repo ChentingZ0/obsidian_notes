@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Tensorflow/RNN.md",
+                "file": "others/Virtual environment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Tensorflow/RNN.md",
+                "file": "others/Virtual environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Tensorflow/RNN.md",
+                "file": "others/Virtual environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Tensorflow/RNN.md"
+                "file": "others/Virtual environment.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "76abbee5c91d8b18",
   "lastOpenFiles": [
+    "others/python环境配置技巧.md",
+    "others/Virtual environment.md",
+    "others/Python other functions.md",
+    "Machine Learning/Tensorflow/RNN.md",
     "Untitled.md",
     "project management",
-    "Machine Learning/Tensorflow/RNN.md",
     "Machine Learning/Tensorflow/DNN.md",
     "Machine Learning/Tensorflow/CNN.md",
     "Machine Learning/Tensorflow/Atificial Intelligence vs Neural Network vs Machine Learning.md",
@@ -179,8 +182,6 @@
     "data_structure and algorithms/data structure/Trees and Tree Algorithms/Binary Search Tree.md",
     "data_structure and algorithms/Dynamic programming/Untitled.md",
     "data_structure and algorithms/Graph algorithms/Breadth First Search(BFS).md",
-    "data_structure and algorithms/Graph algorithms/Depth First Search(DFS).md",
-    "data_structure and algorithms/Graph algorithms/Dijkstra's Shortest Algorithm(Bellman-Ford).md",
     "Pasted image 20231010141218.png",
     "Pasted image 20231010155954.png",
     "Pasted image 20231010155714.png",

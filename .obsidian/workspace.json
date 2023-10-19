@@ -148,10 +148,12 @@
   },
   "active": "76abbee5c91d8b18",
   "lastOpenFiles": [
+    "Untitled.md",
+    "project management",
+    "Machine Learning/Tensorflow/RNN.md",
     "Machine Learning/Tensorflow/DNN.md",
     "Machine Learning/Tensorflow/CNN.md",
     "Machine Learning/Tensorflow/Atificial Intelligence vs Neural Network vs Machine Learning.md",
-    "Machine Learning/Tensorflow/RNN.md",
     "Machine Learning/Tensorflow/Pre-trained Model.md",
     "Machine Learning/Image data preprocessing.md",
     "Machine Learning/pandas/Dataframe operations.md",
@@ -179,8 +181,6 @@
     "data_structure and algorithms/Graph algorithms/Breadth First Search(BFS).md",
     "data_structure and algorithms/Graph algorithms/Depth First Search(DFS).md",
     "data_structure and algorithms/Graph algorithms/Dijkstra's Shortest Algorithm(Bellman-Ford).md",
-    "data_structure and algorithms/Graph algorithms/Floyd-Warshall algorithm.md",
-    "data_structure and algorithms/Graph algorithms/Graph coloring (Deadlock detection).md",
     "Pasted image 20231010141218.png",
     "Pasted image 20231010155954.png",
     "Pasted image 20231010155714.png",
@@ -192,7 +192,6 @@
     "data_structure and algorithms/Greedy algorithms",
     "Machine Learning/NLP",
     "Machine Learning/Tensorflow",
-    "data_structure and algorithms/data structure/Trees and Tree Algorithms",
-    "data_structure and algorithms/data structure/Heaps"
+    "data_structure and algorithms/data structure/Trees and Tree Algorithms"
   ]
 }

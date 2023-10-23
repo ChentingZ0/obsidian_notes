@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "others/Virtual environment.md",
+                "file": "Big data/MapReduce.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "others/Virtual environment.md",
+                "file": "Big data/MapReduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "others/Virtual environment.md",
+                "file": "Big data/MapReduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "others/Virtual environment.md"
+                "file": "Big data/MapReduce.md"
               }
             }
           }
@@ -148,8 +148,32 @@
   },
   "active": "76abbee5c91d8b18",
   "lastOpenFiles": [
-    "others/python环境配置技巧.md",
+    "Big data/Exam papers/Exam-2019.md",
+    "Pasted image 20231023202621.png",
+    "Pasted image 20231023202619.png",
+    "Big data/Exam papers/Exam-2022.md",
+    "Big data/MapReduce.md",
+    "Pasted image 20231023200732.png",
+    "Big data/Cassandra.md",
+    "Big data/Exam papers/Exam-2018.md",
+    "Big data/Streaming Processing.md",
+    "Big data/GFS.md",
+    "Pasted image 20231023194059.png",
+    "Pasted image 20231023193403.png",
+    "Pasted image 20231023193308.png",
+    "pictures/Pasted image 20231023174919.png",
+    "Big data/Databases.md",
+    "pictures/Pasted image 20231023190758.png",
+    "pictures/Pasted image 20231023190614.png",
+    "pictures/Pasted image 20231023190602.png",
+    "Big data/Graph Processing.md",
+    "Big data/BigTable.md",
+    "Big data/Airflow.md",
+    "Big data/Resource management.md",
+    "Big data/Spark.md",
     "others/Virtual environment.md",
+    "Big data/Exam papers",
+    "others/python环境配置技巧.md",
     "others/Python other functions.md",
     "Machine Learning/Tensorflow/RNN.md",
     "Untitled.md",
@@ -161,38 +185,13 @@
     "Machine Learning/Image data preprocessing.md",
     "Machine Learning/pandas/Dataframe operations.md",
     "Machine Learning/Tensorflow/Core Learning Algorithms.md",
-    "Machine Learning/Tensorflow/Comments.md",
-    "Machine Learning/Tensorflow/Data Augmentation.md",
-    "Machine Learning/Tensorflow/What Tensorflow is.md",
-    "SQL/Keywords.md",
-    "SQL/Table Operations.md",
     "Machine Learning/pandas",
-    "SQL/Table Constraints.md",
-    "SQL/Query Techniques.md",
-    "SQL/Basics.md",
-    "Machine Learning/GAN.md",
-    "pictures/Pasted image 20231010155954.png",
-    "pictures/Pasted image 20231010155714.png",
-    "pictures/Pasted image 20231010155530.png",
-    "pictures/Pasted image 20231010155430.png",
-    "pictures/Pasted image 20231010143959.png",
-    "pictures/Pasted image 20231010141218.png",
-    "data_structure and algorithms/Sorting Algorithms/Sorted.md",
-    "data_structure and algorithms/data structure/Linear Data Structure.md",
-    "data_structure and algorithms/data structure/Trees and Tree Algorithms/Binary Search Tree.md",
-    "data_structure and algorithms/Dynamic programming/Untitled.md",
-    "data_structure and algorithms/Graph algorithms/Breadth First Search(BFS).md",
-    "Pasted image 20231010141218.png",
-    "Pasted image 20231010155954.png",
-    "Pasted image 20231010155714.png",
-    "Pasted image 20231010155530.png",
     "others",
     "Machine Learning",
     "data_structure and algorithms/Backtracking",
     "data_structure and algorithms/NP completeness",
     "data_structure and algorithms/Greedy algorithms",
     "Machine Learning/NLP",
-    "Machine Learning/Tensorflow",
-    "data_structure and algorithms/data structure/Trees and Tree Algorithms"
+    "Machine Learning/Tensorflow"
   ]
 }

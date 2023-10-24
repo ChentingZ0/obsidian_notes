@@ -11,9 +11,11 @@
             "id": "76abbee5c91d8b18",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "pictures/Pasted image 20231024154800.png"
+                "file": "Big data/Exam papers/Exam-2019.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pictures/Pasted image 20231024154800.png",
+                "file": "Big data/Exam papers/Exam-2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pictures/Pasted image 20231024154800.png",
+                "file": "Big data/Exam papers/Exam-2019.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pictures/Pasted image 20231024154800.png"
+                "file": "Big data/Exam papers/Exam-2019.md"
               }
             }
           }
@@ -144,33 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65ee6297949e71af",
+  "active": "76abbee5c91d8b18",
   "lastOpenFiles": [
-    "SQL/Basics.md",
-    "Big data/BigTable.md",
-    "pictures/Pasted image 20231024162538.png",
-    "pictures/Pasted image 20231024162533.png",
-    "pictures/Pasted image 20231024162515.png",
-    "pictures/Pasted image 20231024162138.png",
-    "Big data/GFS.md",
-    "pictures/Pasted image 20231024160559.png",
-    "Pasted image 20231024155845             .png.md",
-    "pictures/Pasted image 20231024155845.png",
-    "pictures/Pasted image 20231024155145.png",
-    "Big data/Databases.md",
-    "pictures/Pasted image 20231024154800.png",
-    "pictures/Pasted image 20231023193308.png",
-    "Big data/Exam papers/Exam-2022.md",
-    "pictures/Pasted image 20231024154011.png",
-    "Big data/Exam papers/Exam-2019.md",
-    "Big data/Cassandra.md",
     "Big data/Exam papers/Exam-2018.md",
+    "Big data/Exam papers/Exam-2019.md",
+    "Big data/Exam papers/Exam-2022.md",
+    "Big data/Streaming Processing.md",
+    "pictures/Pasted image 20231024204813.png",
+    "Big data/Kafka.md",
     "Big data/Spark.md",
     "Big data/Resource management.md",
+    "pictures/Pasted image 20231024212022.png",
+    "pictures/Pasted image 20231024211529.png",
+    "pictures/Pasted image 20231024211517.png",
+    "pictures/Pasted image 20231024205651.png",
+    "pictures/Pasted image 20231024205556.png",
+    "pictures/Pasted image 20231024204854.png",
+    "pictures/Pasted image 20231024200617.png",
     "Big data/MapReduce.md",
-    "Big data/Streaming Processing.md",
-    "Big data/Graph Processing.md",
+    "pictures/Pasted image 20231024195826.png",
+    "pictures/Pasted image 20231024193846.png",
     "Big data/Airflow.md",
+    "SQL/Basics.md",
+    "Big data/BigTable.md",
+    "Big data/GFS.md",
+    "Pasted image 20231024155845             .png.md",
+    "Big data/Databases.md",
+    "Big data/Cassandra.md",
+    "Big data/Graph Processing.md",
     "others/Virtual environment.md",
     "Big data/Exam papers",
     "others/python环境配置技巧.md",
@@ -182,8 +185,6 @@
     "Machine Learning/Tensorflow/CNN.md",
     "Machine Learning/Tensorflow/Atificial Intelligence vs Neural Network vs Machine Learning.md",
     "Machine Learning/Tensorflow/Pre-trained Model.md",
-    "Machine Learning/Image data preprocessing.md",
-    "Machine Learning/pandas/Dataframe operations.md",
     "Machine Learning/pandas",
     "others",
     "Machine Learning",

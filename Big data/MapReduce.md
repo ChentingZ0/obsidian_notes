@@ -22,3 +22,10 @@ Joins
 *Map-side join*: 
 - Replication join
 - When one of the datasets is small enough to cache
+(one review question below)
+
+*Review questions:*
+![[Pasted image 20231024181343.png]]
+![[Pasted image 20231024181533.png]]
+![[Pasted image 20231024181616.png]]
+![[Pasted image 20231024182037.png]]

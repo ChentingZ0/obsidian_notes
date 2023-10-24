@@ -8,6 +8,8 @@
 
 #### Streaming data
 Data stream is unbound data, which is broken into a sequence of individual tuples.
+A data tuple is the atomic data item in a data stream.
+
 - Structured data: tables, relational database
 - Semi-structured data: Json file, XML file ...
 - Unstructured data: 
@@ -46,3 +48,16 @@ Distributed, topic-oriented, partitioned, replicated commit log serivice.
 **DStream**: sequence of RDDs representing a stream of data.
 ![[Pasted image 20230925153240.png]]
 
+*Review questions*:
+![[Pasted image 20231024204813.png]]
+![[Pasted image 20231024204854.png]]
+![[Pasted image 20231024205556.png]]
+![[Pasted image 20231024205651.png]]
+
+### States
+- Need to check the previous state of the RDD in order to do something with the current RDD.
+- Spark supports stateful streams
+- It is mandatory that you provide a checkpointing directory for stateful streams.
+
+Stateful Stream Operations:
+`mapWithState`: It is executed only on set of keys that are available in the last micro batch.

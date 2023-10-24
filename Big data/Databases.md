@@ -84,3 +84,6 @@ Example: Postgres, MySQL
 Organize data by field, keeping all of the data associated with a field next to each other in memory. Better for querying operations like ordering aggregate, etc(faster)
 Example: BigQuery, Snowflake
 ![[Pasted image 20231023190758.png]]
+
+### Example of CP achieved but not A provided:
+![[Pasted image 20231024154800.png]]

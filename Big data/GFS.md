@@ -40,4 +40,6 @@ SSTable consists of chunks of data plus a block index
 ![[Pasted image 20231023193403.png]]
 ![[Pasted image 20231023193308.png]]
 
-
+*Review questions*:
+![[Pasted image 20231024155145.png]]
+![[Pasted image 20231024160559.png]]

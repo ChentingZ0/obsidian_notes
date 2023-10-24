@@ -11,11 +11,9 @@
             "id": "76abbee5c91d8b18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Big data/MapReduce.md",
-                "mode": "source",
-                "source": false
+                "file": "pictures/Pasted image 20231024154800.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big data/MapReduce.md",
+                "file": "pictures/Pasted image 20231024154800.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big data/MapReduce.md",
+                "file": "pictures/Pasted image 20231024154800.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big data/MapReduce.md"
+                "file": "pictures/Pasted image 20231024154800.png"
               }
             }
           }
@@ -146,31 +144,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76abbee5c91d8b18",
+  "active": "65ee6297949e71af",
   "lastOpenFiles": [
-    "Big data/Exam papers/Exam-2019.md",
-    "Pasted image 20231023202621.png",
-    "Pasted image 20231023202619.png",
+    "SQL/Basics.md",
+    "Big data/BigTable.md",
+    "pictures/Pasted image 20231024162538.png",
+    "pictures/Pasted image 20231024162533.png",
+    "pictures/Pasted image 20231024162515.png",
+    "pictures/Pasted image 20231024162138.png",
+    "Big data/GFS.md",
+    "pictures/Pasted image 20231024160559.png",
+    "Pasted image 20231024155845             .png.md",
+    "pictures/Pasted image 20231024155845.png",
+    "pictures/Pasted image 20231024155145.png",
+    "Big data/Databases.md",
+    "pictures/Pasted image 20231024154800.png",
+    "pictures/Pasted image 20231023193308.png",
     "Big data/Exam papers/Exam-2022.md",
-    "Big data/MapReduce.md",
-    "Pasted image 20231023200732.png",
+    "pictures/Pasted image 20231024154011.png",
+    "Big data/Exam papers/Exam-2019.md",
     "Big data/Cassandra.md",
     "Big data/Exam papers/Exam-2018.md",
-    "Big data/Streaming Processing.md",
-    "Big data/GFS.md",
-    "Pasted image 20231023194059.png",
-    "Pasted image 20231023193403.png",
-    "Pasted image 20231023193308.png",
-    "pictures/Pasted image 20231023174919.png",
-    "Big data/Databases.md",
-    "pictures/Pasted image 20231023190758.png",
-    "pictures/Pasted image 20231023190614.png",
-    "pictures/Pasted image 20231023190602.png",
-    "Big data/Graph Processing.md",
-    "Big data/BigTable.md",
-    "Big data/Airflow.md",
-    "Big data/Resource management.md",
     "Big data/Spark.md",
+    "Big data/Resource management.md",
+    "Big data/MapReduce.md",
+    "Big data/Streaming Processing.md",
+    "Big data/Graph Processing.md",
+    "Big data/Airflow.md",
     "others/Virtual environment.md",
     "Big data/Exam papers",
     "others/python环境配置技巧.md",
@@ -184,7 +184,6 @@
     "Machine Learning/Tensorflow/Pre-trained Model.md",
     "Machine Learning/Image data preprocessing.md",
     "Machine Learning/pandas/Dataframe operations.md",
-    "Machine Learning/Tensorflow/Core Learning Algorithms.md",
     "Machine Learning/pandas",
     "others",
     "Machine Learning",

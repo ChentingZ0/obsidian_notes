@@ -1,3 +1,4 @@
+Developed by Google
 - Lots of semi-structured data
 - CP: strong consistency and partition tolerance
 
@@ -16,3 +17,8 @@ Handle schema changes
 ![[Pasted image 20231023180110.png]]
 
 
+*Review question:*
+![[Pasted image 20231024162138.png]]
+![[Pasted image 20231024162515.png]]
+![[Pasted image 20231024162533.png]]
+![[Pasted image 20231024162538.png]]

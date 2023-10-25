@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big data/Exam papers/Exam-2019.md",
+                "file": "Big data/Exam papers/Exam-2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big data/Exam papers/Exam-2019.md",
+                "file": "Big data/Exam papers/Exam-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big data/Exam papers/Exam-2019.md",
+                "file": "Big data/Exam papers/Exam-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big data/Exam papers/Exam-2019.md"
+                "file": "Big data/Exam papers/Exam-2022.md"
               }
             }
           }
@@ -148,24 +148,25 @@
   },
   "active": "76abbee5c91d8b18",
   "lastOpenFiles": [
-    "Big data/Exam papers/Exam-2018.md",
     "Big data/Exam papers/Exam-2019.md",
+    "Big data/Exam papers/Exam-2018.md",
     "Big data/Exam papers/Exam-2022.md",
+    "Big data/Graph Processing.md",
+    "Big data/Resource management.md",
+    "Pasted image 20231025202445.png",
+    "Pasted image 20231025201848.png",
+    "Pasted image 20231025201829.png",
     "Big data/Streaming Processing.md",
+    "Pasted image 20231025192006.png",
+    "Big data/Spark.md",
     "pictures/Pasted image 20231024204813.png",
     "Big data/Kafka.md",
-    "Big data/Spark.md",
-    "Big data/Resource management.md",
     "pictures/Pasted image 20231024212022.png",
     "pictures/Pasted image 20231024211529.png",
     "pictures/Pasted image 20231024211517.png",
     "pictures/Pasted image 20231024205651.png",
     "pictures/Pasted image 20231024205556.png",
-    "pictures/Pasted image 20231024204854.png",
-    "pictures/Pasted image 20231024200617.png",
     "Big data/MapReduce.md",
-    "pictures/Pasted image 20231024195826.png",
-    "pictures/Pasted image 20231024193846.png",
     "Big data/Airflow.md",
     "SQL/Basics.md",
     "Big data/BigTable.md",
@@ -173,7 +174,6 @@
     "Pasted image 20231024155845             .png.md",
     "Big data/Databases.md",
     "Big data/Cassandra.md",
-    "Big data/Graph Processing.md",
     "others/Virtual environment.md",
     "Big data/Exam papers",
     "others/python环境配置技巧.md",

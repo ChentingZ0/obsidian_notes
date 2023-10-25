@@ -53,7 +53,7 @@ Distributed, topic-oriented, partitioned, replicated commit log serivice.
 ![[Pasted image 20231024204854.png]]
 ![[Pasted image 20231024205556.png]]
 ![[Pasted image 20231024205651.png]]
-
+![[Pasted image 20231025192006.png]]
 ### States
 - Need to check the previous state of the RDD in order to do something with the current RDD.
 - Spark supports stateful streams

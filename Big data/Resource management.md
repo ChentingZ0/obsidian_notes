@@ -1,3 +1,7 @@
+### Two-Level schedulers
+Separate concerns of resource allocation and task placement.
+- Mesos and Yarn
+
 ### Mesos
 Mesos is a common resource sharing layer, over which diverse frameworks can run.
 ![[Pasted image 20231002153427.png]]
@@ -7,6 +11,11 @@ A **framework**(e.g., Hadoop, Spark) manages and runs one or more jobs. A **job*
 2. Frameworks select which offers to accept and which tasks to run
 Resource allocation strategy: 
 Max-Min fairness: DRF
+
+*Review question:*
+![[Pasted image 20231025202445.png]]
+
+
 
 ### Yarn
 [youtube video](https://www.youtube.com/watch?v=KqaPMCMHH4g&ab_channel=Simplilearn)

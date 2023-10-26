@@ -1,8 +1,10 @@
 ### Data Warehouses
-Use **ETL**  (Extract, Transform, Load) data directly from operational database systems.(on structured data)
+- Use **ETL**  (Extract, Transform, Load) data directly from operational database systems.(on structured data)
+- Purpose-built for SQL analytics and BI: 
+- Powerful management features such as ACID transactions
 ![[Pasted image 20231003191654.png]]
 But 
-1. it couldn't support unstructured and semi-structured data: time series, logs, images, documents, etc.
+1. It couldn't support unstructured and semi-structured data: time series, logs, images, documents, etc.
 2. No support for data science and ML.
 
 ### Data lakes
@@ -10,6 +12,10 @@ Use **ELT** (Transform after Loading) process.
 can handle unstructured and semi-unstructured data
 Data Lake defines the schema(transform) after data is stored(load), Data Warehouse defines the schema before data is stored.
 ![[Pasted image 20231003191715.png]]
+### Data Lake vs Data Warehouse
+- *Data Lake* stores all data irrespective of the source and its structure whereas *Data Warehouse* stores data in quantitative metrics with their attributes.
+- *Data lake* defines the schema after data is stored whereas *Data Warehouse* defines the schema before data is stored.
+- *Data lake* uses ELT process while *Data Warehouse* uses ETL process.
 ### Lakehouse
 A lakehouse is **a new, open architecture that combines the best elements of data lakes and data warehouses**. Lakehouses are enabled by a new system design: implementing similar data structures and data management features to those in a data warehouse directly on top of low cost cloud storage in open formats.
 ![[Pasted image 20231003193149.png]]
@@ -39,7 +45,7 @@ Schema enforcement: prevents users from accidentally polluting their tables with
 
 **Storage**: Data warehouses store structured data, whilst data lakes and lakehouses store raw data.
 
-**Schema**: Data warehouses feature a predefined schema, whereas data lakes and lakehouses employ a schema-on-read method, where the schema is built during analysis.
+**Schema**: Data warehouses feature a *predefined schema*, whereas data lakes and lakehouses employ a *schema-on-read* method, where the schema is built during analysis.
 
 **Use case**: Data warehouses are often used for business intelligence and reporting, whereas data lakes and lakehouses are used for advanced analytics such as machine learning and data science.
 ![[Pasted image 20231003203045.png]]

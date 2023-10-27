@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fc53dc1bef14a5f9",
+        "id": "73e8682a43e776c1",
         "type": "tabs",
         "children": [
           {
-            "id": "76abbee5c91d8b18",
+            "id": "2d6f67cac48c8cf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big data/Databases.md",
+                "file": "Big data/Exam papers/Exam-2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big data/Databases.md",
+                "file": "Big data/Exam papers/Exam-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big data/Databases.md",
+                "file": "Big data/Exam papers/Exam-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big data/Databases.md"
+                "file": "Big data/Exam papers/Exam-2022.md"
               }
             }
           }
@@ -146,53 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76abbee5c91d8b18",
+  "active": "2d6f67cac48c8cf9",
   "lastOpenFiles": [
-    "Big data/BigTable.md",
-    "Big data/Streaming Processing.md",
-    "Big data/Exam papers/Exam-2018.md",
-    "Big data/Exam papers/Exam-2022.md",
-    "Big data/Data lake.md",
-    "Big data/Databases.md",
-    "pictures/Pasted image 20231025192006.png",
-    "Big data/Exam papers/Exam-2019.md",
-    "Big data/Graph Processing.md",
-    "Big data/Resource management.md",
     "pictures/Pasted image 20231025202445.png",
     "pictures/Pasted image 20231025201848.png",
     "pictures/Pasted image 20231025201829.png",
-    "Big data/Spark.md",
-    "pictures/Pasted image 20231024204813.png",
-    "Big data/Kafka.md",
+    "pictures/Pasted image 20231025192006.png",
     "pictures/Pasted image 20231024212022.png",
     "pictures/Pasted image 20231024211529.png",
     "pictures/Pasted image 20231024211517.png",
     "pictures/Pasted image 20231024205651.png",
     "pictures/Pasted image 20231024205556.png",
-    "Big data/MapReduce.md",
-    "Big data/Airflow.md",
-    "SQL/Basics.md",
-    "Big data/GFS.md",
-    "Pasted image 20231024155845             .png.md",
-    "Big data/Cassandra.md",
+    "pictures/Pasted image 20231024204854.png",
+    "pictures/Pasted image 20231024204813.png",
     "others/Virtual environment.md",
+    "Big data/MapReduce.md",
+    "Big data/GFS.md",
+    "Big data/Exam papers/Exam-2022.md",
+    "Big data/Exam papers/Exam-2019.md",
+    "Big data/Exam papers/Exam-2018.md",
     "Big data/Exam papers",
-    "others/python环境配置技巧.md",
-    "others/Python other functions.md",
+    "Big data/Databases.md",
+    "Big data/Cassandra.md",
+    "Big data/BigTable.md",
     "Machine Learning/Tensorflow/RNN.md",
-    "Untitled.md",
-    "project management",
     "Machine Learning/Tensorflow/DNN.md",
     "Machine Learning/Tensorflow/CNN.md",
     "Machine Learning/Tensorflow/Atificial Intelligence vs Neural Network vs Machine Learning.md",
     "Machine Learning/Tensorflow/Pre-trained Model.md",
+    "Machine Learning/Image data preprocessing.md",
+    "Machine Learning/pandas/Dataframe operations.md",
+    "Machine Learning/Tensorflow/Core Learning Algorithms.md",
+    "Machine Learning/Tensorflow/Comments.md",
+    "Machine Learning/Tensorflow/Data Augmentation.md",
+    "Machine Learning/Tensorflow/What Tensorflow is.md",
+    "SQL/Keywords.md",
+    "SQL/Table Operations.md",
     "Machine Learning/pandas",
+    "SQL/Table Constraints.md",
+    "SQL/Query Techniques.md",
+    "SQL/Basics.md",
     "others",
     "Machine Learning",
     "data_structure and algorithms/Backtracking",
     "data_structure and algorithms/NP completeness",
     "data_structure and algorithms/Greedy algorithms",
     "Machine Learning/NLP",
-    "Machine Learning/Tensorflow"
+    "Machine Learning/Tensorflow",
+    "data_structure and algorithms/data structure/Trees and Tree Algorithms"
   ]
 }

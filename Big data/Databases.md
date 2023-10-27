@@ -43,7 +43,7 @@ Continue the operation in the presence of network partitions.
 #### NoSQL Data Models
 - **Key-Value Data Model**
 Collection of Key/value pairs
-Example: Dynamo
+Example: Amazon Dynamo
 
 - **Column-Oriented Data Model**
 ![[Pasted image 20231023174919.png]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big data/Exam papers/Exam-2022.md",
+                "file": "Big data/Databases.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big data/Exam papers/Exam-2022.md",
+                "file": "Big data/Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big data/Exam papers/Exam-2022.md",
+                "file": "Big data/Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big data/Exam papers/Exam-2022.md"
+                "file": "Big data/Databases.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "2d6f67cac48c8cf9",
   "lastOpenFiles": [
+    "Big data/Exam papers/Exam-2022.md",
     "pictures/Pasted image 20231025202445.png",
     "pictures/Pasted image 20231025201848.png",
     "pictures/Pasted image 20231025201829.png",
@@ -158,11 +159,9 @@
     "pictures/Pasted image 20231024205651.png",
     "pictures/Pasted image 20231024205556.png",
     "pictures/Pasted image 20231024204854.png",
-    "pictures/Pasted image 20231024204813.png",
     "others/Virtual environment.md",
     "Big data/MapReduce.md",
     "Big data/GFS.md",
-    "Big data/Exam papers/Exam-2022.md",
     "Big data/Exam papers/Exam-2019.md",
     "Big data/Exam papers/Exam-2018.md",
     "Big data/Exam papers",

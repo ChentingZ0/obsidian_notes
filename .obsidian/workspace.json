@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big data/Databases.md",
+                "file": "Machine Learning/Transformer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big data/Databases.md",
+                "file": "Machine Learning/Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big data/Databases.md",
+                "file": "Machine Learning/Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big data/Databases.md"
+                "file": "Machine Learning/Transformer.md"
               }
             }
           }
@@ -146,45 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d6f67cac48c8cf9",
+  "active": "65ee6297949e71af",
   "lastOpenFiles": [
+    "5979d718ac4ada0cb47daea1f721255 1.png",
+    "Pasted image 20231030182254.png",
+    "5979d718ac4ada0cb47daea1f721255.png",
+    "Machine Learning/Transformer.md",
+    "Machine Learning/U-Net.md",
+    "Machine Learning/Yolox8.md",
+    "Machine Learning/LSTM.md",
+    "pictures/Pasted image 20230922165541.png.md",
+    "Pasted image 20231030182235.png",
+    "Pasted image 20231030180933.png",
+    "Pasted image 20231030182211.png",
+    "Pasted image 20231030182215.png",
+    "Machine Learning/Image data preprocessing.md",
+    "Machine Learning/GAN.md",
+    "Machine Learning/Tensorflow/What Tensorflow is.md",
+    "pictures/Pasted image 20231030175421.png",
+    "pictures/Pasted image 20231030175841.png",
+    "pictures/Pasted image 20231030174550.png",
+    "Machine Learning/Tensorflow/RNN.md",
+    "Big data/Databases.md",
     "Big data/Exam papers/Exam-2022.md",
-    "pictures/Pasted image 20231025202445.png",
-    "pictures/Pasted image 20231025201848.png",
-    "pictures/Pasted image 20231025201829.png",
-    "pictures/Pasted image 20231025192006.png",
-    "pictures/Pasted image 20231024212022.png",
-    "pictures/Pasted image 20231024211529.png",
-    "pictures/Pasted image 20231024211517.png",
-    "pictures/Pasted image 20231024205651.png",
-    "pictures/Pasted image 20231024205556.png",
-    "pictures/Pasted image 20231024204854.png",
     "others/Virtual environment.md",
     "Big data/MapReduce.md",
     "Big data/GFS.md",
     "Big data/Exam papers/Exam-2019.md",
     "Big data/Exam papers/Exam-2018.md",
     "Big data/Exam papers",
-    "Big data/Databases.md",
     "Big data/Cassandra.md",
     "Big data/BigTable.md",
-    "Machine Learning/Tensorflow/RNN.md",
     "Machine Learning/Tensorflow/DNN.md",
     "Machine Learning/Tensorflow/CNN.md",
     "Machine Learning/Tensorflow/Atificial Intelligence vs Neural Network vs Machine Learning.md",
     "Machine Learning/Tensorflow/Pre-trained Model.md",
-    "Machine Learning/Image data preprocessing.md",
     "Machine Learning/pandas/Dataframe operations.md",
     "Machine Learning/Tensorflow/Core Learning Algorithms.md",
     "Machine Learning/Tensorflow/Comments.md",
-    "Machine Learning/Tensorflow/Data Augmentation.md",
-    "Machine Learning/Tensorflow/What Tensorflow is.md",
-    "SQL/Keywords.md",
-    "SQL/Table Operations.md",
     "Machine Learning/pandas",
-    "SQL/Table Constraints.md",
-    "SQL/Query Techniques.md",
-    "SQL/Basics.md",
     "others",
     "Machine Learning",
     "data_structure and algorithms/Backtracking",

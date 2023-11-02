@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Transformer.md",
+                "file": "Machine Learning/Transformer_wrong.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7884759c8ac42f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/U-Net.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "250339c5b800e48c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "5979d718ac4ada0cb47daea1f721255.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Transformer.md",
+                "file": "Machine Learning/U-Net.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Transformer.md",
+                "file": "Machine Learning/U-Net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Transformer.md"
+                "file": "Machine Learning/U-Net.md"
               }
             }
           }
@@ -146,45 +169,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d6f67cac48c8cf9",
+  "active": "f7884759c8ac42f8",
   "lastOpenFiles": [
-    "5979d718ac4ada0cb47daea1f721255 2.png",
-    "5979d718ac4ada0cb47daea1f721255 1.png",
+    "Transformer.md",
+    "Machine Learning/Yolox8.md",
+    "Machine Learning/Transformer_wrong.md",
     "5979d718ac4ada0cb47daea1f721255.png",
+    "Pasted image 20231030180933.png.md",
+    "data_structure and algorithms/Divide and conquer/Divide and conquer.md",
+    "data_structure and algorithms/Graph algorithms/Union-Find(Disjoint Set).md",
+    "data_structure and algorithms/Graph algorithms/Topological Sort.md",
+    "data_structure and algorithms/Graph algorithms/Minimum Spanning Tree.md",
+    "data_structure and algorithms/Graph algorithms/Graphs basics.md",
+    "data_structure and algorithms/Graph algorithms/Graph coloring (Deadlock detection).md",
+    "data_structure and algorithms/Graph algorithms/Floyd-Warshall algorithm.md",
+    "data_structure and algorithms/Graph algorithms/Dijkstra's Shortest Algorithm(Bellman-Ford).md",
+    "data_structure and algorithms/Graph algorithms/Depth First Search(DFS).md",
+    "data_structure and algorithms/Graph algorithms/Breadth First Search(BFS).md",
+    "Machine Learning/GAN.md",
+    "Machine Learning/Reinforcement Learning",
+    "Machine Learning/Image data preprocessing.md",
+    "Machine Learning/U-Net.md",
+    "5979d718ac4ada0cb47daea1f721255 1.png",
+    "5979d718ac4ada0cb47daea1f721255 2.png",
+    "Machine Learning/LSTM.md",
     "Machine Learning/Tensorflow/Transformer.md",
     "Machine Learning/Tensorflow/Untitled.md",
-    "Machine Learning/Transformer.md",
-    "Machine Learning/LSTM.md",
-    "Machine Learning/Transformer.md",
     "Pasted image 20231030182254.png",
-    "Machine Learning/U-Net.md",
-    "Machine Learning/Yolox8.md",
     "pictures/Pasted image 20230922165541.png.md",
     "Pasted image 20231030182235.png",
     "Pasted image 20231030180933.png",
     "Pasted image 20231030182211.png",
     "Pasted image 20231030182215.png",
-    "Machine Learning/Image data preprocessing.md",
-    "Machine Learning/GAN.md",
     "Machine Learning/Tensorflow/What Tensorflow is.md",
     "pictures/Pasted image 20231030175421.png",
     "pictures/Pasted image 20231030175841.png",
-    "pictures/Pasted image 20231030174550.png",
     "Machine Learning/Tensorflow/RNN.md",
     "Big data/Databases.md",
     "Big data/Exam papers/Exam-2022.md",
-    "others/Virtual environment.md",
-    "Big data/MapReduce.md",
-    "Big data/GFS.md",
-    "Big data/Exam papers/Exam-2019.md",
-    "Big data/Exam papers/Exam-2018.md",
     "Big data/Exam papers",
-    "Big data/Cassandra.md",
-    "Big data/BigTable.md",
-    "Machine Learning/Tensorflow/DNN.md",
-    "Machine Learning/Tensorflow/CNN.md",
-    "Machine Learning/Tensorflow/Atificial Intelligence vs Neural Network vs Machine Learning.md",
-    "Machine Learning/Tensorflow/Pre-trained Model.md",
     "Machine Learning/pandas",
     "others",
     "Machine Learning",
@@ -192,7 +215,6 @@
     "data_structure and algorithms/NP completeness",
     "data_structure and algorithms/Greedy algorithms",
     "Machine Learning/NLP",
-    "Machine Learning/Tensorflow",
-    "data_structure and algorithms/data structure/Trees and Tree Algorithms"
+    "Machine Learning/Tensorflow"
   ]
 }

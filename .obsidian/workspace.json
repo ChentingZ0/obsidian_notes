@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/NLP to Transformers.md",
+                "file": "Machine Learning/Tensorflow/RNN with NLP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/NLP to Transformers.md",
+                "file": "Machine Learning/Tensorflow/RNN with NLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/NLP to Transformers.md",
+                "file": "Machine Learning/Tensorflow/RNN with NLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/NLP to Transformers.md"
+                "file": "Machine Learning/Tensorflow/RNN with NLP.md"
               }
             }
           }
@@ -148,13 +148,20 @@
   },
   "active": "2d6f67cac48c8cf9",
   "lastOpenFiles": [
+    "Machine Learning/Tensorflow/Pre-trained Model.md",
+    "Machine Learning/Tensorflow/DNN.md",
+    "Machine Learning/Tensorflow/Atificial Intelligence vs Neural Network vs Machine Learning.md",
+    "Machine Learning/Tensorflow/CNN.md",
+    "Machine Learning/Tensorflow/Comments.md",
+    "Machine Learning/Tensorflow/Core Learning Algorithms.md",
+    "Machine Learning/Tensorflow/Data Augmentation.md",
+    "Machine Learning/Tensorflow/RNN with NLP.md",
+    "Machine Learning/NLP to Transformers.md",
     "5979d718ac4ada0cb47daea1f721255.png",
     "5979d718ac4ada0cb47daea1f721255 2.png.md",
     "Pasted image 20231030180933.png.md",
-    "Machine Learning/NLP to Transformers.md",
     "Machine Learning/Attention.md",
     "Machine Learning/LSTM.md",
-    "Machine Learning/Tensorflow/RNN with NLP.md",
     "Machine Learning/Image data preprocessing.md",
     "Machine Learning/Transformer.md",
     "Machine Learning/U-Net.md",
@@ -168,20 +175,14 @@
     "data_structure and algorithms/Graph algorithms/Graphs basics.md",
     "data_structure and algorithms/Graph algorithms/Graph coloring (Deadlock detection).md",
     "data_structure and algorithms/Graph algorithms/Floyd-Warshall algorithm.md",
-    "data_structure and algorithms/Graph algorithms/Dijkstra's Shortest Algorithm(Bellman-Ford).md",
-    "data_structure and algorithms/Graph algorithms/Depth First Search(DFS).md",
-    "data_structure and algorithms/Graph algorithms/Breadth First Search(BFS).md",
     "Machine Learning/Reinforcement Learning",
     "5979d718ac4ada0cb47daea1f721255 1.png",
     "5979d718ac4ada0cb47daea1f721255 2.png",
-    "Machine Learning/Tensorflow/Transformer.md",
     "Pasted image 20231030182254.png",
-    "pictures/Pasted image 20230922165541.png.md",
     "Pasted image 20231030182235.png",
     "Pasted image 20231030180933.png",
     "Pasted image 20231030182211.png",
     "Pasted image 20231030182215.png",
-    "Machine Learning/Tensorflow/What Tensorflow is.md",
     "pictures/Pasted image 20231030175421.png",
     "pictures/Pasted image 20231030175841.png",
     "Big data/Exam papers",

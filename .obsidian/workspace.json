@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Labelling data.md",
+                "file": "Machine Learning/Reinforcement Learning/Probability.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Labelling data.md",
+                "file": "Machine Learning/Reinforcement Learning/Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Labelling data.md",
+                "file": "Machine Learning/Reinforcement Learning/Probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Labelling data.md"
+                "file": "Machine Learning/Reinforcement Learning/Probability.md"
               }
             }
           }
@@ -146,10 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d6f67cac48c8cf9",
+  "active": "65ee6297949e71af",
   "lastOpenFiles": [
-    "data_structure and algorithms/Sorting Algorithms/Quick Sort.md",
+    "pictures/Pasted image 20231106203938.png",
     "Machine Learning/Labelling data.md",
+    "Machine Learning/Reinforcement Learning/Probability.md",
+    "Machine Learning/Image data preprocessing.md",
+    "Machine Learning/LSTM.md",
+    "Machine Learning/Yolox8.md",
+    "data_structure and algorithms/Sorting Algorithms/Quick Sort.md",
     "Machine Learning/Tensorflow/RNN with NLP.md",
     "Machine Learning/Tensorflow/Pre-trained Model.md",
     "Machine Learning/Tensorflow/DNN.md",
@@ -163,18 +168,13 @@
     "5979d718ac4ada0cb47daea1f721255 2.png.md",
     "Pasted image 20231030180933.png.md",
     "Machine Learning/Attention.md",
-    "Machine Learning/LSTM.md",
-    "Machine Learning/Image data preprocessing.md",
     "Machine Learning/Transformer.md",
     "Machine Learning/U-Net.md",
     "Machine Learning/GAN.md",
-    "Machine Learning/Yolox8.md",
     "Transformer.md",
     "data_structure and algorithms/Divide and conquer/Divide and conquer.md",
     "data_structure and algorithms/Graph algorithms/Union-Find(Disjoint Set).md",
     "data_structure and algorithms/Graph algorithms/Topological Sort.md",
-    "data_structure and algorithms/Graph algorithms/Minimum Spanning Tree.md",
-    "data_structure and algorithms/Graph algorithms/Graphs basics.md",
     "Machine Learning/Reinforcement Learning",
     "5979d718ac4ada0cb47daea1f721255 1.png",
     "5979d718ac4ada0cb47daea1f721255 2.png",

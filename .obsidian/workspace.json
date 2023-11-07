@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Reinforcement Learning/Probability.md",
+                "file": "Machine Learning/Reinforcement Learning/Imitation Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Reinforcement Learning/Probability.md",
+                "file": "Machine Learning/Reinforcement Learning/Imitation Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Reinforcement Learning/Probability.md",
+                "file": "Machine Learning/Reinforcement Learning/Imitation Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Reinforcement Learning/Probability.md"
+                "file": "Machine Learning/Reinforcement Learning/Imitation Learning.md"
               }
             }
           }
@@ -146,14 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65ee6297949e71af",
+  "active": "2d6f67cac48c8cf9",
   "lastOpenFiles": [
-    "pictures/Pasted image 20231106203938.png",
-    "Machine Learning/Labelling data.md",
-    "Machine Learning/Reinforcement Learning/Probability.md",
+    "Machine Learning/Reinforcement Learning/Introduction to RL.md",
+    "Machine Learning/Reinforcement Learning/Imitation Learning.md",
+    "pictures/Pasted image 20231107151524.png",
+    "pictures/Pasted image 20231107152607.png",
+    "pictures/Pasted image 20231107152554.png",
+    "pictures/Pasted image 20231107152543.png",
+    "pictures/Pasted image 20231107152502.png",
+    "pictures/Pasted image 20231107152501.png",
+    "pictures/Pasted image 20231107152144.png",
+    "pictures/Pasted image 20231107152119.png",
+    "pictures/Pasted image 20231107151831.png",
+    "pictures/Pasted image 20231107151538.png",
+    "Machine Learning/Reinforcement Learning/Prerequisites.md",
     "Machine Learning/Image data preprocessing.md",
+    "Machine Learning/Labelling data.md",
     "Machine Learning/LSTM.md",
+    "Machine Learning/U-Net.md",
     "Machine Learning/Yolox8.md",
+    "Machine Learning/NLP to Transformers.md",
+    "Machine Learning/Attention.md",
+    "Machine Learning/GAN.md",
     "data_structure and algorithms/Sorting Algorithms/Quick Sort.md",
     "Machine Learning/Tensorflow/RNN with NLP.md",
     "Machine Learning/Tensorflow/Pre-trained Model.md",
@@ -163,28 +178,12 @@
     "Machine Learning/Tensorflow/Comments.md",
     "Machine Learning/Tensorflow/Core Learning Algorithms.md",
     "Machine Learning/Tensorflow/Data Augmentation.md",
-    "Machine Learning/NLP to Transformers.md",
-    "5979d718ac4ada0cb47daea1f721255.png",
     "5979d718ac4ada0cb47daea1f721255 2.png.md",
     "Pasted image 20231030180933.png.md",
-    "Machine Learning/Attention.md",
     "Machine Learning/Transformer.md",
-    "Machine Learning/U-Net.md",
-    "Machine Learning/GAN.md",
     "Transformer.md",
     "data_structure and algorithms/Divide and conquer/Divide and conquer.md",
-    "data_structure and algorithms/Graph algorithms/Union-Find(Disjoint Set).md",
-    "data_structure and algorithms/Graph algorithms/Topological Sort.md",
     "Machine Learning/Reinforcement Learning",
-    "5979d718ac4ada0cb47daea1f721255 1.png",
-    "5979d718ac4ada0cb47daea1f721255 2.png",
-    "Pasted image 20231030182254.png",
-    "Pasted image 20231030182235.png",
-    "Pasted image 20231030180933.png",
-    "Pasted image 20231030182211.png",
-    "Pasted image 20231030182215.png",
-    "pictures/Pasted image 20231030175421.png",
-    "pictures/Pasted image 20231030175841.png",
     "Big data/Exam papers",
     "Machine Learning/pandas",
     "others",

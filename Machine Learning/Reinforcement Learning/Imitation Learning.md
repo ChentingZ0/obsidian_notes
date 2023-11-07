@@ -33,3 +33,4 @@ We roll out our learned policy in our environment, and we query the expert to ev
 
 ![diagram](https://miro.medium.com/v2/resize:fit:720/format:webp/0*yfAgeqJtgI8eGE-O.png)
 **Data Aggregation** and **Policy Aggregation** are used to help algorithms to use all previous training data such that the agent "remembers" all mistakes it made in the past.
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Reinforcement Learning/Imitation Learning.md",
+                "file": "SQL/Table Constraints.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Reinforcement Learning/Imitation Learning.md",
+                "file": "SQL/Table Constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Reinforcement Learning/Imitation Learning.md",
+                "file": "SQL/Table Constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Reinforcement Learning/Imitation Learning.md"
+                "file": "SQL/Table Constraints.md"
               }
             }
           }
@@ -148,19 +148,33 @@
   },
   "active": "2d6f67cac48c8cf9",
   "lastOpenFiles": [
-    "Machine Learning/Reinforcement Learning/Introduction to RL.md",
-    "Machine Learning/Reinforcement Learning/Imitation Learning.md",
-    "pictures/Pasted image 20231107151524.png",
-    "pictures/Pasted image 20231107152607.png",
-    "pictures/Pasted image 20231107152554.png",
-    "pictures/Pasted image 20231107152543.png",
-    "pictures/Pasted image 20231107152502.png",
-    "pictures/Pasted image 20231107152501.png",
-    "pictures/Pasted image 20231107152144.png",
-    "pictures/Pasted image 20231107152119.png",
-    "pictures/Pasted image 20231107151831.png",
-    "pictures/Pasted image 20231107151538.png",
+    "SQL/Table Operations.md",
+    "SQL/Query Techniques.md",
+    "SQL/Keywords.md",
+    "Machine Learning/Reinforcement Learning/Monte Carlo methods and TD learning.md",
+    "Machine Learning/Reinforcement Learning/Natural policy gradient.md",
+    "Machine Learning/Reinforcement Learning/Soft actor-critic (SAC).md",
     "Machine Learning/Reinforcement Learning/Prerequisites.md",
+    "Machine Learning/Reinforcement Learning/Guided policy search.md",
+    "Machine Learning/Reinforcement Learning/Dynamic programming in MDP.md",
+    "Machine Learning/Reinforcement Learning/Asynchronous advantage actor-critic (A3C).md",
+    "Machine Learning/Reinforcement Learning/DQN.md",
+    "Machine Learning/Reinforcement Learning/Fitted value iteration.md",
+    "Machine Learning/Reinforcement Learning/Imitation Learning.md",
+    "Machine Learning/Reinforcement Learning/Introduction to RL.md",
+    "Machine Learning/Reinforcement Learning/Trust region policy optimization.md",
+    "Machine Learning/Reinforcement Learning/Temporal difference learning.md",
+    "Machine Learning/Reinforcement Learning/Q-Learning.md",
+    "pictures/Pasted image 20231107184154.png",
+    "pictures/Pasted image 20231107191734.png",
+    "pictures/Pasted image 20231107191724.png",
+    "pictures/Pasted image 20231107191719.png",
+    "pictures/Pasted image 20231107191150.png",
+    "pictures/Pasted image 20231107191137.png",
+    "pictures/Pasted image 20231107191039.png",
+    "pictures/Pasted image 20231107190750.png",
+    "pictures/Pasted image 20231107190612.png",
+    "pictures/Pasted image 20231107185214.png",
     "Machine Learning/Image data preprocessing.md",
     "Machine Learning/Labelling data.md",
     "Machine Learning/LSTM.md",
@@ -170,19 +184,6 @@
     "Machine Learning/Attention.md",
     "Machine Learning/GAN.md",
     "data_structure and algorithms/Sorting Algorithms/Quick Sort.md",
-    "Machine Learning/Tensorflow/RNN with NLP.md",
-    "Machine Learning/Tensorflow/Pre-trained Model.md",
-    "Machine Learning/Tensorflow/DNN.md",
-    "Machine Learning/Tensorflow/Atificial Intelligence vs Neural Network vs Machine Learning.md",
-    "Machine Learning/Tensorflow/CNN.md",
-    "Machine Learning/Tensorflow/Comments.md",
-    "Machine Learning/Tensorflow/Core Learning Algorithms.md",
-    "Machine Learning/Tensorflow/Data Augmentation.md",
-    "5979d718ac4ada0cb47daea1f721255 2.png.md",
-    "Pasted image 20231030180933.png.md",
-    "Machine Learning/Transformer.md",
-    "Transformer.md",
-    "data_structure and algorithms/Divide and conquer/Divide and conquer.md",
     "Machine Learning/Reinforcement Learning",
     "Big data/Exam papers",
     "Machine Learning/pandas",

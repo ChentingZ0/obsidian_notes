@@ -1,0 +1,2 @@
+- The game of blackjack(page 93)
+- Tic-Tac-Toe(page 8)

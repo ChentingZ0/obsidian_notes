@@ -63,3 +63,16 @@ Example: [[Dynamic programming in MDP]], [[Guided policy search]]
 - Off policy: able to improve the policy without generating new samples from that policy.
 - On policy: each time the policy is changed, even a little bit, we need to generate new samples.
 
+
+### Backup diagrams
+[article](https://towardsdatascience.com/all-about-backup-diagram-fefb25aaf804#:~:text=Diagram%20that%20explains%20Reinforcement%20Learning%20Algorithms&text=In%20a%20backup%20diagram%20state,shown%20after%20the%20action%20value.)
+In a backup diagram state value is represented by a hollow circle while a state-action value or action value is represented by a solid circle. Action is represented by a arrow starting from a state. Reward is conventionally shown after the action value.
+![backup](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*8ey1DgP4IDXyoqKQ.png)
+- State-Value function under policy $\pi$
+![state-value](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*r0lQMY-ateUvUV9p.png)
+- State-Action Value function under policy $\pi$
+![state-action](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*tPOQ54cl3ANz-jsv.png)
+- Expand to entire state space:
+![diagram](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*iVkEz0D0s1-Ks8nw.png)
+- Optimal State/Action Value
+![diagram](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*6UMWl8MxHQ071yxF.png)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Reinforcement Learning/TD Learning.md",
+                "file": "Machine Learning/Diffusion model.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Reinforcement Learning/TD Learning.md",
+                "file": "Machine Learning/Diffusion model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Reinforcement Learning/TD Learning.md",
+                "file": "Machine Learning/Diffusion model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Reinforcement Learning/TD Learning.md"
+                "file": "Machine Learning/Diffusion model.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "2d6f67cac48c8cf9",
   "lastOpenFiles": [
-    "Machine Learning/Reinforcement Learning/Introduction to RL.md",
+    "Machine Learning/GAN.md",
+    "Machine Learning/Diffusion model.md",
+    "Machine Learning/Transfer learning.md",
     "Machine Learning/Reinforcement Learning/TD Learning.md",
+    "Machine Learning/Reinforcement Learning/Introduction to RL.md",
     "Machine Learning/Reinforcement Learning/Monte Carlo methods.md",
     "Machine Learning/Reinforcement Learning/Temporal difference learning.md",
     "Machine Learning/Reinforcement Learning/Natural policy gradient.md",
@@ -181,9 +184,6 @@
     "Machine Learning/Image data preprocessing.md",
     "Machine Learning/Labelling data.md",
     "Machine Learning/LSTM.md",
-    "Machine Learning/U-Net.md",
-    "Machine Learning/Yolox8.md",
-    "Machine Learning/NLP to Transformers.md",
     "Machine Learning/Reinforcement Learning",
     "Big data/Exam papers",
     "Machine Learning/pandas",

@@ -18,8 +18,51 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "83895534571ec9b4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "pictures/Pasted image 20231108200832.png"
+              }
+            }
+          },
+          {
+            "id": "a261fa2c68bb3f22",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "pictures/Pasted image 20231108200315.png"
+              }
+            }
+          },
+          {
+            "id": "0701cc9d9e03ebfa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "pictures/Pasted image 20231108200832.png"
+              }
+            }
+          },
+          {
+            "id": "0bd442b08688cc56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/NLP/Future Directions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Diffusion model.md",
+                "file": "Machine Learning/NLP/Future Directions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Diffusion model.md",
+                "file": "Machine Learning/NLP/Future Directions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Diffusion model.md"
+                "file": "Machine Learning/NLP/Future Directions.md"
               }
             }
           }
@@ -146,33 +189,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d6f67cac48c8cf9",
+  "active": "0bd442b08688cc56",
   "lastOpenFiles": [
-    "Machine Learning/GAN.md",
+    "Machine Learning/NLP/BERT.md",
+    "Machine Learning/NLP/Future Directions.md",
+    "Machine Learning/Knowledge Distillation.md",
+    "pictures/Pasted image 20231108200315.png",
+    "pictures/Pasted image 20231108200832.png",
     "Machine Learning/Diffusion model.md",
+    "Machine Learning/Labelling data.md",
+    "Machine Learning/Yolox8.md",
+    "Machine Learning/U-Net.md",
+    "Machine Learning/Self-Supervised Learning(SSL).md",
+    "Machine Learning/NLP to Transformers.md",
+    "Machine Learning/LSTM.md",
+    "Machine Learning/Image data preprocessing.md",
+    "Machine Learning/Attention.md",
+    "Machine Learning/NLP",
+    "Machine Learning/Reinforcement Learning/Introduction to RL.md",
+    "Machine Learning/Reinforcement Learning/Dynamic programming in MDP.md",
+    "Machine Learning/GAN.md",
     "Machine Learning/Transfer learning.md",
     "Machine Learning/Reinforcement Learning/TD Learning.md",
-    "Machine Learning/Reinforcement Learning/Introduction to RL.md",
     "Machine Learning/Reinforcement Learning/Monte Carlo methods.md",
     "Machine Learning/Reinforcement Learning/Temporal difference learning.md",
     "Machine Learning/Reinforcement Learning/Natural policy gradient.md",
-    "Pasted image 20231108200832.png",
-    "Pasted image 20231108200315.png",
     "Machine Learning/Reinforcement Learning/Imitation Learning.md",
     "Machine Learning/Reinforcement Learning/Guided policy search.md",
     "Machine Learning/Reinforcement Learning/Examples.md",
     "Machine Learning/Reinforcement Learning/Fitted value iteration.md",
-    "Machine Learning/Reinforcement Learning/Dynamic programming in MDP.md",
     "SQL/Table Constraints.md",
     "SQL/Table Operations.md",
-    "SQL/Query Techniques.md",
-    "SQL/Keywords.md",
-    "Machine Learning/Reinforcement Learning/Soft actor-critic (SAC).md",
-    "Machine Learning/Reinforcement Learning/Prerequisites.md",
-    "Machine Learning/Reinforcement Learning/Asynchronous advantage actor-critic (A3C).md",
-    "Machine Learning/Reinforcement Learning/DQN.md",
-    "Machine Learning/Reinforcement Learning/Trust region policy optimization.md",
-    "Machine Learning/Reinforcement Learning/Q-Learning.md",
     "pictures/Pasted image 20231107184154.png",
     "pictures/Pasted image 20231107191734.png",
     "pictures/Pasted image 20231107191724.png",
@@ -181,9 +228,6 @@
     "pictures/Pasted image 20231107191137.png",
     "pictures/Pasted image 20231107191039.png",
     "pictures/Pasted image 20231107190750.png",
-    "Machine Learning/Image data preprocessing.md",
-    "Machine Learning/Labelling data.md",
-    "Machine Learning/LSTM.md",
     "Machine Learning/Reinforcement Learning",
     "Big data/Exam papers",
     "Machine Learning/pandas",
@@ -192,7 +236,6 @@
     "data_structure and algorithms/Backtracking",
     "data_structure and algorithms/NP completeness",
     "data_structure and algorithms/Greedy algorithms",
-    "Machine Learning/NLP",
-    "Machine Learning/Tensorflow"
+    "Machine Learning/NLP"
   ]
 }

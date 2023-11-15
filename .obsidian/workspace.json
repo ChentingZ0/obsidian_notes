@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Reinforcement Learning/Soft actor-critic (SAC).md",
+                "file": "Machine Learning/Yolov8seg.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Reinforcement Learning/Soft actor-critic (SAC).md",
+                "file": "Machine Learning/Yolov8seg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Reinforcement Learning/Soft actor-critic (SAC).md",
+                "file": "Machine Learning/Yolov8seg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Reinforcement Learning/Soft actor-critic (SAC).md"
+                "file": "Machine Learning/Yolov8seg.md"
               }
             }
           }
@@ -148,9 +148,15 @@
   },
   "active": "59226c28e46d6b54",
   "lastOpenFiles": [
+    "Machine Learning/U-Net.md",
+    "Machine Learning/Yolov8seg.md",
+    "Machine Learning/Labelling data.md",
+    "Machine Learning/Image data preprocessing.md",
+    "Machine Learning/Knowledge Distillation.md",
+    "Machine Learning/Reinforcement Learning/Markov Decision Process.md",
+    "Machine Learning/Reinforcement Learning/Soft actor-critic (SAC).md",
     "Machine Learning/Reinforcement Learning/Prerequisites.md",
     "Machine Learning/Reinforcement Learning/Natural policy gradient.md",
-    "Machine Learning/Reinforcement Learning/Markov Decision Process.md",
     "Machine Learning/Reinforcement Learning/Introduction to RL.md",
     "Machine Learning/Reinforcement Learning/Examples.md",
     "Machine Learning/Reinforcement Learning/DQN.md",
@@ -165,17 +171,12 @@
     "pictures/Pasted image 20231114134547.png",
     "Machine Learning/NLP/Future Directions.md",
     "Machine Learning/NLP/BERT.md",
-    "Machine Learning/Knowledge Distillation.md",
     "pictures/Pasted image 20231108200315.png",
     "pictures/Pasted image 20231108200832.png",
     "Machine Learning/Diffusion model.md",
-    "Machine Learning/Labelling data.md",
-    "Machine Learning/Yolox8.md",
-    "Machine Learning/U-Net.md",
     "Machine Learning/Self-Supervised Learning(SSL).md",
     "Machine Learning/NLP to Transformers.md",
     "Machine Learning/LSTM.md",
-    "Machine Learning/Image data preprocessing.md",
     "Machine Learning/Attention.md",
     "Machine Learning/NLP",
     "Machine Learning/GAN.md",
@@ -184,7 +185,6 @@
     "Machine Learning/Reinforcement Learning/Monte Carlo methods.md",
     "Machine Learning/Reinforcement Learning/Temporal difference learning.md",
     "Machine Learning/Reinforcement Learning/Imitation Learning.md",
-    "Machine Learning/Reinforcement Learning/Guided policy search.md",
     "Machine Learning/Reinforcement Learning",
     "Big data/Exam papers",
     "Machine Learning/pandas",

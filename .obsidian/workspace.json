@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Yolov8seg.md",
+                "file": "Machine Learning/Diffusion model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97807497e9eb51cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Signal processing/Kalman Filter.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Yolov8seg.md",
+                "file": "Signal processing/Kalman Filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Yolov8seg.md",
+                "file": "Signal processing/Kalman Filter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Yolov8seg.md"
+                "file": "Signal processing/Kalman Filter.md"
               }
             }
           }
@@ -146,11 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59226c28e46d6b54",
+  "active": "97807497e9eb51cc",
   "lastOpenFiles": [
-    "Machine Learning/U-Net.md",
-    "Machine Learning/Yolov8seg.md",
+    "Signal processing/Stationary vs non-stationary.md",
+    "Signal processing/Kalman Filter.md",
+    "Untitled.md",
+    "Signal processing",
+    "Machine Learning/Diffusion model.md",
+    "Machine Learning/Self-Supervised Learning(SSL).md",
+    "Machine Learning/Semi-Supervised Learning.md",
+    "data_structure and algorithms/Sorting Algorithms/Quick Sort.md",
+    "data_structure and algorithms/data structure/Linear Data Structure.md",
     "Machine Learning/Labelling data.md",
+    "Machine Learning/Yolov8seg.md",
+    "Machine Learning/U-Net.md",
     "Machine Learning/Image data preprocessing.md",
     "Machine Learning/Knowledge Distillation.md",
     "Machine Learning/Reinforcement Learning/Markov Decision Process.md",
@@ -173,18 +195,10 @@
     "Machine Learning/NLP/BERT.md",
     "pictures/Pasted image 20231108200315.png",
     "pictures/Pasted image 20231108200832.png",
-    "Machine Learning/Diffusion model.md",
-    "Machine Learning/Self-Supervised Learning(SSL).md",
     "Machine Learning/NLP to Transformers.md",
     "Machine Learning/LSTM.md",
     "Machine Learning/Attention.md",
     "Machine Learning/NLP",
-    "Machine Learning/GAN.md",
-    "Machine Learning/Transfer learning.md",
-    "Machine Learning/Reinforcement Learning/TD Learning.md",
-    "Machine Learning/Reinforcement Learning/Monte Carlo methods.md",
-    "Machine Learning/Reinforcement Learning/Temporal difference learning.md",
-    "Machine Learning/Reinforcement Learning/Imitation Learning.md",
     "Machine Learning/Reinforcement Learning",
     "Big data/Exam papers",
     "Machine Learning/pandas",
@@ -192,7 +206,6 @@
     "Machine Learning",
     "data_structure and algorithms/Backtracking",
     "data_structure and algorithms/NP completeness",
-    "data_structure and algorithms/Greedy algorithms",
-    "Machine Learning/NLP"
+    "data_structure and algorithms/Greedy algorithms"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Diffusion model.md",
+                "file": "Machine Learning(DL)/Diffusion model.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,9 +33,11 @@
             "id": "21206c3f5746fd0f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "pictures/Pasted image 20231120220647.png"
+                "file": "Machine Learning(DL)/time-series data/ARIMA model.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pictures/Pasted image 20231120220647.png",
+                "file": "Machine Learning(DL)/time-series data/ARIMA model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pictures/Pasted image 20231120220647.png",
+                "file": "Machine Learning(DL)/time-series data/ARIMA model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pictures/Pasted image 20231120220647.png"
+                "file": "Machine Learning(DL)/time-series data/ARIMA model.md"
               }
             }
           }
@@ -169,50 +171,51 @@
   },
   "active": "21206c3f5746fd0f",
   "lastOpenFiles": [
-    "pictures/Pasted image 20231120220639.png",
+    "Machine Learning(DL)/Dimensionality reduction and feature extraction/PCA.md",
     "Job application/ML questions/1.md",
-    "Machine Learning/Tree-based decision models.md",
-    "pictures/Pasted image 20231120220647.png",
-    "Machine Learning/Tensorflow/CNN.md",
-    "Job application/ML questions",
-    "Machine Learning/Tensorflow/Atificial Intelligence vs Neural Network vs Machine Learning.md",
-    "Machine Learning/Diffusion model.md",
-    "Machine Learning/Attention.md",
-    "Machine Learning/Tensorflow/What Tensorflow is.md",
-    "Machine Learning/Tensorflow/RNN with NLP.md",
-    "Machine Learning/Tensorflow/Pre-trained Model.md",
-    "Machine Learning/Tensorflow/DNN.md",
-    "Machine Learning/Tensorflow/Data Augmentation.md",
-    "Machine Learning/Tensorflow/Core Learning Algorithms.md",
-    "Machine Learning/Tensorflow/Comments.md",
+    "Machine Learning(DL)/Dimensionality reduction and feature extraction/Singular Value Decomposition(SVD).md",
+    "Machine Learning(DL)/Dimensionality reduction and feature extraction/Factor analysis.md",
+    "Signal processing/Discrete wavelet transform.md",
+    "Signal processing/Stationary vs non-stationary vs ergodicity.md",
     "Signal processing/Kalman Filter.md",
-    "Signal processing/Stationary vs non-stationary.md",
-    "Untitled.md",
+    "pictures/Pasted image 20231123191456.png",
+    "Machine Learning(DL)/Variational Inference.md",
+    "Machine Learning(DL)/EM algorithm.md",
+    "Machine Learning(DL)/Random Forest.md",
+    "Machine Learning(DL)/NLP/LSA.md",
+    "pictures/Pasted image 20231123192629.png",
+    "pictures/Pasted image 20231123191905.png",
+    "Machine Learning(DL)/NLP/TF.md",
+    "pictures/Pasted image 20231123191729.png",
+    "pictures/Pasted image 20231123191640.png",
+    "pictures/Pasted image 20231123191513.png",
+    "Machine Learning(DL)/NLP/Topic model.md",
+    "Data processing and visualization/pandas/Dataframe operations.md",
+    "Data processing and visualization/D3.js.md",
+    "Data processing and visualization/Matplotlib.md",
+    "Data processing and visualization/Seasborn.md",
+    "Machine Learning(DL)/Yolov8seg.md",
+    "Machine Learning(DL)/Dimensionality reduction and feature extraction",
+    "Machine Learning(DL)/U-Net.md",
+    "Machine Learning(DL)/Tree-based decision models.md",
+    "Machine Learning(DL)/LSTM.md",
+    "Machine Learning(DL)/Knowledge Distillation.md",
+    "Machine Learning(DL)/Image data preprocessing.md",
+    "Machine Learning(DL)/GAN.md",
+    "Machine Learning(DL)/Diffusion model.md",
+    "Machine Learning(DL)/Attention.md",
+    "Data processing and visualization",
+    "pictures/Pasted image 20231120220647.png",
+    "Machine Learning(DL)/time-series data",
+    "pictures/Pasted image 20231120220639.png",
+    "Job application/ML questions",
     "Signal processing",
-    "Machine Learning/Self-Supervised Learning(SSL).md",
-    "Machine Learning/Semi-Supervised Learning.md",
-    "data_structure and algorithms/Sorting Algorithms/Quick Sort.md",
-    "data_structure and algorithms/data structure/Linear Data Structure.md",
-    "Machine Learning/Labelling data.md",
-    "Machine Learning/Yolov8seg.md",
-    "Machine Learning/U-Net.md",
-    "Machine Learning/Image data preprocessing.md",
-    "Machine Learning/Knowledge Distillation.md",
     "pictures/Pasted image 20231114134459.png",
     "pictures/Pasted image 20231114135814.png",
-    "pictures/Pasted image 20231114135228.png",
-    "pictures/Pasted image 20231114135007.png",
-    "pictures/Pasted image 20231114134815.png",
-    "pictures/Pasted image 20231114134720.png",
-    "pictures/Pasted image 20231114134619.png",
-    "pictures/Pasted image 20231114134547.png",
-    "Machine Learning/NLP",
-    "Machine Learning/Reinforcement Learning",
+    "Machine Learning(DL)/NLP",
+    "Machine Learning(DL)/Reinforcement Learning",
     "Big data/Exam papers",
-    "Machine Learning/pandas",
-    "others",
-    "Machine Learning",
-    "data_structure and algorithms/Backtracking",
-    "data_structure and algorithms/NP completeness"
+    "Data processing and visualization/pandas",
+    "others"
   ]
 }

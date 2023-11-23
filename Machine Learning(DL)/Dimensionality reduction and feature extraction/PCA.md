@@ -1,4 +1,6 @@
 [PCA](https://medium.com/@amulya_k/principal-component-analysis-pca-in-data-analysis-unveiling-the-power-of-dimensionality-065fb35a21e9)
+[python implement in sklearn](https://towardsdatascience.com/introduction-to-pca-in-python-with-sklearn-pandas-and-matplotlib-476880f30238)
+
 - **Why we don't like high-dimensional data**
 1. Computational Complexity
 2. Overfitting

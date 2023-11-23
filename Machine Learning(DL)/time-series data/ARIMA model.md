@@ -1,1 +1,1 @@
-Auto-Regressive Integrated Moving Average
+- Auto-Regressive Integrated Moving Average

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data processing and visualization/You should know.md",
+                "file": "Signal processing/Kalman Filter.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data processing and visualization/You should know.md",
+                "file": "Signal processing/Kalman Filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data processing and visualization/You should know.md",
+                "file": "Signal processing/Kalman Filter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data processing and visualization/You should know.md"
+                "file": "Signal processing/Kalman Filter.md"
               }
             }
           }
@@ -161,8 +161,12 @@
   },
   "active": "21206c3f5746fd0f",
   "lastOpenFiles": [
-    "Data processing and visualization/Matplotlib.md",
-    "Data processing and visualization/You should know.md",
+    "Data processing and visualization/python/Numpy.md",
+    "Data processing and visualization/python/You should know.md",
+    "Data processing and visualization/python/Seasborn.md",
+    "Data processing and visualization/python/Matplotlib.md",
+    "Signal processing/Kalman Filter.md",
+    "Data processing and visualization/python",
     "SQL/Table Operations.md",
     "SQL/Table Constraints.md",
     "SQL/Query Techniques.md",
@@ -193,11 +197,8 @@
     "Machine Learning(DL)/Dimensionality reduction and feature extraction/Factor analysis.md",
     "Signal processing/Discrete wavelet transform.md",
     "Signal processing/Stationary vs non-stationary vs ergodicity.md",
-    "Signal processing/Kalman Filter.md",
     "Machine Learning(DL)/Variational Inference.md",
     "Machine Learning(DL)/NLP/LSA.md",
-    "Machine Learning(DL)/NLP/TF.md",
-    "Machine Learning(DL)/NLP/Topic model.md",
     "Machine Learning(DL)/Dimensionality reduction and feature extraction",
     "Data processing and visualization",
     "Machine Learning(DL)/time-series data",
@@ -205,7 +206,6 @@
     "Signal processing",
     "Machine Learning(DL)/NLP",
     "Machine Learning(DL)/Reinforcement Learning",
-    "Big data/Exam papers",
-    "Data processing and visualization/pandas"
+    "Big data/Exam papers"
   ]
 }

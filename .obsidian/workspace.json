@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59226c28e46d6b54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning(DL)/Diffusion model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "21206c3f5746fd0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Signal processing/Kalman Filter.md",
+                "file": "Data_structure and algorithms/Graph algorithms/Graphs basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Signal processing/Kalman Filter.md",
+                "file": "Data_structure and algorithms/Graph algorithms/Graphs basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Signal processing/Kalman Filter.md",
+                "file": "Data_structure and algorithms/Graph algorithms/Graphs basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Signal processing/Kalman Filter.md"
+                "file": "Data_structure and algorithms/Graph algorithms/Graphs basics.md"
               }
             }
           }
@@ -161,11 +148,18 @@
   },
   "active": "21206c3f5746fd0f",
   "lastOpenFiles": [
+    "Data_structure and algorithms/Graph algorithms/All-Pairs Shortest Paths(APSP) with Adjacency Matrix.md",
     "Data processing and visualization/python/Numpy.md",
     "Data processing and visualization/python/You should know.md",
+    "Data_structure and algorithms/Graph algorithms/Dijkstra's Shortest Algorithm(Bellman-Ford).md",
+    "Data_structure and algorithms/Graph algorithms/Depth First Search(DFS).md",
+    "Data_structure and algorithms/data structure/Heaps/Priority Queues with Binary Heaps.md",
+    "Data_structure and algorithms/Graph algorithms/Breadth First Search(BFS).md",
+    "Data_structure and algorithms/Graph algorithms/Graphs basics.md",
+    "Pasted image 20231128183651.png",
+    "Signal processing/Kalman Filter.md",
     "Data processing and visualization/python/Seasborn.md",
     "Data processing and visualization/python/Matplotlib.md",
-    "Signal processing/Kalman Filter.md",
     "Data processing and visualization/python",
     "SQL/Table Operations.md",
     "SQL/Table Constraints.md",
@@ -191,14 +185,7 @@
     "pictures/Pasted image 20231123205030.png",
     "pictures/Pasted image 20231123205010.png",
     "pictures/Pasted image 20231123204909.png",
-    "pictures/Pasted image 20231123204459.png",
     "Job application/ML questions/1.md",
-    "Machine Learning(DL)/Dimensionality reduction and feature extraction/Singular Value Decomposition(SVD).md",
-    "Machine Learning(DL)/Dimensionality reduction and feature extraction/Factor analysis.md",
-    "Signal processing/Discrete wavelet transform.md",
-    "Signal processing/Stationary vs non-stationary vs ergodicity.md",
-    "Machine Learning(DL)/Variational Inference.md",
-    "Machine Learning(DL)/NLP/LSA.md",
     "Machine Learning(DL)/Dimensionality reduction and feature extraction",
     "Data processing and visualization",
     "Machine Learning(DL)/time-series data",

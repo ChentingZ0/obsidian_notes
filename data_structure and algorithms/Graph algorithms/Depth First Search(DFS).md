@@ -18,7 +18,7 @@ It's a very smart way to code. Recursively.
 
 #### DFS Code Implementation 2(Iterative)
 use the **stack** data structure
-More generalizable
+More generalizable!!!
 ```python
 marked = [False] * G.size()
 def dfs_iter(G,v):
@@ -47,9 +47,15 @@ def dfs(G,v):
 			dfs(G, w)
 	visit(v)
 ```
-
-
 Use HashSet to detect a duplicate nodes/cycle
+#### Time complexity analysis
+Consider a directed graph $G =(V,E)$ with $V = {v1, ... vn}$
+Let $n = |V|$ and $m = |E|$
+1. At the beginning, we mark all nodes as unvisted
+- Time $O(n)$
+2. How many times is each vertex added to the stack?
+- At most once for each in-edge. Time for while loop $O(m)$
+Total: $O(m+n)$
 
 #### Problems
 - Number of Islands

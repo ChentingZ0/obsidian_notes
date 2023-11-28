@@ -1,4 +1,8 @@
 Tree is a particular type of graph
+
+![[Pasted image 20231128183651.png]]
+Consider a directed graph $G =(V,E)$ with $V = {v1, ... vn}$
+Let $n = |V|$ and $m = |E|$
 ### Components
 ##### Vertex
 also called a "node". It can have a name, which we call the "key"
@@ -24,6 +28,8 @@ $$
 V = \left\{ V0,V1,V2,V3,V4,V5 \right\}
 $$
 
+
+
 #### Graph Abstract Data Type(ADT)
 The graph abstract data type (ADT) is defined as follows:
 - `Graph()` creates a new, empty graph.
@@ -37,14 +43,16 @@ The graph abstract data type (ADT) is defined as follows:
 
 
 #### Representations of Graph
-1. Adjacency Matrix
+How to store Graphs
+1. **Adjacency Matrix**
 If there is an edge from vertex i to j, mark $adjMat[i][j] = 1$, otherwise mark $adjMat[i][j] = 0$
 ![undirected](https://media.geeksforgeeks.org/wp-content/uploads/20230727130331/Undirected_to_Adjacency_matrix.png)
 ![DAG](https://media.geeksforgeeks.org/wp-content/uploads/20230727130528/Directed_to_Adjacency_matrix.png)
 
 
 
-2. Adjacency List
+
+2. **Adjacency List**
 $adjList[0]$ will have all the nodes which are connected (neighbour) to vertex 0
 $adjList[1]$ will have all the nodes which are connected (neighbour) to vertex 1 and so on.
 

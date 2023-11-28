@@ -27,6 +27,13 @@ q = collections.deque()
 q.append(...)
 ... = q.popleft()
 ```
+
+
+#### Time complexity analysis
+Similar to DFS 
+$O(m+n)$
+
+
 #### Problems
 - [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/)
 - Word Ladder

@@ -7,6 +7,10 @@ for xc in xcoords:
 	plt.axvline(x=xc, color='black', linestyle='--')|
 ```
 
+```python
+plt.grid()
+# 加网格
+```
 ![example](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*iIlqAAYmTuXHZ5mUsDUjHw.png)
 
 - 创建图像文件+设置坐标

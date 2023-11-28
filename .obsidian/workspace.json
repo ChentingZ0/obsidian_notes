@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data processing and visualization/Matplotlib.md",
+                "file": "Data processing and visualization/You should know.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data processing and visualization/Matplotlib.md",
+                "file": "Data processing and visualization/You should know.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data processing and visualization/Matplotlib.md",
+                "file": "Data processing and visualization/You should know.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data processing and visualization/Matplotlib.md"
+                "file": "Data processing and visualization/You should know.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "21206c3f5746fd0f",
   "lastOpenFiles": [
+    "Data processing and visualization/Matplotlib.md",
+    "Data processing and visualization/You should know.md",
     "SQL/Table Operations.md",
     "SQL/Table Constraints.md",
     "SQL/Query Techniques.md",
@@ -196,8 +198,6 @@
     "Machine Learning(DL)/NLP/LSA.md",
     "Machine Learning(DL)/NLP/TF.md",
     "Machine Learning(DL)/NLP/Topic model.md",
-    "Data processing and visualization/pandas/Dataframe operations.md",
-    "Data processing and visualization/D3.js.md",
     "Machine Learning(DL)/Dimensionality reduction and feature extraction",
     "Data processing and visualization",
     "Machine Learning(DL)/time-series data",

@@ -31,6 +31,8 @@ q.append(...)
 
 #### Time complexity analysis
 Similar to DFS 
+Consider a directed graph $G =(V,E)$ with $V = {v1, ... vn}$
+Let $n = |V|$ and $m = |E|$
 $O(m+n)$
 
 

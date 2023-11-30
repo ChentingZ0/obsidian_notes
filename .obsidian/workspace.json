@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data_structure and algorithms/Graph algorithms/Graphs basics.md",
+                "file": "python/You should know.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data_structure and algorithms/Graph algorithms/Graphs basics.md",
+                "file": "python/You should know.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data_structure and algorithms/Graph algorithms/Graphs basics.md",
+                "file": "python/You should know.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data_structure and algorithms/Graph algorithms/Graphs basics.md"
+                "file": "python/You should know.md"
               }
             }
           }
@@ -148,19 +148,22 @@
   },
   "active": "21206c3f5746fd0f",
   "lastOpenFiles": [
-    "Data_structure and algorithms/Graph algorithms/All-Pairs Shortest Paths(APSP) with Adjacency Matrix.md",
-    "Data processing and visualization/python/Numpy.md",
-    "Data processing and visualization/python/You should know.md",
+    "python/Seasborn.md",
+    "python/Numpy.md",
+    "python/Decorators.md",
+    "python/You should know.md",
     "Data_structure and algorithms/Graph algorithms/Dijkstra's Shortest Algorithm(Bellman-Ford).md",
     "Data_structure and algorithms/Graph algorithms/Depth First Search(DFS).md",
-    "Data_structure and algorithms/data structure/Heaps/Priority Queues with Binary Heaps.md",
     "Data_structure and algorithms/Graph algorithms/Breadth First Search(BFS).md",
+    "Data_structure and algorithms/Graph algorithms/All-Pairs Shortest Paths(APSP) with Adjacency Matrix.md",
+    "Data_structure and algorithms/data structure/Heaps/Priority Queues with Binary Heaps.md",
+    "Data_structure and algorithms/data structure/Linear Data Structure.md",
+    "Data_structure and algorithms/Graph algorithms/Floyd-Warshall algorithm.md",
     "Data_structure and algorithms/Graph algorithms/Graphs basics.md",
     "Pasted image 20231128183651.png",
     "Signal processing/Kalman Filter.md",
-    "Data processing and visualization/python/Seasborn.md",
-    "Data processing and visualization/python/Matplotlib.md",
-    "Data processing and visualization/python",
+    "python/Matplotlib.md",
+    "python",
     "SQL/Table Operations.md",
     "SQL/Table Constraints.md",
     "SQL/Query Techniques.md",
@@ -174,8 +177,6 @@
     "Deployment",
     "Machine Learning(DL)/Dimensionality reduction and feature extraction/PCA.md",
     "Machine Learning(DL)/EM algorithm.md",
-    "Machine Learning(DL)/Random Forest.md",
-    "Machine Learning(DL)/Diffusion model.md",
     "pictures/Pasted image 20231123203848.png",
     "pictures/Pasted image 20231120220639.png",
     "pictures/Pasted image 20231123205221.png",
@@ -185,7 +186,6 @@
     "pictures/Pasted image 20231123205030.png",
     "pictures/Pasted image 20231123205010.png",
     "pictures/Pasted image 20231123204909.png",
-    "Job application/ML questions/1.md",
     "Machine Learning(DL)/Dimensionality reduction and feature extraction",
     "Data processing and visualization",
     "Machine Learning(DL)/time-series data",

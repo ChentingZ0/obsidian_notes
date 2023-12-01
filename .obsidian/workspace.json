@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/You should know.md",
+                "file": "Data_structure and algorithms/Sorting Algorithms/Merge Sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/You should know.md",
+                "file": "Data_structure and algorithms/Sorting Algorithms/Merge Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/You should know.md",
+                "file": "Data_structure and algorithms/Sorting Algorithms/Merge Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/You should know.md"
+                "file": "Data_structure and algorithms/Sorting Algorithms/Merge Sort.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "21206c3f5746fd0f",
   "lastOpenFiles": [
+    "Data_structure and algorithms/Sorting Algorithms/Insertion Sort.md",
+    "python/String operations.md",
+    "python/You should know.md",
     "python/Seasborn.md",
     "python/Numpy.md",
     "python/Decorators.md",
-    "python/You should know.md",
     "Data_structure and algorithms/Graph algorithms/Dijkstra's Shortest Algorithm(Bellman-Ford).md",
     "Data_structure and algorithms/Graph algorithms/Depth First Search(DFS).md",
     "Data_structure and algorithms/Graph algorithms/Breadth First Search(BFS).md",
@@ -175,8 +177,6 @@
     "Deployment/Docker.md",
     "Machine Learning(DL)/time-series data/ARIMA model.md",
     "Deployment",
-    "Machine Learning(DL)/Dimensionality reduction and feature extraction/PCA.md",
-    "Machine Learning(DL)/EM algorithm.md",
     "pictures/Pasted image 20231123203848.png",
     "pictures/Pasted image 20231120220639.png",
     "pictures/Pasted image 20231123205221.png",

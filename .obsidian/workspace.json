@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data_structure and algorithms/Sorting Algorithms/Merge Sort.md",
+                "file": "python/Numpy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data_structure and algorithms/Sorting Algorithms/Merge Sort.md",
+                "file": "python/Numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data_structure and algorithms/Sorting Algorithms/Merge Sort.md",
+                "file": "python/Numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data_structure and algorithms/Sorting Algorithms/Merge Sort.md"
+                "file": "python/Numpy.md"
               }
             }
           }
@@ -148,16 +148,24 @@
   },
   "active": "21206c3f5746fd0f",
   "lastOpenFiles": [
-    "Data_structure and algorithms/Sorting Algorithms/Insertion Sort.md",
-    "python/String operations.md",
     "python/You should know.md",
-    "python/Seasborn.md",
-    "python/Numpy.md",
-    "python/Decorators.md",
-    "Data_structure and algorithms/Graph algorithms/Dijkstra's Shortest Algorithm(Bellman-Ford).md",
+    "Data_structure and algorithms/Graph algorithms/All-Pairs Shortest Paths(APSP) with Adjacency Matrix.md",
+    "Pasted image 20231204212611.png",
+    "Pasted image 20231204212548.png",
+    "Pasted image 20231204212539.png",
+    "Pasted image 20231204212534.png",
     "Data_structure and algorithms/Graph algorithms/Depth First Search(DFS).md",
     "Data_structure and algorithms/Graph algorithms/Breadth First Search(BFS).md",
-    "Data_structure and algorithms/Graph algorithms/All-Pairs Shortest Paths(APSP) with Adjacency Matrix.md",
+    "python/Numpy.md",
+    "python/List Operations.md",
+    "python/File Operations.md",
+    "python/String operations.md",
+    "Machine Learning(DL)/Yolov8seg.md",
+    "Data_structure and algorithms/Sorting Algorithms/Merge Sort.md",
+    "Data_structure and algorithms/Sorting Algorithms/Insertion Sort.md",
+    "python/Seasborn.md",
+    "python/Decorators.md",
+    "Data_structure and algorithms/Graph algorithms/Dijkstra's Shortest Algorithm(Bellman-Ford).md",
     "Data_structure and algorithms/data structure/Heaps/Priority Queues with Binary Heaps.md",
     "Data_structure and algorithms/data structure/Linear Data Structure.md",
     "Data_structure and algorithms/Graph algorithms/Floyd-Warshall algorithm.md",
@@ -171,21 +179,12 @@
     "SQL/Query Techniques.md",
     "SQL/Keywords.md",
     "Machine Learning(DL)/Tensorflow/Core Learning Algorithms.md",
-    "Machine Learning(DL)/Tensorflow/CNN.md",
-    "Machine Learning(DL)/NLP/About ChatGPT.md",
-    "Deployment/Flask.md",
-    "Deployment/Docker.md",
-    "Machine Learning(DL)/time-series data/ARIMA model.md",
     "Deployment",
     "pictures/Pasted image 20231123203848.png",
     "pictures/Pasted image 20231120220639.png",
     "pictures/Pasted image 20231123205221.png",
     "pictures/Pasted image 20231123205200.png",
     "pictures/Pasted image 20231123205131.png",
-    "pictures/Pasted image 20231123205109.png",
-    "pictures/Pasted image 20231123205030.png",
-    "pictures/Pasted image 20231123205010.png",
-    "pictures/Pasted image 20231123204909.png",
     "Machine Learning(DL)/Dimensionality reduction and feature extraction",
     "Data processing and visualization",
     "Machine Learning(DL)/time-series data",

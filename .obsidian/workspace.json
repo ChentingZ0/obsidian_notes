@@ -23,9 +23,11 @@
             "id": "444a6a88799a485b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "pictures/Pasted image 20231205193840.png"
+                "file": "Machine Learning(DL)/Reinforcement Learning/Policy gradient.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pictures/Pasted image 20231205193840.png",
+                "file": "Machine Learning(DL)/Reinforcement Learning/Policy gradient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pictures/Pasted image 20231205193840.png",
+                "file": "Machine Learning(DL)/Reinforcement Learning/Policy gradient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pictures/Pasted image 20231205193840.png"
+                "file": "Machine Learning(DL)/Reinforcement Learning/Policy gradient.md"
               }
             }
           }
@@ -159,11 +161,35 @@
   },
   "active": "444a6a88799a485b",
   "lastOpenFiles": [
+    "Pasted image 20231206161036.png",
+    "Pasted image 20231206161033.png",
+    "Pasted image 20231206161019.png",
+    "Pasted image 20231206160627.png",
+    "Machine Learning(DL)/Reinforcement Learning/Prerequisites.md",
+    "Machine Learning(DL)/Reinforcement Learning/Q learning and SARSA.md",
+    "Machine Learning(DL)/Reinforcement Learning/Policy gradient.md",
+    "Machine Learning(DL)/Reinforcement Learning/Monte Carlo methods.md",
+    "Machine Learning(DL)/Reinforcement Learning/Markov Decision Process.md",
+    "Machine Learning(DL)/Reinforcement Learning/Introduction to RL.md",
+    "Machine Learning(DL)/Reinforcement Learning/Imitation Learning.md",
+    "Machine Learning(DL)/Reinforcement Learning/Guided policy search.md",
+    "Machine Learning(DL)/Reinforcement Learning/Fitted value iteration.md",
+    "Machine Learning(DL)/Reinforcement Learning/Examples.md",
+    "Machine Learning(DL)/Reinforcement Learning/Dynamic programming in MDP.md",
+    "Machine Learning(DL)/Reinforcement Learning/DQN.md",
+    "Machine Learning(DL)/Reinforcement Learning/Asynchronous advantage actor-critic (A3C).md",
+    "Machine Learning(DL)/Reinforcement Learning/Soft actor-critic (SAC).md",
+    "Data_structure and algorithms/Graph algorithms/Depth First Search(DFS).md",
+    "Data_structure and algorithms/Graph algorithms/Breadth First Search(BFS).md",
+    "Pasted image 20231206145130.png",
     "Thesis Ericcson.md",
-    "pictures/Pasted image 20231205200213.png",
-    "pictures/Pasted image 20231205194057.png",
-    "pictures/Pasted image 20231205193939.png",
-    "pictures/Pasted image 20231205193840.png",
+    "Pasted image 20231206143031.png",
+    "Pasted image 20231206142823.png",
+    "pictures/Pasted image 20231206142715.png",
+    "pictures/Pasted image 20231206142527.png",
+    "pictures/Pasted image 20231206142116.png",
+    "pictures/Pasted image 20231206141705.png",
+    "Machine Learning(DL)/Reinforcement Learning/TD Learning.md",
     "Machine Learning(DL)/YOLO/mAP.md",
     "Machine Learning(DL)/YOLO/Yolov8seg.md",
     "Machine Learning(DL)/YOLO/Labelling data.md",
@@ -172,32 +198,9 @@
     "Untitled",
     "Job application/Untitled.md",
     "Job application/ML questions/1.md",
-    "pictures/Pasted image 20231128183651.png",
     "Machine Learning(DL)/U-Net.md",
-    "geeks.md",
-    "python/Numpy.md",
-    "python/You should know.md",
-    "Data_structure and algorithms/Graph algorithms/All-Pairs Shortest Paths(APSP) with Adjacency Matrix.md",
-    "pictures/Pasted image 20231204212611.png",
-    "pictures/Pasted image 20231204212548.png",
-    "pictures/Pasted image 20231204212539.png",
-    "pictures/Pasted image 20231204212534.png",
-    "Data_structure and algorithms/Graph algorithms/Depth First Search(DFS).md",
-    "Data_structure and algorithms/Graph algorithms/Breadth First Search(BFS).md",
-    "python/List Operations.md",
-    "python/File Operations.md",
-    "python/String operations.md",
-    "Data_structure and algorithms/Sorting Algorithms/Merge Sort.md",
-    "Data_structure and algorithms/Sorting Algorithms/Insertion Sort.md",
-    "python/Seasborn.md",
-    "python/Decorators.md",
-    "Data_structure and algorithms/Graph algorithms/Dijkstra's Shortest Algorithm(Bellman-Ford).md",
-    "Data_structure and algorithms/data structure/Heaps/Priority Queues with Binary Heaps.md",
-    "Data_structure and algorithms/data structure/Linear Data Structure.md",
-    "Data_structure and algorithms/Graph algorithms/Floyd-Warshall algorithm.md",
     "python",
     "Deployment",
-    "pictures/Pasted image 20231123203848.png",
     "Machine Learning(DL)/Dimensionality reduction and feature extraction",
     "Data processing and visualization",
     "Machine Learning(DL)/time-series data",

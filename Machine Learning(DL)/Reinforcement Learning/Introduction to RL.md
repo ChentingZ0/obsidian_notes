@@ -48,7 +48,7 @@ Property: value functions satisfy recursive relationships
 ### Types of RL algorithms
 ![[Pasted image 20231107191150.png]]
 - **Policy gradients**: directly differentiate the objective
-Example: [[Natural policy gradient]], [[Trust region policy optimization]]
+Example: [[Policy gradient]], [[Trust region policy optimization]]
 - **Value-based**: estimate value function or Q-function of the optimal policy
 Example: [[Q-Learning]], [[DQN]] [[Temporal difference learning]], [[Fitted value iteration]]
 - **Actor-critic**: estimate value function or Q-function of the current policy, use it to improve policy

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning(DL)/Reinforcement Learning/Policy gradient.md",
+                "file": "Machine Learning(DL)/Reinforcement Learning/TD, Q-Learning, SARSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning(DL)/Reinforcement Learning/Policy gradient.md",
+                "file": "Machine Learning(DL)/Reinforcement Learning/TD, Q-Learning, SARSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning(DL)/Reinforcement Learning/Policy gradient.md",
+                "file": "Machine Learning(DL)/Reinforcement Learning/TD, Q-Learning, SARSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning(DL)/Reinforcement Learning/Policy gradient.md"
+                "file": "Machine Learning(DL)/Reinforcement Learning/TD, Q-Learning, SARSA.md"
               }
             }
           }
@@ -161,13 +161,20 @@
   },
   "active": "444a6a88799a485b",
   "lastOpenFiles": [
+    "Machine Learning(DL)/Reinforcement Learning/Q learning and SARSA.md",
+    "Machine Learning(DL)/Reinforcement Learning/TD, Q-Learning, SARSA.md",
+    "Machine Learning(DL)/Reinforcement Learning/Policy gradient.md",
+    "Pasted image 20231206183604.png",
+    "Pasted image 20231206175725.png",
+    "Pasted image 20231206175018.png",
+    "Pasted image 20231206174834.png",
+    "Pasted image 20231206174531.png",
+    "Pasted image 20231206173731.png",
+    "Pasted image 20231206173450.png",
     "Pasted image 20231206161036.png",
     "Pasted image 20231206161033.png",
     "Pasted image 20231206161019.png",
-    "Pasted image 20231206160627.png",
     "Machine Learning(DL)/Reinforcement Learning/Prerequisites.md",
-    "Machine Learning(DL)/Reinforcement Learning/Q learning and SARSA.md",
-    "Machine Learning(DL)/Reinforcement Learning/Policy gradient.md",
     "Machine Learning(DL)/Reinforcement Learning/Monte Carlo methods.md",
     "Machine Learning(DL)/Reinforcement Learning/Markov Decision Process.md",
     "Machine Learning(DL)/Reinforcement Learning/Introduction to RL.md",
@@ -181,15 +188,7 @@
     "Machine Learning(DL)/Reinforcement Learning/Soft actor-critic (SAC).md",
     "Data_structure and algorithms/Graph algorithms/Depth First Search(DFS).md",
     "Data_structure and algorithms/Graph algorithms/Breadth First Search(BFS).md",
-    "Pasted image 20231206145130.png",
     "Thesis Ericcson.md",
-    "Pasted image 20231206143031.png",
-    "Pasted image 20231206142823.png",
-    "pictures/Pasted image 20231206142715.png",
-    "pictures/Pasted image 20231206142527.png",
-    "pictures/Pasted image 20231206142116.png",
-    "pictures/Pasted image 20231206141705.png",
-    "Machine Learning(DL)/Reinforcement Learning/TD Learning.md",
     "Machine Learning(DL)/YOLO/mAP.md",
     "Machine Learning(DL)/YOLO/Yolov8seg.md",
     "Machine Learning(DL)/YOLO/Labelling data.md",

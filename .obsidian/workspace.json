@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning(DL)/Semantic segmentation/F-CNN.md",
+                "file": "Job application/ML questions/Dropout.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning(DL)/Semantic segmentation/F-CNN.md",
+                "file": "Job application/ML questions/Dropout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning(DL)/Semantic segmentation/F-CNN.md",
+                "file": "Job application/ML questions/Dropout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning(DL)/Semantic segmentation/F-CNN.md"
+                "file": "Job application/ML questions/Dropout.md"
               }
             }
           }
@@ -161,12 +161,14 @@
   },
   "active": "444a6a88799a485b",
   "lastOpenFiles": [
+    "Job application/ML questions/Confusion matrix.md",
+    "Job application/ML questions/Dropout.md",
+    "Job application/ML questions/Batch normalization.md",
+    "Machine Learning(DL)/Semantic segmentation/F-CNN.md",
     "Job application/ML questions/bottleneck layer.md",
     "Job application/ML questions/Max pooling layer, fully connected layer.md",
     "Job application/ML questions/Bias vs variance.md",
-    "Job application/ML questions/Batch normalization.md",
     "Job application/General Questions.md",
-    "Machine Learning(DL)/Semantic segmentation/F-CNN.md",
     "Machine Learning(DL)/Semantic segmentation/U-Net.md",
     "Machine Learning(DL)/Semantic segmentation/Yolov8seg.md",
     "Machine Learning(DL)/Transfer learning.md",
@@ -196,8 +198,6 @@
     "pictures/Pasted image 20231206161019.png",
     "Machine Learning(DL)/Reinforcement Learning/Prerequisites.md",
     "Machine Learning(DL)/Reinforcement Learning/Monte Carlo methods.md",
-    "Machine Learning(DL)/Reinforcement Learning/Markov Decision Process.md",
-    "Machine Learning(DL)/Reinforcement Learning/Introduction to RL.md",
     "Machine Learning(DL)/YOLO",
     "Untitled",
     "python",

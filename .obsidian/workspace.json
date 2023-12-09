@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning(DL)/Reinforcement Learning/TD, Q-Learning, SARSA.md",
+                "file": "Machine Learning(DL)/Semantic segmentation/F-CNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning(DL)/Reinforcement Learning/TD, Q-Learning, SARSA.md",
+                "file": "Machine Learning(DL)/Semantic segmentation/F-CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning(DL)/Reinforcement Learning/TD, Q-Learning, SARSA.md",
+                "file": "Machine Learning(DL)/Semantic segmentation/F-CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning(DL)/Reinforcement Learning/TD, Q-Learning, SARSA.md"
+                "file": "Machine Learning(DL)/Semantic segmentation/F-CNN.md"
               }
             }
           }
@@ -161,50 +161,51 @@
   },
   "active": "444a6a88799a485b",
   "lastOpenFiles": [
-    "Machine Learning(DL)/Reinforcement Learning/Q learning and SARSA.md",
+    "Job application/ML questions/bottleneck layer.md",
+    "Job application/ML questions/Max pooling layer, fully connected layer.md",
+    "Job application/ML questions/Bias vs variance.md",
+    "Job application/ML questions/Batch normalization.md",
+    "Job application/General Questions.md",
+    "Machine Learning(DL)/Semantic segmentation/F-CNN.md",
+    "Machine Learning(DL)/Semantic segmentation/U-Net.md",
+    "Machine Learning(DL)/Semantic segmentation/Yolov8seg.md",
+    "Machine Learning(DL)/Transfer learning.md",
+    "Machine Learning(DL)/Untitled.md",
+    "Machine Learning(DL)/Diffusion model.md",
+    "Machine Learning(DL)/Variational Inference.md",
+    "Machine Learning(DL)/Tree-based decision models.md",
+    "Machine Learning(DL)/Random Forest.md",
+    "Machine Learning(DL)/NLP to Transformers.md",
+    "Machine Learning(DL)/LSTM.md",
+    "Machine Learning(DL)/Knowledge Distillation.md",
+    "Machine Learning(DL)/YOLO/Labelling data.md",
+    "Machine Learning(DL)/Semantic segmentation",
+    "Machine Learning(DL)/YOLO/mAP.md",
+    "pictures/Pasted image 20231206183604.png",
+    "pictures/Pasted image 20231206173731.png",
+    "pictures/Pasted image 20231206174531.png",
+    "pictures/Pasted image 20231206175018.png",
+    "pictures/Pasted image 20231206175725.png",
     "Machine Learning(DL)/Reinforcement Learning/TD, Q-Learning, SARSA.md",
+    "Machine Learning(DL)/Reinforcement Learning/Q learning and SARSA.md",
     "Machine Learning(DL)/Reinforcement Learning/Policy gradient.md",
-    "Pasted image 20231206183604.png",
-    "Pasted image 20231206175725.png",
-    "Pasted image 20231206175018.png",
-    "Pasted image 20231206174834.png",
-    "Pasted image 20231206174531.png",
-    "Pasted image 20231206173731.png",
-    "Pasted image 20231206173450.png",
-    "Pasted image 20231206161036.png",
-    "Pasted image 20231206161033.png",
-    "Pasted image 20231206161019.png",
+    "pictures/Pasted image 20231206174834.png",
+    "pictures/Pasted image 20231206173450.png",
+    "pictures/Pasted image 20231206161036.png",
+    "pictures/Pasted image 20231206161033.png",
+    "pictures/Pasted image 20231206161019.png",
     "Machine Learning(DL)/Reinforcement Learning/Prerequisites.md",
     "Machine Learning(DL)/Reinforcement Learning/Monte Carlo methods.md",
     "Machine Learning(DL)/Reinforcement Learning/Markov Decision Process.md",
     "Machine Learning(DL)/Reinforcement Learning/Introduction to RL.md",
-    "Machine Learning(DL)/Reinforcement Learning/Imitation Learning.md",
-    "Machine Learning(DL)/Reinforcement Learning/Guided policy search.md",
-    "Machine Learning(DL)/Reinforcement Learning/Fitted value iteration.md",
-    "Machine Learning(DL)/Reinforcement Learning/Examples.md",
-    "Machine Learning(DL)/Reinforcement Learning/Dynamic programming in MDP.md",
-    "Machine Learning(DL)/Reinforcement Learning/DQN.md",
-    "Machine Learning(DL)/Reinforcement Learning/Asynchronous advantage actor-critic (A3C).md",
-    "Machine Learning(DL)/Reinforcement Learning/Soft actor-critic (SAC).md",
-    "Data_structure and algorithms/Graph algorithms/Depth First Search(DFS).md",
-    "Data_structure and algorithms/Graph algorithms/Breadth First Search(BFS).md",
-    "Thesis Ericcson.md",
-    "Machine Learning(DL)/YOLO/mAP.md",
-    "Machine Learning(DL)/YOLO/Yolov8seg.md",
-    "Machine Learning(DL)/YOLO/Labelling data.md",
     "Machine Learning(DL)/YOLO",
-    "Job application/General Questions.md",
     "Untitled",
-    "Job application/Untitled.md",
-    "Job application/ML questions/1.md",
-    "Machine Learning(DL)/U-Net.md",
     "python",
     "Deployment",
     "Machine Learning(DL)/Dimensionality reduction and feature extraction",
     "Data processing and visualization",
     "Machine Learning(DL)/time-series data",
     "Job application/ML questions",
-    "Signal processing",
-    "Machine Learning(DL)/NLP"
+    "Signal processing"
   ]
 }

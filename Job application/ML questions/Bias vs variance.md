@@ -18,5 +18,3 @@ In supervised learning, **overfitting** happens when our model captures the no
 
 -------------------------------
 
-- **Why do we need data normalization in any experimental setup?**
-Normalization reduces the complexity of the problem your network is trying to solve. This can potentially increase the accuracy of your model and speed up the training. You bring the data on the same scale and reduce variance. None of the weights in the network are wasted on doing a normalization for you, meaning that they can be used more efficiently to solve the actual task at hand.

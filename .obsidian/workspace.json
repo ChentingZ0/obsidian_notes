@@ -23,11 +23,9 @@
             "id": "444a6a88799a485b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Courses/Image and Video processing.md",
-                "mode": "source",
-                "source": false
+                "file": "Big data/Data_Intensive_Computing___T3.pdf"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Image and Video processing.md",
+                "file": "Big data/Data_Intensive_Computing___T3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Image and Video processing.md",
+                "file": "Big data/Data_Intensive_Computing___T3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Image and Video processing.md"
+                "file": "Big data/Data_Intensive_Computing___T3.pdf"
               }
             }
           }
@@ -161,8 +159,27 @@
   },
   "active": "444a6a88799a485b",
   "lastOpenFiles": [
-    "Signal processing/Kalman Filter.md",
+    "Big data/Airflow.md",
+    "Big data/Data_Intensive_Computing___T3.pdf",
+    "Big data/BigTable.md",
+    "Big data/Cassandra.md",
+    "Big data/Resource management.md",
+    "Big data/Streaming Processing.md",
+    "Big data/Spark.md",
+    "Big data/MapReduce.md",
+    "Big data/Graph Processing.md",
+    "Big data/GFS.md",
+    "Big data/Databases.md",
+    "Big data/Data lake.md",
+    "Courses/Data-Intensive Computing.md",
+    "Courses/Digital Communications.md",
     "Courses/Image and Video processing.md",
+    "Courses/Pattern Recognition and Machine Learning.md",
+    "Courses/Signal theory.md",
+    "Courses/Speech and Audio Processing.md",
+    "Machine Learning(DL)/Variational Inference.md",
+    "Machine Learning(DL)/EM, K-means.md",
+    "Signal processing/Kalman Filter.md",
     "Untitled.md",
     "Courses",
     "Machine Learning(DL)/Reinforcement Learning/Policy gradient.md",
@@ -170,24 +187,6 @@
     "Machine Learning(DL)/Reinforcement Learning/TD, Q-Learning, SARSA.md",
     "Data_structure and algorithms/Graph algorithms/Breadth First Search(BFS).md",
     "Job application/ML questions/Metrices.md",
-    "Job application/ML questions/Dropout.md",
-    "Job application/ML questions/Confusion matrix.md",
-    "Job application/ML questions/Batch normalization.md",
-    "Machine Learning(DL)/Semantic segmentation/F-CNN.md",
-    "Job application/ML questions/bottleneck layer.md",
-    "Job application/ML questions/Max pooling layer, fully connected layer.md",
-    "Job application/ML questions/Bias vs variance.md",
-    "Job application/General Questions.md",
-    "Machine Learning(DL)/Semantic segmentation/U-Net.md",
-    "Machine Learning(DL)/Semantic segmentation/Yolov8seg.md",
-    "Machine Learning(DL)/Transfer learning.md",
-    "Machine Learning(DL)/Untitled.md",
-    "Machine Learning(DL)/Diffusion model.md",
-    "Machine Learning(DL)/Variational Inference.md",
-    "Machine Learning(DL)/Tree-based decision models.md",
-    "Machine Learning(DL)/Random Forest.md",
-    "Machine Learning(DL)/NLP to Transformers.md",
-    "Machine Learning(DL)/LSTM.md",
     "Machine Learning(DL)/Semantic segmentation",
     "pictures/Pasted image 20231206183604.png",
     "pictures/Pasted image 20231206173731.png",
@@ -205,7 +204,6 @@
     "Machine Learning(DL)/Dimensionality reduction and feature extraction",
     "Data processing and visualization",
     "Machine Learning(DL)/time-series data",
-    "Job application/ML questions",
-    "Signal processing"
+    "Job application/ML questions"
   ]
 }

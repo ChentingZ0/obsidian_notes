@@ -25,7 +25,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Big data/Data_Intensive_Computing___T3.pdf"
+                "file": "Signal processing/ARMA.pdf"
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big data/Data_Intensive_Computing___T3.pdf",
+                "file": "Signal processing/ARMA.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big data/Data_Intensive_Computing___T3.pdf",
+                "file": "Signal processing/ARMA.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big data/Data_Intensive_Computing___T3.pdf"
+                "file": "Signal processing/ARMA.pdf"
               }
             }
           }
@@ -159,8 +159,15 @@
   },
   "active": "444a6a88799a485b",
   "lastOpenFiles": [
-    "Big data/Airflow.md",
+    "Courses/Signal theory.md",
+    "Signal processing/Stationary vs non-stationary vs ergodicity.md",
+    "Signal processing/ARMA.pdf",
+    "Signal processing/ARMA.md",
+    "Courses/Digital Communications.md",
+    "Thesis Ericcson.md",
+    "SQL/Basics.md",
     "Big data/Data_Intensive_Computing___T3.pdf",
+    "Big data/Airflow.md",
     "Big data/BigTable.md",
     "Big data/Cassandra.md",
     "Big data/Resource management.md",
@@ -172,21 +179,14 @@
     "Big data/Databases.md",
     "Big data/Data lake.md",
     "Courses/Data-Intensive Computing.md",
-    "Courses/Digital Communications.md",
     "Courses/Image and Video processing.md",
     "Courses/Pattern Recognition and Machine Learning.md",
-    "Courses/Signal theory.md",
     "Courses/Speech and Audio Processing.md",
     "Machine Learning(DL)/Variational Inference.md",
     "Machine Learning(DL)/EM, K-means.md",
     "Signal processing/Kalman Filter.md",
     "Untitled.md",
     "Courses",
-    "Machine Learning(DL)/Reinforcement Learning/Policy gradient.md",
-    "Machine Learning(DL)/Reinforcement Learning/Q learning and SARSA.md",
-    "Machine Learning(DL)/Reinforcement Learning/TD, Q-Learning, SARSA.md",
-    "Data_structure and algorithms/Graph algorithms/Breadth First Search(BFS).md",
-    "Job application/ML questions/Metrices.md",
     "Machine Learning(DL)/Semantic segmentation",
     "pictures/Pasted image 20231206183604.png",
     "pictures/Pasted image 20231206173731.png",
@@ -203,7 +203,6 @@
     "Deployment",
     "Machine Learning(DL)/Dimensionality reduction and feature extraction",
     "Data processing and visualization",
-    "Machine Learning(DL)/time-series data",
-    "Job application/ML questions"
+    "Machine Learning(DL)/time-series data"
   ]
 }

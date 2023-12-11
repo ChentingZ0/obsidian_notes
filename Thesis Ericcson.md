@@ -8,9 +8,9 @@ Digital twins, CAD
 
 Traditional pipeline:
 photogrammetry, Ray tracing, path tracing or diffusion
-**Ray tracing** is a technique for modeling [light transport](https://en.wikipedia.org/wiki/Light_transport_theory "Light transport theory") for use in a wide variety of [rendering](https://en.wikipedia.org/wiki/Rendering_(computer_graphics) "Rendering (computer graphics)") algorithms for generating digital images.
+**Ray tracing** is a technique for modeling light transport for use in a wide variety of rendering algorithms for generating digital images.
 
-Rasterization technique utilized for rendering photorealistic scenes.
+**Rasterization** technique utilized for rendering photorealistic scenes.
 It falls under the category of Radiance Fields, much like Nerfs.
 
 

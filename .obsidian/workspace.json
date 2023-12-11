@@ -23,9 +23,11 @@
             "id": "444a6a88799a485b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Signal processing/ARMA.pdf"
+                "file": "Courses/Digital Communication.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Signal processing/ARMA.pdf",
+                "file": "Courses/Digital Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Signal processing/ARMA.pdf",
+                "file": "Courses/Digital Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Signal processing/ARMA.pdf"
+                "file": "Courses/Digital Communication.md"
               }
             }
           }
@@ -159,11 +161,11 @@
   },
   "active": "444a6a88799a485b",
   "lastOpenFiles": [
+    "Signal processing/ARMA.pdf",
     "Courses/Signal theory.md",
     "Signal processing/Stationary vs non-stationary vs ergodicity.md",
-    "Signal processing/ARMA.pdf",
     "Signal processing/ARMA.md",
-    "Courses/Digital Communications.md",
+    "Courses/Digital Communication.md",
     "Thesis Ericcson.md",
     "SQL/Basics.md",
     "Big data/Data_Intensive_Computing___T3.pdf",

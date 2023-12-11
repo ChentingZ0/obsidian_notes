@@ -1,0 +1,5 @@
+- Channel Coding
+- Hypothesis testing
+- Parameter estimation
+- Source coding 
+- Shannon theorems 123

@@ -19,3 +19,6 @@ T = kwargs.get('T', 20)
 - `zip(.., ..)`
 
 `A**(n)` for exponentiation
+
+
+`time.sleep`

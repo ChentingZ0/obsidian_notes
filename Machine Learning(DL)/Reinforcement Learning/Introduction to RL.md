@@ -52,7 +52,7 @@ Example: [[Policy gradient]], [[Trust region policy optimization]]
 - **Value-based**: estimate value function or Q-function of the optimal policy
 Example: [[Q-Learning]], [[DQN]] [[Temporal difference learning]], [[Fitted value iteration]]
 - **Actor-critic**: estimate value function or Q-function of the current policy, use it to improve policy
-Example: [[Asynchronous advantage actor-critic (A3C)]], [[Soft actor-critic (SAC)]]
+Example: [[Actor-critic algorithm]], [[Soft actor-critic (SAC)]]
 - **Model-based RL**: estimate the transition model
 Example: [[Dynamic programming in MDP]], [[Guided policy search]]
 

@@ -17,12 +17,14 @@ TD learning is like updating value in every time step and does not require wait 
 
 
 ### TD(0)
-Compared to Monte Carlo updating rule, TD method only need to wait until the next time step to create an update using the observed reward Rt+1 and the estimate V (St+1).
+Compared to Monte Carlo updating rule, TD method only need to wait until the next time step to create an update using the observed reward $R_{t+1}$ and the estimate $V(S_{t+1})$.
 
 The algorithm is illustrated as follows:
 We have α as a learning factor, γ as a discount factor. 
 ![book](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*XgYfwtziyensbe3xLN0XUA.png)
 ![TD](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*LBzjmR-JJuofWUyWWJ-Txw.png)
+Temporal difference learning is driven by the TD error. $[R_{t+1}+\gamma V(S_{t+1})-V(S_{t})]$
+
 Backup diagram:
 ![backup](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*uYvVjE__r4tsAz8E.png)
 ### SARSA
@@ -36,6 +38,11 @@ The algorithm is illustrated as follows:
 ![book](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*D0IYuvz36Gefp4wTmhPV7g.png)
 ![SARSA](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*eEEOhaWLP3k-YgbGpXquXg.png)
 ![backup](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*eCxNf0x_6EQbrL-2.png)
+$\theta$ is parametrized in this Q function.
+![[Pasted image 20231216173312.png]]
+
+
+
 ### Q-learning
 Q-learning is an **off-policy** algorithm. Q-learning is very similar to Sarsa, except that in the update stage of Q(S,A), we take the maximum over next state-action pairs.
 
@@ -44,6 +51,7 @@ In Off-policy learning, we evaluate target policy (π) while following another p
 The algorithm is illustrated as follows:
 ![book](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*EnRhlXdsJ_1DFyaweS33bQ.png)
 ![Q learning](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*5jl8JLDcmQnQaCOvjqK0Bg.png)
+![[Pasted image 20231216173632.png]]
 
 ### Expected Sarsa
 Expected Sarsa is very similar to Q learning, except that instead of taking the maximum over next state–action pairs it uses the expected value, considering the probability of each action to happened in the policy

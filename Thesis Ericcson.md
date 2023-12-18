@@ -6,13 +6,15 @@ Integrating Real-time BIM with Gaussian Splatting for Seamless Object Identifica
 Digital representations of the physical and functional characteristics of places.
 Digital twins, CAD
 
-Traditional pipeline:
+Traditional pipeline: 
 photogrammetry, Ray tracing, path tracing or diffusion
-**Ray tracing** is a technique for modeling light transport for use in a wide variety of rendering algorithms for generating digital images.
+**Ray tracing** is an advanced way of rendering light and shadows in a scene.
 
 **Rasterization** technique utilized for rendering photorealistic scenes.
 It falls under the category of Radiance Fields, much like Nerfs.
+Rasterize refers to the process of converting a vector-based image or object into a raster or bitmap format
 
+**BMP** file format, bitmap: raster graphics image file format used to store bitmap digital images.
 
 - ***Radiance Fields***:
 Refer to a concept in computer graphics and computer vision. A radiance field is a 3D representation of the radiance, which describes the amount of light that travels in a particular direction through a point in space.

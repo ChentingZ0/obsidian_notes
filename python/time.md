@@ -6,6 +6,9 @@ n = 40
 fib = fibonacci(n)
 end = time.time()
 print(f'Computing it took {end-start} seconds')
+
+# time.sleep: specifies the duration of the pause.
+time.sleep(0.05)
 ```
 
 #### ipdb

@@ -39,3 +39,32 @@ If there's even one `False` in the input, `np.all()` returns `False`.
 
 ==`np.linalg`==
 np.linalg.matrix_power(A, n)
+
+==`np.convolve`==
+
+==`np.meshgrid`==
+Create a rectangular grid out of two given one-dimensional arrays. Useful for converting coordinate vectors.
+
+- `np.meshgrid` will create two 2D matrices corresponding to all pairs of `(X, Y)` in the two arrays.
+- The first matrix (`XX`) will be a replication of the x-axis vector for each row and will contain the x-coordinates.
+- The second matrix (`YY`) will be a replication of the y-axis vector for each column and will contain the y-coordinates.
+- Example:
+```python
+import numpy as np
+
+x = np.array([0, 1, 2])
+y = np.array([0, 1, 2, 3])
+XX, YY = np.meshgrid(x, y)
+
+# output:
+XX = [[0 1 2]
+      [0 1 2]
+      [0 1 2]
+      [0 1 2]]
+
+YY = [[0 0 0]
+      [1 1 1]
+      [2 2 2]
+      [3 3 3]]
+
+```

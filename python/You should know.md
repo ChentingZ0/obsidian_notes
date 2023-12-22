@@ -16,9 +16,5 @@ T = kwargs.get('T', 20)
 
 - `it = iter(iterable)`
 
-- `zip(.., ..)`
-
 `A**(n)` for exponentiation
 
-
-`time.sleep`

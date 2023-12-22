@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning(DL)/Reinforcement Learning/DQN.md",
+                "file": "python/Numpy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning(DL)/Reinforcement Learning/DQN.md",
+                "file": "python/Numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning(DL)/Reinforcement Learning/DQN.md",
+                "file": "python/Numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning(DL)/Reinforcement Learning/DQN.md"
+                "file": "python/Numpy.md"
               }
             }
           }
@@ -148,11 +148,19 @@
   },
   "active": "30cc5d1f31564f1a",
   "lastOpenFiles": [
+    "python/namedtuple.md",
+    "Pytorch/gather.md",
+    "Pasted image 20231218213826.png",
+    "Pasted image 20231218213712.png",
+    "Machine Learning(DL)/Tensorflow/CNN.md",
+    "Pytorch",
+    "python/zip operation.md",
+    "python/You should know.md",
     "python/time.md",
     "python/String operations.md",
-    "python/You should know.md",
-    "python/Seasborn.md",
     "python/Numpy.md",
+    "Machine Learning(DL)/Reinforcement Learning/DQN.md",
+    "python/Seasborn.md",
     "python/Matplotlib.md",
     "python/List Operations.md",
     "python/File Operations.md",
@@ -163,7 +171,6 @@
     "Machine Learning(DL)/Reinforcement Learning/TD, Q-Learning, SARSA.md",
     "Machine Learning(DL)/Reinforcement Learning/Q learning and SARSA.md",
     "Machine Learning(DL)/Reinforcement Learning/Actor-critic algorithm.md",
-    "Machine Learning(DL)/Reinforcement Learning/DQN.md",
     "Machine Learning(DL)/Reinforcement Learning/Dynamic programming in MDP.md",
     "Machine Learning(DL)/Reinforcement Learning/Examples.md",
     "Machine Learning(DL)/Reinforcement Learning/Fitted value iteration.md",
@@ -171,10 +178,6 @@
     "Machine Learning(DL)/Reinforcement Learning/Imitation Learning.md",
     "Machine Learning(DL)/Reinforcement Learning/Introduction to RL.md",
     "Machine Learning(DL)/Reinforcement Learning/Markov Decision Process.md",
-    "Machine Learning(DL)/Reinforcement Learning/Monte Carlo methods.md",
-    "Machine Learning(DL)/Reinforcement Learning/Policy gradient.md",
-    "Machine Learning(DL)/Reinforcement Learning/Prerequisites.md",
-    "Machine Learning(DL)/Reinforcement Learning/Soft actor-critic (SAC).md",
     "pictures/Pasted image 20231216184750.png",
     "pictures/Pasted image 20231216184744.png",
     "pictures/Pasted image 20231216181255.png",
@@ -182,13 +185,10 @@
     "pictures/Pasted image 20231216173632.png",
     "pictures/Pasted image 20231212142840.png",
     "Signal processing/ARMA.pdf",
-    "Untitled",
     "Big data/Data_Intensive_Computing___T3.pdf",
     "Courses",
     "Machine Learning(DL)/Semantic segmentation",
     "pictures/Pasted image 20231206183604.png",
-    "pictures/Pasted image 20231206173731.png",
-    "pictures/Pasted image 20231206174531.png",
     "Machine Learning(DL)/YOLO",
     "python",
     "Deployment",

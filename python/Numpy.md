@@ -3,8 +3,9 @@
  Shape: `(m, n)`-> is always a tuple
 1. Identity matrix of size $n\times n$: ==`np.eye(n)`==
 2. All-zeroes matrix of size $m\times n$ : ==`np.zeros((m,n))`==
-3. All-ones matrix of size $m\times n$: ==`np.ones((m,n))`==
-4. Using lists: ==`B = np.array([[0,1,0],[1,0,1],[0,1,0]])`==
+3. ==`np.zeros_like()`==
+4. All-ones matrix of size $m\times n$: ==`np.ones((m,n))`==
+5. Using lists: ==`B = np.array([[0,1,0],[1,0,1],[0,1,0]])`==
 
 
 Matrix multiplication: ==`A @ B`== or `np.matmul(A,B)`

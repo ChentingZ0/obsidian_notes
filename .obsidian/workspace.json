@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "edc74df85b4ec838",
+        "id": "bbbce5b8ed072368",
         "type": "tabs",
         "children": [
           {
-            "id": "30cc5d1f31564f1a",
+            "id": "5dbeb933c71d9267",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Numpy.md",
+                "file": "GS Object Recognition/Paper code analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/Numpy.md",
+                "file": "GS Object Recognition/Paper code analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/Numpy.md",
+                "file": "GS Object Recognition/Paper code analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Numpy.md"
+                "file": "GS Object Recognition/Paper code analysis.md"
               }
             }
           }
@@ -146,38 +146,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30cc5d1f31564f1a",
+  "active": "5dbeb933c71d9267",
   "lastOpenFiles": [
-    "python/namedtuple.md",
+    "GS Object Recognition/Thesis Ericcson brief.md",
+    "GS Object Recognition/Paper code analysis.md",
+    "python/conda/Basic commands.md",
+    "Pasted image 20240116132152.png",
     "Pytorch/gather.md",
-    "Pasted image 20231218213826.png",
-    "Pasted image 20231218213712.png",
-    "Machine Learning(DL)/Tensorflow/CNN.md",
-    "Pytorch",
-    "python/zip operation.md",
-    "python/You should know.md",
-    "python/time.md",
-    "python/String operations.md",
-    "python/Numpy.md",
-    "Machine Learning(DL)/Reinforcement Learning/DQN.md",
-    "python/Seasborn.md",
-    "python/Matplotlib.md",
-    "python/List Operations.md",
-    "python/File Operations.md",
+    "python/conda",
+    "Pytorch/Version.md",
     "python/Decorators.md",
-    "others/Virtual environment.md",
+    "python/File Operations.md",
+    "python/namedtuple.md",
+    "python/Numpy.md",
+    "python/Seasborn.md",
+    "python/String operations.md",
+    "python/time.md",
+    "python/You should know.md",
+    "python/zip operation.md",
     "others/python环境配置技巧.md",
-    "pictures/Pasted image 20231216173312.png",
-    "Machine Learning(DL)/Reinforcement Learning/TD, Q-Learning, SARSA.md",
+    "others/Virtual environment.md",
     "Machine Learning(DL)/Reinforcement Learning/Q learning and SARSA.md",
-    "Machine Learning(DL)/Reinforcement Learning/Actor-critic algorithm.md",
-    "Machine Learning(DL)/Reinforcement Learning/Dynamic programming in MDP.md",
-    "Machine Learning(DL)/Reinforcement Learning/Examples.md",
-    "Machine Learning(DL)/Reinforcement Learning/Fitted value iteration.md",
-    "Machine Learning(DL)/Reinforcement Learning/Guided policy search.md",
-    "Machine Learning(DL)/Reinforcement Learning/Imitation Learning.md",
+    "GS Object Recognition",
+    "Machine Learning(DL)/Reinforcement Learning/TD, Q-Learning, SARSA.md",
+    "Machine Learning(DL)/NLP to Transformers.md",
     "Machine Learning(DL)/Reinforcement Learning/Introduction to RL.md",
+    "Machine Learning(DL)/Reinforcement Learning/Fitted value iteration.md",
+    "Machine Learning(DL)/Reinforcement Learning/Examples.md",
     "Machine Learning(DL)/Reinforcement Learning/Markov Decision Process.md",
+    "Machine Learning(DL)/Reinforcement Learning/Imitation Learning.md",
+    "Machine Learning(DL)/Reinforcement Learning/Dynamic programming in MDP.md",
+    "Machine Learning(DL)/Reinforcement Learning/Actor-critic algorithm.md",
+    "pictures/Pasted image 20231218213712.png",
+    "pictures/Pasted image 20231218213826.png",
+    "Pytorch",
+    "pictures/Pasted image 20231216173312.png",
     "pictures/Pasted image 20231216184750.png",
     "pictures/Pasted image 20231216184744.png",
     "pictures/Pasted image 20231216181255.png",
@@ -188,11 +191,8 @@
     "Big data/Data_Intensive_Computing___T3.pdf",
     "Courses",
     "Machine Learning(DL)/Semantic segmentation",
-    "pictures/Pasted image 20231206183604.png",
     "Machine Learning(DL)/YOLO",
     "python",
-    "Deployment",
-    "Machine Learning(DL)/Dimensionality reduction and feature extraction",
-    "Data processing and visualization"
+    "Deployment"
   ]
 }

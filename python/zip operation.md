@@ -36,3 +36,16 @@ numbers = (1, 2, 3)
 letters = ('a', 'b', 'c')
 ```
 
+- **Iteration**
+Given two strings, iterate through characters in them simutaneously
+It can also be different data structure zipped together
+```python
+s: str, t: str
+for char1, char2 in zip(s, t):
+	...
+=
+
+for i in range(len(s)):
+	char1 = s[i]
+	char2 = t[i]
+```

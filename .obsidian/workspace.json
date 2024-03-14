@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS Object Recognition/Paper code analysis.md",
+                "file": "Data_structure and algorithms/Backtracking/Backtracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200
   },
   "right": {
     "id": "fdaaef97b21bb56a",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GS Object Recognition/Paper code analysis.md",
+                "file": "Data_structure and algorithms/Backtracking/Backtracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GS Object Recognition/Paper code analysis.md",
+                "file": "Data_structure and algorithms/Backtracking/Backtracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GS Object Recognition/Paper code analysis.md"
+                "file": "Data_structure and algorithms/Backtracking/Backtracking.md"
               }
             }
           }
@@ -148,51 +148,51 @@
   },
   "active": "5dbeb933c71d9267",
   "lastOpenFiles": [
-    "GS Object Recognition/Thesis Ericcson brief.md",
-    "GS Object Recognition/Paper code analysis.md",
-    "python/conda/Basic commands.md",
-    "Pasted image 20240116132152.png",
-    "Pytorch/gather.md",
-    "python/conda",
-    "Pytorch/Version.md",
-    "python/Decorators.md",
-    "python/File Operations.md",
-    "python/namedtuple.md",
-    "python/Numpy.md",
-    "python/Seasborn.md",
+    "Data_structure and algorithms/归类.md",
+    "Data_structure and algorithms/Dynamic programming/House robber.md",
+    "Data_structure and algorithms/Backtracking/Backtracking.md",
+    "Data_structure and algorithms/Backtracking/Branch and Bound.md",
+    "Data_structure and algorithms/Backtracking/Maximum Length of a Concatenated String with Unique Characters.md",
+    "Data_structure and algorithms/Backtracking/N Queens problem.md",
+    "Data_structure and algorithms/Backtracking/Summary 解题思路.md",
+    "Data_structure and algorithms/Dynamic programming/Summary 解题思路.md",
+    "Data_structure and algorithms/Dynamic programming/Untitled.md",
+    "Data_structure and algorithms/Backtracking/Permutations of a string.md",
+    "Data_structure and algorithms/Backtracking/Subset problems.md",
+    "Data_structure and algorithms/Two pointers/Sum of three.md",
+    "python/List Operations.md",
+    "Data_structure and algorithms/Two pointers/Sum of two.md",
+    "Data_structure and algorithms/Sorting Algorithms/Sorted vs sort().md",
     "python/String operations.md",
-    "python/time.md",
-    "python/You should know.md",
+    "Data_structure and algorithms/Data structure/Linear Data Structure.md",
+    "Pasted image 20240313143913.png",
+    "Pasted image 20240313143854.png",
+    "python/Subprocess.md",
+    "Data_structure and algorithms/Data structure/HashMap.md",
     "python/zip operation.md",
-    "others/python环境配置技巧.md",
-    "others/Virtual environment.md",
-    "Machine Learning(DL)/Reinforcement Learning/Q learning and SARSA.md",
+    "python/Dictionary operations.md",
+    "python/Matplotlib.md",
+    "python/File Operations.md",
+    "Data_structure and algorithms/Backtracking/graph coloring problem.md",
+    "Untitled.md",
+    "skin care",
+    "pictures/Pasted image 20240311194904.png",
+    "Data_structure and algorithms/Dynamic programming/Longest Palindromic Substring.md",
+    "Data_structure and algorithms/Data structure/LinkedList",
+    "Data_structure and algorithms/Two pointers",
+    "pictures/Pasted image 20240311194803.png",
+    "pictures/Pasted image 20240229200156.png",
+    "pictures/Pasted image 20240229194602.png",
+    "Docker",
+    "Missing Semesters",
+    "pictures/Pasted image 20240116132152 1.png",
+    "Missing Semesters/git",
+    "pictures/Pasted image 20240116153350 1.png",
+    "pictures/Pasted image 20240116153336 1.png",
+    "pictures/Pasted image 20240116152950 1.png",
+    "Pytorch/tensor operations",
+    "python/conda",
     "GS Object Recognition",
-    "Machine Learning(DL)/Reinforcement Learning/TD, Q-Learning, SARSA.md",
-    "Machine Learning(DL)/NLP to Transformers.md",
-    "Machine Learning(DL)/Reinforcement Learning/Introduction to RL.md",
-    "Machine Learning(DL)/Reinforcement Learning/Fitted value iteration.md",
-    "Machine Learning(DL)/Reinforcement Learning/Examples.md",
-    "Machine Learning(DL)/Reinforcement Learning/Markov Decision Process.md",
-    "Machine Learning(DL)/Reinforcement Learning/Imitation Learning.md",
-    "Machine Learning(DL)/Reinforcement Learning/Dynamic programming in MDP.md",
-    "Machine Learning(DL)/Reinforcement Learning/Actor-critic algorithm.md",
-    "pictures/Pasted image 20231218213712.png",
-    "pictures/Pasted image 20231218213826.png",
-    "Pytorch",
-    "pictures/Pasted image 20231216173312.png",
-    "pictures/Pasted image 20231216184750.png",
-    "pictures/Pasted image 20231216184744.png",
-    "pictures/Pasted image 20231216181255.png",
-    "pictures/Pasted image 20231216174637.png",
-    "pictures/Pasted image 20231216173632.png",
-    "pictures/Pasted image 20231212142840.png",
-    "Signal processing/ARMA.pdf",
-    "Big data/Data_Intensive_Computing___T3.pdf",
-    "Courses",
-    "Machine Learning(DL)/Semantic segmentation",
-    "Machine Learning(DL)/YOLO",
-    "python",
-    "Deployment"
+    "Pytorch"
   ]
 }

@@ -1,0 +1,3 @@
+ LiDAR data product is an extensive collection of point cloud data (millions to billions) of accurate 3-dimensional (X, Y, Z) points with other attributes like intensity, classification of features and GPS time. elevation(仰角)
+
+There are two standard and commonly used types of LiDAR data format: .**_LAS_** and **_.LAZ_**. The LAS file format is a standard binary file format to store and interchange 3-d point cloud data.
